@@ -1,0 +1,13 @@
+{
+  "issue": {
+    "clearAssignees": "Hi, Thanks for the working on this issue!\n\nWe will return this issue assignment to initial state.\nIf you are working on this issue and would like to be reassigned, please contact us.",
+    "addHelpWanted": "Help!, This issue has not been assigned or PR created even after three days.\nCould someone please work on this issue?😎"
+  },
+  "pullRequest": {
+    "addReviewer": "Please review this PR😎",
+    "remindReview": "Hi, There are PR that you haven't reviewed yet.\nCould it be that you've forgotten to review them?😎\nIf you're busy right now, please remove yourself from the review.",
+    "joinMaintainer": "Hi, Thanks for the PR!\n\nA week has passed since this PR was created, so maintainers will be joining this PR.",
+    "addHelpWanted": "Help!, This PR has not been merged even after a week.\nCould someone please fix this PR?😎",
+    "addReviewWanted": "Help!, This PR has not been reviewed even after three days.\nCould someone please review this PR?😎"
+  }
+}
