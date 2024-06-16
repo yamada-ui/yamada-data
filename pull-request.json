@@ -1,6 +1,8 @@
 {
   "requireApprovalCount": 2,
   "assignReviewerCount": 4,
+  "remindDay": 1,
+  "addReviewWantedDay": 3,
   "addHelpWantedDay": 7,
   "excludeReviewers": ["hirotomoyamada", "hajimemat"]
 }
