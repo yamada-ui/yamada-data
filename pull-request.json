@@ -1,5 +1,5 @@
 {
-  "requireApprovalCount": 2,
+  "requireApprovalCount": 1,
   "assignReviewerCount": 4,
   "remindDay": 1,
   "addReviewWantedDay": 1,
