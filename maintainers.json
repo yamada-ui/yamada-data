@@ -14,6 +14,20 @@
     "discord": { "id": "434987704162451467" }
   },
   {
+    "name": { "en": "Kazuki Shirai", "ja": "Kazuki Shirai" },
+    "description": {
+      "en": "Security risk assessment, Web engineer.",
+      "ja": "セキュリティリスクアセスメント。Webエンジニア。"
+    },
+    "github": {
+      "id": "108yen",
+      "icon": "https://avatars.githubusercontent.com/u/9676316?v=4",
+      "url": "https://github.com/108yen"
+    },
+    "x": { "url": "https://x.com/108yen___" },
+    "discord": { "id": "281653488084189184" }
+  },
+  {
     "name": { "en": "Shintaro Jokagi", "ja": "Shintaro Jokagi" },
     "description": {
       "en": "Passionate about web development and a student at the University of Auckland.",
@@ -26,6 +40,44 @@
     },
     "x": { "url": "https://x.com/taroj1205" },
     "discord": { "id": "631578250144907269" }
+  },
+  {
+    "name": { "en": "Yuto Ichinose", "ja": "Ichinose Yuto" },
+    "description": { "en": "Web engineer, a university student.", "ja": "Webエンジニア。大学生。" },
+    "github": {
+      "id": "illionillion",
+      "icon": "https://avatars.githubusercontent.com/u/60034520?v=4",
+      "url": "https://github.com/illionillion"
+    },
+    "x": { "url": "https://x.com/dimyasvariant" },
+    "discord": { "id": "1000629510078738432" }
+  },
+  {
+    "name": { "en": "koralle", "ja": "koralle" },
+    "description": {
+      "en": "Front-end engineer, likes React and Neovim.",
+      "ja": "ReactとNeovimが好きなフロントエンドエンジニア。"
+    },
+    "github": {
+      "id": "koralle",
+      "icon": "https://avatars.githubusercontent.com/u/33865215?v=4",
+      "url": "https://github.com/koralle"
+    },
+    "x": { "url": "https://x.com/koralle_tech" },
+    "discord": { "id": "702799711404425246" }
+  },
+  {
+    "name": { "en": "Kazuhiro Kumagai", "ja": "Kazuhiro Kumagai" },
+    "description": {
+      "en": "Self-proclaimed front-end engineer.",
+      "ja": "自称フロントエンドエンジニア。"
+    },
+    "github": {
+      "id": "cidkumagai",
+      "icon": "https://avatars.githubusercontent.com/u/78473460?v=4",
+      "url": "https://github.com/cidkumagai"
+    },
+    "discord": { "id": "831092312238719026" }
   },
   {
     "name": { "en": "Tomoya Nakamura", "ja": "Tomoya Nakamura" },
@@ -42,44 +94,14 @@
     "discord": { "id": "770535018040655873" }
   },
   {
-    "name": { "en": "Kazuhiro Kumagai", "ja": "Kazuhiro Kumagai" },
-    "description": {
-      "en": "Self-proclaimed front-end engineer.",
-      "ja": "自称フロントエンドエンジニア。"
-    },
+    "name": { "en": "Kei Setoguchi", "ja": "Kei Setoguchi" },
+    "description": { "en": "Engineer based in Fukuoka.", "ja": "福岡在住のエンジニア。" },
     "github": {
-      "id": "cidkumagai",
-      "icon": "https://avatars.githubusercontent.com/u/78473460?v=4",
-      "url": "https://github.com/cidkumagai"
+      "id": "setodeve",
+      "icon": "https://avatars.githubusercontent.com/u/83833293?v=4",
+      "url": "https://github.com/setodeve"
     },
-    "discord": { "id": "831092312238719026" }
-  },
-  {
-    "name": { "en": "Kazuki Shirai", "ja": "Kazuki Shirai" },
-    "description": {
-      "en": "Security risk assessment, Web engineer.",
-      "ja": "セキュリティリスクアセスメント。Webエンジニア。"
-    },
-    "github": {
-      "id": "108yen",
-      "icon": "https://avatars.githubusercontent.com/u/9676316?v=4",
-      "url": "https://github.com/108yen"
-    },
-    "x": { "url": "https://x.com/108yen___" },
-    "discord": { "id": "281653488084189184" }
-  },
-  {
-    "name": { "en": "koralle", "ja": "koralle" },
-    "description": {
-      "en": "Front-end engineer, likes React and Neovim.",
-      "ja": "ReactとNeovimが好きなフロントエンドエンジニア。"
-    },
-    "github": {
-      "id": "koralle",
-      "icon": "https://avatars.githubusercontent.com/u/33865215?v=4",
-      "url": "https://github.com/koralle"
-    },
-    "x": { "url": "https://x.com/koralle_tech" },
-    "discord": { "id": "702799711404425246" }
+    "x": { "url": "https://x.com/hjuko00" },
+    "discord": { "id": "441961406980554772" }
   }
 ]

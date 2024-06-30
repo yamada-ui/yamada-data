@@ -1,25 +1,31 @@
 [
   {
-    "name": { "en": "Yuto Ichinose", "ja": "Ichinose Yuto" },
-    "description": { "en": "Web engineer, a university student.", "ja": "Webエンジニア。大学生。" },
-    "github": {
-      "id": "illionillion",
-      "icon": "https://avatars.githubusercontent.com/u/60034520?v=4",
-      "url": "https://github.com/illionillion"
+    "name": { "en": "Ryota Nakazono", "ja": "Ryota Nakazono" },
+    "description": {
+      "en": "Front-end engineer, developing web applications.",
+      "ja": "フロントエンドエンジニア。Webアプリケーションの開発を行っている。"
     },
-    "x": { "url": "https://x.com/dimyasvariant" },
-    "discord": { "id": "1000629510078738432" }
+    "github": {
+      "id": "zonoryo17",
+      "icon": "https://avatars.githubusercontent.com/u/88890984?v=4",
+      "url": "https://github.com/zonoryo17"
+    },
+    "x": { "url": "https://x.com/zonoryo03" },
+    "discord": { "id": "968897190783246416" }
   },
   {
-    "name": { "en": "Kei Setoguchi", "ja": "Kei Setoguchi" },
-    "description": { "en": "Engineer based in Fukuoka.", "ja": "福岡在住のエンジニア。" },
-    "github": {
-      "id": "setodeve",
-      "icon": "https://avatars.githubusercontent.com/u/83833293?v=4",
-      "url": "https://github.com/setodeve"
+    "name": { "en": "Hayato Nakamura", "ja": "Hayato Nakamura" },
+    "description": {
+      "en": "A college student who enjoys teaching programming to middle and high school students.",
+      "ja": "中高生にプログラミングを教えることを楽しんでいる大学生。"
     },
-    "x": { "url": "https://x.com/hjuko00" },
-    "discord": { "id": "441961406980554772" }
+    "github": {
+      "id": "Hayato1031",
+      "icon": "https://avatars.githubusercontent.com/u/105223982?v=4",
+      "url": "https://github.com/Hayato1031"
+    },
+    "x": { "url": "https://x.com/lit_myura" },
+    "discord": { "id": "663701704990130177" }
   },
   {
     "name": { "en": "Kurakake Kaito", "ja": "Kurakake Kaito" },
@@ -46,20 +52,6 @@
     "discord": { "id": "1244260714919497809" }
   },
   {
-    "name": { "en": "Hayato Nakamura", "ja": "Hayato Nakamura" },
-    "description": {
-      "en": "A college student who enjoys teaching programming to middle and high school students.",
-      "ja": "中高生にプログラミングを教えることを楽しんでいる大学生。"
-    },
-    "github": {
-      "id": "Hayato1031",
-      "icon": "https://avatars.githubusercontent.com/u/105223982?v=4",
-      "url": "https://github.com/Hayato1031"
-    },
-    "x": { "url": "https://x.com/lit_myura" },
-    "discord": { "id": "663701704990130177" }
-  },
-  {
     "name": { "en": "Keiju Fujiwara", "ja": "Keiju Fujiwara" },
     "description": {
       "en": "Back-end engineer currently studying front-end engineering.",
@@ -74,18 +66,17 @@
     "discord": { "id": "385445321263677440" }
   },
   {
-    "name": { "en": "Ryota Nakazono", "ja": "Ryota Nakazono" },
+    "name": { "en": "Tomoya Matsubara", "ja": "Tomoya Matsubara" },
     "description": {
-      "en": "Front-end engineer, developing web applications.",
-      "ja": "フロントエンドエンジニア。Webアプリケーションの開発を行っている。"
+      "en": "From Web development to machine learning.",
+      "ja": "Web開発から機械学習まで何でもやるエンジニア。"
     },
     "github": {
-      "id": "zonoryo17",
-      "icon": "https://avatars.githubusercontent.com/u/88890984?v=4",
-      "url": "https://github.com/zonoryo17"
+      "id": "Tomoya-Matsubara",
+      "icon": "https://avatars.githubusercontent.com/u/92769722?v=4",
+      "url": "https://github.com/Tomoya-Matsubara"
     },
-    "x": { "url": "https://x.com/zonoryo03" },
-    "discord": { "id": "968897190783246416" }
+    "discord": { "id": "1176786237944766495" }
   },
   {
     "name": { "en": "Hiro Nakanishi", "ja": "Hiro Nakanishi" },
