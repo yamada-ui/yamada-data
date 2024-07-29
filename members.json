@@ -160,5 +160,19 @@
       "url": "https://github.com/mokun632"
     },
     "discord": { "id": "1221042700304912437" }
+  },
+  {
+    "name": { "en": "Hirono Kobari", "ja": "Hirono Kobari" },
+    "description": {
+      "en": "Front-end engineer, interested in typography. ",
+      "ja": "フロントエンドエンジニア。タイポグラフィに興味があります。"
+    },
+    "github": {
+      "id": "hironokobari",
+      "icon": "https://avatars.githubusercontent.com/u/129595457?v=4",
+      "url": "https://github.com/hironokobari"
+    },
+    "x": { "url": "https://x.com/unikoroshi0" },
+    "discord": { "id": "1100994785185103913" }
   }
 ]
