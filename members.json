@@ -188,5 +188,19 @@
     },
     "x": { "url": "https://x.com/odendayoko" },
     "discord": { "id": "413329189635227650" }
+  },
+  {
+    "name": { "en": "Kazuya Kumakura", "ja": "Kazuya Kumakura" },
+    "description": {
+      "en": "Front-end engineer, developing web applications.",
+      "ja": "フロントエンドエンジニア。Webアプリケーションの開発を行っています。"
+    },
+    "github": {
+      "id": "bearone236",
+      "icon": "https://avatars.githubusercontent.com/u/89678674?v=4",
+      "url": "https://github.com/bearone236"
+    },
+    "x": { "url": "https://x.com/K_K_2306" },
+    "discord": { "id": "1155273789593112616" }
   }
 ]
