@@ -6,6 +6,7 @@
   "addHelpWantedDay": 7,
   "excludeReviewers": ["hirotomoyamada", "hajimemat", "Shunii85"],
   "preferredReviewers": {
+    "hirotomoyamada": ["108yen"],
     "odendayoko": ["hirotomoyamada", "hironokobari"],
     "hironokobari": ["hirotomoyamada", "odendayoko"],
     "haru-036": ["108yen", "Shunii85"],
