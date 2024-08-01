@@ -4,5 +4,20 @@
   "remindDay": 1,
   "addReviewWantedDay": 1,
   "addHelpWantedDay": 7,
-  "excludeReviewers": ["hirotomoyamada", "hajimemat", "Shunii85"]
+  "excludeReviewers": ["hirotomoyamada", "hajimemat", "Shunii85"],
+  "preferredReviewers": {
+    "odendayoko": ["hirotomoyamada", "hironokobari"],
+    "hironokobari": ["hirotomoyamada", "odendayoko"],
+    "haru-036": ["108yen", "Shunii85"],
+    "Shunii85": ["108yen", "haru-036"],
+    "bearone236": ["illionillion", "quantumshiro"],
+    "quantumshiro": ["illionillion", "bearone236"],
+    "cidkumagai": ["taroj1205"],
+    "Tomoya-Matsubara": ["koralle", "Hayato1031"],
+    "Hayato1031": ["koralle", "Tomoya-Matsubara"],
+    "kurakke": ["nakayan5", "fffk10"],
+    "fffk10": ["nakayan5", "kurakke"],
+    "Haru-0001": ["setodeve", "zonoryo17"],
+    "zonoryo17": ["setodeve", "Haru-0001"]
+  }
 }
