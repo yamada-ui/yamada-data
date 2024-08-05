@@ -38081,5 +38081,101 @@
     "Shunii85": null,
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-05": {
+    "108yen": {
+      "issues": [
+        {
+          "number": 23,
+          "title": "Setup `Vercel`",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/23",
+          "created_at": "2024-08-05T12:31:47Z",
+          "closed_at": null
+        },
+        {
+          "number": 22,
+          "title": "Add `README.md`",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/22",
+          "created_at": "2024-08-05T10:22:30Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2426#pullrequestreview-2218895653",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2426",
+          "submitted_at": "2024-08-05T12:42:45Z"
+        }
+      ]
+    },
+    "cidkumagai": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2347#issuecomment-2268772222",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2347",
+          "created_at": "2024-08-05T10:47:26Z"
+        }
+      ]
+    },
+    "hinataOhyama": {
+      "pullRequests": [
+        {
+          "number": 2427,
+          "title": "EmblaCarouselTypeがexportされていない",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2427",
+          "created_at": "2024-08-05T13:51:12Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "setodeve": null,
+    "hirotomoyamada": {
+      "pullRequests": [
+        {
+          "number": 2426,
+          "title": "Adjusted weekstart calculation in CI script",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2426",
+          "created_at": "2024-08-05T12:41:24Z",
+          "closed_at": "2024-08-05T12:47:02Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": {
+      "issues": [
+        {
+          "number": 2425,
+          "title": "`MonthPicker`で年を変更するとき、初期値の年が選択されていない",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2425",
+          "created_at": "2024-08-05T11:15:23Z",
+          "closed_at": null
+        },
+        {
+          "number": 2424,
+          "title": "`MonthPicker`の`defaultType`の初期値がyearと書かれている",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2424",
+          "created_at": "2024-08-05T11:01:46Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
