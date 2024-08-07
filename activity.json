@@ -38482,5 +38482,190 @@
         }
       ]
     }
+  },
+  "2024-08-07": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2441#pullrequestreview-2224609854",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2441",
+          "submitted_at": "2024-08-07T12:11:37Z"
+        }
+      ]
+    },
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2442#pullrequestreview-2222748114",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2442",
+          "submitted_at": "2024-08-07T06:34:42Z"
+        }
+      ]
+    },
+    "taroj1205": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/315#issuecomment-2272304206",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/315",
+          "created_at": "2024-08-06T23:04:12Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 401,
+          "title": "Improve `footer` component examples",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/401",
+          "created_at": "2024-08-06T22:24:46Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2439#pullrequestreview-2224419977",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2439",
+          "submitted_at": "2024-08-07T11:37:50Z"
+        }
+      ]
+    },
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2439#pullrequestreview-2224416901",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2439",
+          "submitted_at": "2024-08-07T11:37:20Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2444#pullrequestreview-2224407817",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2444",
+          "submitted_at": "2024-08-07T11:35:47Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2439#pullrequestreview-2224732326",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2439",
+          "submitted_at": "2024-08-07T12:32:31Z"
+        }
+      ]
+    },
+    "hinataOhyama": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2427#issuecomment-2272230191",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2427",
+          "created_at": "2024-08-06T22:05:27Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2439,
+          "title": "useMotionAnimationFrame does not exist",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2439",
+          "created_at": "2024-08-06T23:34:22Z",
+          "closed_at": "2024-08-07T14:47:52Z"
+        }
+      ]
+    },
+    "setodeve": null,
+    "hirotomoyamada": {
+      "issues": [
+        {
+          "number": 2446,
+          "title": "Add documentation of `listProps` and `itemProps` for `notice` config",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2446",
+          "created_at": "2024-08-07T11:18:13Z",
+          "closed_at": null
+        },
+        {
+          "number": 2443,
+          "title": "The `Popover` width is not changed when I set the `width` etc. in the `Select` component's `listProps`.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2443",
+          "created_at": "2024-08-07T10:14:58Z",
+          "closed_at": "2024-08-07T14:33:08Z"
+        },
+        {
+          "number": 2440,
+          "title": "The `Text` component is themed but not present in the default theme.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2440",
+          "created_at": "2024-08-07T03:52:38Z",
+          "closed_at": null
+        },
+        {
+          "number": 2438,
+          "title": "Add documentation of `onDoubleClickRow` for `Table` component",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2438",
+          "created_at": "2024-08-06T15:31:16Z",
+          "closed_at": null
+        },
+        {
+          "number": 2437,
+          "title": "Hide elements of the `Notice` component when click on them",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2437",
+          "created_at": "2024-08-06T15:28:16Z",
+          "closed_at": null
+        },
+        {
+          "number": 2436,
+          "title": "Allow customization of `ul` element of `NoticeProvider` from `config`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2436",
+          "created_at": "2024-08-06T15:24:08Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2445,
+          "title": "Added listProps and itemProps to notice components",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2445",
+          "created_at": "2024-08-07T11:16:27Z",
+          "closed_at": null
+        },
+        {
+          "number": 2444,
+          "title": "Fixed a bug where the width was not changed even if `width` etc. was set in `listProps` of `Select` and `MultiSelect`.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2444",
+          "created_at": "2024-08-07T10:23:22Z",
+          "closed_at": "2024-08-07T14:33:07Z"
+        },
+        {
+          "number": 2442,
+          "title": "Updated date handling and imports",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2442",
+          "created_at": "2024-08-07T06:26:44Z",
+          "closed_at": "2024-08-07T06:35:20Z"
+        },
+        {
+          "number": 2441,
+          "title": "Updated motion types",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2441",
+          "created_at": "2024-08-07T06:13:56Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2439#pullrequestreview-2225393987",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2439",
+          "submitted_at": "2024-08-07T14:34:40Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
