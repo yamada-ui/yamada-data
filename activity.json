@@ -38667,5 +38667,215 @@
     "Shunii85": null,
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-08": {
+    "108yen": null,
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2447#pullrequestreview-2226746893",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2447",
+          "submitted_at": "2024-08-08T02:34:46Z"
+        }
+      ]
+    },
+    "taroj1205": {
+      "issues": [
+        {
+          "number": 403,
+          "title": "Add animated examples to Avatar",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/403",
+          "created_at": "2024-08-08T09:03:08Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 404,
+          "title": "feat(avatar): added animated `avatar` examples",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/404",
+          "created_at": "2024-08-08T09:07:21Z",
+          "closed_at": null
+        },
+        {
+          "number": 402,
+          "title": "refactor(footer): update footer layouts",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/402",
+          "created_at": "2024-08-07T21:39:57Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": {
+      "pullRequests": [
+        {
+          "number": 2458,
+          "title": "Fix a full-width space in the token to half-width space.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2458",
+          "created_at": "2024-08-08T14:27:08Z",
+          "closed_at": "2024-08-08T14:48:58Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2454#pullrequestreview-2226840968",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2454",
+          "submitted_at": "2024-08-08T04:33:41Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2421#issuecomment-2275857405",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2421",
+          "created_at": "2024-08-08T13:38:04Z"
+        }
+      ]
+    },
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2451#issuecomment-2274879805",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2451",
+          "created_at": "2024-08-08T03:25:05Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2459,
+          "title": "Generate tone colors based on colors provided",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2459",
+          "created_at": "2024-08-08T14:54:48Z",
+          "closed_at": null
+        },
+        {
+          "number": 2457,
+          "title": "Enhance Test Coverage for `@yamada-ui/snacks`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2457",
+          "created_at": "2024-08-08T09:07:48Z",
+          "closed_at": null
+        },
+        {
+          "number": 2456,
+          "title": "Useful functions to customize theme tokens",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2456",
+          "created_at": "2024-08-08T03:51:54Z",
+          "closed_at": null
+        },
+        {
+          "number": 67,
+          "title": "The colors produced are different",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/67",
+          "created_at": "2024-08-08T03:48:49Z",
+          "closed_at": null
+        },
+        {
+          "number": 2455,
+          "title": "Add the new `spaces` token",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2455",
+          "created_at": "2024-08-08T03:28:16Z",
+          "closed_at": null
+        },
+        {
+          "number": 2453,
+          "title": "Lack of uniformity in `spaces` tokens",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2453",
+          "created_at": "2024-08-07T16:23:05Z",
+          "closed_at": "2024-08-08T05:12:29Z"
+        },
+        {
+          "number": 2450,
+          "title": "\"タイポグラフィ\" in English Documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2450",
+          "created_at": "2024-08-07T15:58:08Z",
+          "closed_at": null
+        },
+        {
+          "number": 2449,
+          "title": "Introduce other libraries to be installed in the `@yamada-ui/fontawesome` documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2449",
+          "created_at": "2024-08-07T15:53:35Z",
+          "closed_at": null
+        },
+        {
+          "number": 2448,
+          "title": "Add documentation of `closeStrategy` for `notice` and `snacks` config",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2448",
+          "created_at": "2024-08-07T15:46:21Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2460,
+          "title": "Added `generate` function for themes",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2460",
+          "created_at": "2024-08-08T14:57:10Z",
+          "closed_at": null
+        },
+        {
+          "number": 2454,
+          "title": "Updated space tokens.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2454",
+          "created_at": "2024-08-08T03:24:16Z",
+          "closed_at": "2024-08-08T05:12:28Z"
+        },
+        {
+          "number": 2452,
+          "title": "Updated space tokens documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2452",
+          "created_at": "2024-08-07T16:19:58Z",
+          "closed_at": null
+        },
+        {
+          "number": 2451,
+          "title": "Updated sections and values",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2451",
+          "created_at": "2024-08-07T16:04:34Z",
+          "closed_at": "2024-08-08T03:25:05Z"
+        },
+        {
+          "number": 2447,
+          "title": "Added `closeStrategy`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2447",
+          "created_at": "2024-08-07T15:44:21Z",
+          "closed_at": "2024-08-08T04:55:45Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2458#pullrequestreview-2228119427",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2458",
+          "submitted_at": "2024-08-08T14:48:53Z"
+        }
+      ]
+    },
+    "kurakke": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2458#pullrequestreview-2228065279",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2458",
+          "submitted_at": "2024-08-08T14:29:57Z"
+        }
+      ]
+    },
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
