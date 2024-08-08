@@ -4,7 +4,7 @@
   "remindDay": 1,
   "addReviewWantedDay": 1,
   "addHelpWantedDay": 7,
-  "excludeReviewers": ["hirotomoyamada", "hajimemat", "Shunii85"],
+  "excludeReviewers": ["hirotomoyamada", "hajimemat"],
   "preferredReviewers": {
     "odendayoko": ["hirotomoyamada", "hironokobari"],
     "hironokobari": ["hirotomoyamada", "odendayoko"],
@@ -14,10 +14,8 @@
     "quantumshiro": ["illionillion", "bearone236"],
     "cidkumagai": ["taroj1205", "hinataOhyama"],
     "hinataOhyama": ["taroj1205", "cidkumagai"],
-    "Tomoya-Matsubara": ["koralle", "Hayato1031"],
-    "Hayato1031": ["koralle", "Tomoya-Matsubara"],
-    "kurakke": ["nakayan5", "fffk10"],
-    "fffk10": ["nakayan5", "kurakke"],
+    "kurakke": ["koralle", "fffk10"],
+    "fffk10": ["koralle", "kurakke"],
     "Haru-0001": ["setodeve", "zonoryo17"],
     "zonoryo17": ["setodeve", "Haru-0001"]
   }
