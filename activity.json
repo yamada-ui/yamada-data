@@ -38877,5 +38877,194 @@
     "Shunii85": null,
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-09": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/71#pullrequestreview-2230004099",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/71",
+          "submitted_at": "2024-08-09T11:49:13Z"
+        }
+      ]
+    },
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": {
+      "issues": [
+        {
+          "number": 407,
+          "title": "Change `size` of `Loading` component to `boxSize`",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/407",
+          "created_at": "2024-08-08T16:24:01Z",
+          "closed_at": null
+        },
+        {
+          "number": 405,
+          "title": "Add `LineChart` examples ",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/405",
+          "created_at": "2024-08-08T16:11:20Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 408,
+          "title": "fix: changed `size` to `boxSize`",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/408",
+          "created_at": "2024-08-08T16:28:21Z",
+          "closed_at": null
+        },
+        {
+          "number": 406,
+          "title": "Add `LineChart` examples ",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/406",
+          "created_at": "2024-08-08T16:11:49Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/406#pullrequestreview-2229912994",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/406",
+          "submitted_at": "2024-08-09T12:32:12Z"
+        }
+      ]
+    },
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/70#issuecomment-2277045315",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-colors/issues/70",
+          "created_at": "2024-08-09T02:49:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/74#issuecomment-2277732760",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-colors/issues/74",
+          "created_at": "2024-08-09T11:24:53Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/74#issuecomment-2277733304",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-colors/issues/74",
+          "created_at": "2024-08-09T11:25:17Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/75#issuecomment-2277735043",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-colors/issues/75",
+          "created_at": "2024-08-09T11:26:27Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 75,
+          "title": "`ContextMenu` follows scrolling",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/75",
+          "created_at": "2024-08-09T11:26:06Z",
+          "closed_at": null
+        },
+        {
+          "number": 2464,
+          "title": "`ContextMenu` follows scrolling",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2464",
+          "created_at": "2024-08-09T11:24:22Z",
+          "closed_at": null
+        },
+        {
+          "number": 2463,
+          "title": "If no value is set in `ColorPicker` or `ColorSelector`, the format is ignored.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2463",
+          "created_at": "2024-08-09T11:22:22Z",
+          "closed_at": null
+        },
+        {
+          "number": 74,
+          "title": "Header color search is not in the `hsl` input channel.",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/74",
+          "created_at": "2024-08-09T11:20:32Z",
+          "closed_at": null
+        },
+        {
+          "number": 72,
+          "title": "Yamada Colors also generates tone colors using Yamada UI's `generate.tones` function.",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/72",
+          "created_at": "2024-08-09T02:52:18Z",
+          "closed_at": null
+        },
+        {
+          "number": 69,
+          "title": "The color names in the color palette revert back to their original names.",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/69",
+          "created_at": "2024-08-08T15:16:32Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 73,
+          "title": "Added context menu",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/73",
+          "created_at": "2024-08-09T11:17:33Z",
+          "closed_at": null
+        },
+        {
+          "number": 2462,
+          "title": "Add trend insights",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2462",
+          "created_at": "2024-08-08T19:31:26Z",
+          "closed_at": null
+        },
+        {
+          "number": 71,
+          "title": "Added useUpdateEffect in EditButton",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/71",
+          "created_at": "2024-08-08T15:26:32Z",
+          "closed_at": null
+        },
+        {
+          "number": 70,
+          "title": "Optimized tone calculation logic",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/70",
+          "created_at": "2024-08-08T15:16:48Z",
+          "closed_at": "2024-08-08T15:22:24Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2461#pullrequestreview-2228258060",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2461",
+          "submitted_at": "2024-08-08T15:40:00Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": {
+      "pullRequests": [
+        {
+          "number": 2461,
+          "title": "test: add FocusLock tests",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2461",
+          "created_at": "2024-08-08T15:27:39Z",
+          "closed_at": "2024-08-08T19:31:53Z"
+        }
+      ]
+    },
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
