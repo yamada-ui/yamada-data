@@ -39066,5 +39066,286 @@
     "Shunii85": null,
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-10": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2475#pullrequestreview-2231420298",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2475",
+          "submitted_at": "2024-08-10T11:07:56Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2469#pullrequestreview-2231340322",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2469",
+          "submitted_at": "2024-08-10T06:13:45Z"
+        }
+      ]
+    },
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/408#issuecomment-2281158185",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/408",
+          "created_at": "2024-08-10T11:26:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/406#issuecomment-2281255422",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/406",
+          "created_at": "2024-08-10T11:46:49Z"
+        }
+      ]
+    },
+    "taroj1205": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/83#issuecomment-2281024985",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/83",
+          "created_at": "2024-08-10T10:59:38Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/406#issuecomment-2281307260",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/406",
+          "created_at": "2024-08-10T11:57:22Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/78#pullrequestreview-2231327658",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/78",
+          "submitted_at": "2024-08-10T05:17:42Z"
+        }
+      ]
+    },
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2440#issuecomment-2278948036",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2440",
+          "created_at": "2024-08-10T02:37:16Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2466#issuecomment-2281518063",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2466",
+          "created_at": "2024-08-10T12:38:33Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2474,
+          "title": "Set `content: ''` as initial value for `before` and `after` pseudo-elements in CSS",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2474",
+          "created_at": "2024-08-10T10:43:18Z",
+          "closed_at": null
+        },
+        {
+          "number": 2472,
+          "title": "Add gradient functionality to `borderImageSource`, `listStyleImage` and `maskImage`.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2472",
+          "created_at": "2024-08-10T09:45:14Z",
+          "closed_at": null
+        },
+        {
+          "number": 2471,
+          "title": "Enhance Test Coverage for `@yamada-ui/theme-tools`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2471",
+          "created_at": "2024-08-10T09:07:41Z",
+          "closed_at": null
+        },
+        {
+          "number": 410,
+          "title": "There is an error in the issue template.",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/410",
+          "created_at": "2024-08-10T03:40:57Z",
+          "closed_at": null
+        },
+        {
+          "number": 409,
+          "title": "Add `triage` label",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/409",
+          "created_at": "2024-08-10T03:40:03Z",
+          "closed_at": null
+        },
+        {
+          "number": 79,
+          "title": "Add `triage` label",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/79",
+          "created_at": "2024-08-10T03:38:56Z",
+          "closed_at": "2024-08-10T14:51:59Z"
+        },
+        {
+          "number": 2468,
+          "title": "Add `triage` label",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2468",
+          "created_at": "2024-08-10T03:38:28Z",
+          "closed_at": "2024-08-10T06:20:46Z"
+        },
+        {
+          "number": 2467,
+          "title": "Add `minRangeDates` and `maxRangeDates` to `RangeDatePicker`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2467",
+          "created_at": "2024-08-10T02:46:56Z",
+          "closed_at": null
+        },
+        {
+          "number": 2466,
+          "title": "Add description of `theme` in `yamada-ui/cli` to the documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2466",
+          "created_at": "2024-08-10T02:43:56Z",
+          "closed_at": null
+        },
+        {
+          "number": 2465,
+          "title": "Add a description of the `generate` function to the documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2465",
+          "created_at": "2024-08-10T02:41:42Z",
+          "closed_at": null
+        },
+        {
+          "number": 76,
+          "title": "The tooltip description for the Create Palette button is incorrect",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/76",
+          "created_at": "2024-08-10T02:16:18Z",
+          "closed_at": "2024-08-10T03:07:09Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2476,
+          "title": "`content: ''` is set by default for CSS pseudo-elements `:before` and `:after`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2476",
+          "created_at": "2024-08-10T11:05:06Z",
+          "closed_at": null
+        },
+        {
+          "number": 2473,
+          "title": "Added gradient functionality to styles",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2473",
+          "created_at": "2024-08-10T09:46:55Z",
+          "closed_at": null
+        },
+        {
+          "number": 2470,
+          "title": "Added api tests",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2470",
+          "created_at": "2024-08-10T08:16:15Z",
+          "closed_at": null
+        },
+        {
+          "number": 2469,
+          "title": "Added triage label to issue templates",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2469",
+          "created_at": "2024-08-10T04:54:26Z",
+          "closed_at": "2024-08-10T06:20:46Z"
+        },
+        {
+          "number": 411,
+          "title": "Update labels and descriptions",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/411",
+          "created_at": "2024-08-10T04:53:46Z",
+          "closed_at": null
+        },
+        {
+          "number": 80,
+          "title": "Updated issue template labels for triage",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/80",
+          "created_at": "2024-08-10T04:53:08Z",
+          "closed_at": "2024-08-10T14:51:58Z"
+        },
+        {
+          "number": 78,
+          "title": "Updated generate tones",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/78",
+          "created_at": "2024-08-10T02:32:56Z",
+          "closed_at": "2024-08-10T06:07:00Z"
+        },
+        {
+          "number": 77,
+          "title": "Updated translation keys for palette creation",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/77",
+          "created_at": "2024-08-10T02:19:47Z",
+          "closed_at": "2024-08-10T03:07:09Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2478#pullrequestreview-2231462173",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2478",
+          "submitted_at": "2024-08-10T14:48:47Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2475#pullrequestreview-2231430427",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2475",
+          "submitted_at": "2024-08-10T12:36:55Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2478#pullrequestreview-2231462059",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2478",
+          "submitted_at": "2024-08-10T14:47:54Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/80#pullrequestreview-2231462376",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/80",
+          "submitted_at": "2024-08-10T14:51:02Z"
+        }
+      ]
+    },
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": {
+      "pullRequests": [
+        {
+          "number": 2477,
+          "title": "Add missing tests for file-button",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2477",
+          "created_at": "2024-08-10T12:52:32Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "Shunii85": {
+      "pullRequests": [
+        {
+          "number": 2478,
+          "title": "Fixed en docs for `Typography`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2478",
+          "created_at": "2024-08-10T13:04:44Z",
+          "closed_at": "2024-08-10T14:58:52Z"
+        },
+        {
+          "number": 2475,
+          "title": "Added sample code of \"offset\" in ` Autocomplete` docs.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2475",
+          "created_at": "2024-08-10T10:56:44Z",
+          "closed_at": "2024-08-10T12:37:00Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/77#pullrequestreview-2231303733",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/77",
+          "submitted_at": "2024-08-10T03:06:36Z"
+        }
+      ]
+    },
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
