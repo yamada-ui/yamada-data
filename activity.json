@@ -40183,5 +40183,144 @@
     },
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-13": {
+    "108yen": null,
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/406#issuecomment-2285218222",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/406",
+          "created_at": "2024-08-13T02:20:29Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/428#pullrequestreview-2235097275",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/428",
+          "submitted_at": "2024-08-13T10:00:24Z"
+        }
+      ]
+    },
+    "taroj1205": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/196#issuecomment-2285281563",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/196",
+          "created_at": "2024-08-13T03:40:20Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 427,
+          "title": "Refactor `Chart` component example",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/427",
+          "created_at": "2024-08-13T05:28:56Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 428,
+          "title": "refactor(chart): improved `chart` range selector and style",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/428",
+          "created_at": "2024-08-13T06:01:49Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2486#issuecomment-2285080662",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2486",
+          "created_at": "2024-08-12T23:41:44Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2529#issuecomment-2285154929",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2529",
+          "created_at": "2024-08-13T01:05:00Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2510#issuecomment-2285237538",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2510",
+          "created_at": "2024-08-13T02:42:34Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2511#issuecomment-2285297184",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2511",
+          "created_at": "2024-08-13T04:01:57Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2484#issuecomment-2285490184",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2484",
+          "created_at": "2024-08-13T07:01:40Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2523#issuecomment-2285583916",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2523",
+          "created_at": "2024-08-13T07:49:00Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2535,
+          "title": "Enhance Test Coverage for `@yamada-ui/select`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2535",
+          "created_at": "2024-08-13T09:09:04Z",
+          "closed_at": null
+        },
+        {
+          "number": 2534,
+          "title": "Enhance Test Coverage for `@yamada-ui/autocomplete`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2534",
+          "created_at": "2024-08-13T09:08:36Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2532,
+          "title": "Add user selection functionality in UI",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2532",
+          "created_at": "2024-08-13T03:08:21Z",
+          "closed_at": null
+        },
+        {
+          "number": 2531,
+          "title": "Added custom chart tooltip",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2531",
+          "created_at": "2024-08-13T02:41:07Z",
+          "closed_at": null
+        },
+        {
+          "number": 2530,
+          "title": "Adjust date handling in insights module",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2530",
+          "created_at": "2024-08-13T00:52:18Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
