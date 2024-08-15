@@ -4,7 +4,14 @@
   "remindDay": 1,
   "addReviewWantedDay": 1,
   "addHelpWantedDay": 7,
-  "excludeReviewers": ["hirotomoyamada", "hajimemat"],
+  "excludeReviewers": [
+    "hirotomoyamada",
+    "hajimemat",
+    "nakayan5",
+    "zonoryo17",
+    "Tomoya-Matsubara",
+    "Hayato1031"
+  ],
   "preferredReviewers": {
     "odendayoko": ["hirotomoyamada", "hironokobari"],
     "hironokobari": ["hirotomoyamada", "odendayoko"],
