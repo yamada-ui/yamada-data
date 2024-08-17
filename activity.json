@@ -41100,5 +41100,86 @@
     },
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-17": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2591#pullrequestreview-2244062138",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2591",
+          "submitted_at": "2024-08-17T08:05:10Z"
+        }
+      ]
+    },
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2570#issuecomment-2294809079",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2570",
+          "created_at": "2024-08-17T09:39:01Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2587,
+          "title": "Added CSS value functions documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2587",
+          "created_at": "2024-08-16T15:17:33Z",
+          "closed_at": null
+        },
+        {
+          "number": 2586,
+          "title": "Added `$`(interpolation) documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2586",
+          "created_at": "2024-08-16T15:11:49Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2588,
+          "title": "Added `tint`, `shade`, `transparentize` and `tone` CSS value functions",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2588",
+          "created_at": "2024-08-16T17:06:32Z",
+          "closed_at": null
+        },
+        {
+          "number": 2585,
+          "title": "Add grid handling and update transforms",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2585",
+          "created_at": "2024-08-16T15:02:11Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2591#pullrequestreview-2244065127",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2591",
+          "submitted_at": "2024-08-17T08:09:59Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
