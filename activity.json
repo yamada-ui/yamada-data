@@ -41809,5 +41809,113 @@
     },
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-21": {
+    "108yen": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/438#issuecomment-2301259993",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/438",
+          "created_at": "2024-08-21T06:45:52Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2625,
+          "title": "Added ability to display `label` on `DonutChart`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2625",
+          "created_at": "2024-08-21T06:58:37Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 441,
+          "title": "Refactoring of temperature chart",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/441",
+          "created_at": "2024-08-21T14:12:49Z",
+          "closed_at": null
+        },
+        {
+          "number": 2626,
+          "title": "Added ability to display `label` on `DonutChart`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2626",
+          "created_at": "2024-08-21T07:00:44Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2622#pullrequestreview-2249332853",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2622",
+          "submitted_at": "2024-08-21T00:31:06Z"
+        }
+      ]
+    },
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": {
+      "pullRequests": [
+        {
+          "number": 442,
+          "title": "Rename `TemperatureCharts`",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/442",
+          "created_at": "2024-08-21T14:44:06Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": null,
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "setodeve": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2623#pullrequestreview-2248535126",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2623",
+          "submitted_at": "2024-08-20T16:43:42Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2623#pullrequestreview-2250960161",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2623",
+          "submitted_at": "2024-08-21T14:22:16Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2623,
+          "title": "Simplified date manipulation logic",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2623",
+          "created_at": "2024-08-20T16:29:29Z",
+          "closed_at": null
+        },
+        {
+          "number": 2622,
+          "title": "Update value check to use `isNumeric` function",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2622",
+          "created_at": "2024-08-20T15:25:44Z",
+          "closed_at": "2024-08-21T03:38:47Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
