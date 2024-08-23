@@ -42002,5 +42002,98 @@
     "Shunii85": null,
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-23": {
+    "108yen": null,
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2632#pullrequestreview-2257075889",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2632",
+          "submitted_at": "2024-08-23T12:07:46Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2628#pullrequestreview-2256429221",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2628",
+          "submitted_at": "2024-08-23T06:06:20Z"
+        }
+      ]
+    },
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2598#issuecomment-2306281941",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2598",
+          "created_at": "2024-08-23T04:43:21Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2631,
+          "title": "The description of the `hono` setup is wrong",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2631",
+          "created_at": "2024-08-23T11:48:01Z",
+          "closed_at": "2024-08-23T15:16:43Z"
+        },
+        {
+          "number": 2630,
+          "title": "Add `NativeImage` documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2630",
+          "created_at": "2024-08-23T11:41:58Z",
+          "closed_at": null
+        },
+        {
+          "number": 2629,
+          "title": "Add `RadialChart` documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2629",
+          "created_at": "2024-08-23T11:41:03Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2633,
+          "title": "Remove 'size' from CarouselItem props",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2633",
+          "created_at": "2024-08-23T12:09:42Z",
+          "closed_at": "2024-08-23T15:03:10Z"
+        },
+        {
+          "number": 2632,
+          "title": "Update Japanese and English Hono docs",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2632",
+          "created_at": "2024-08-23T11:59:35Z",
+          "closed_at": "2024-08-23T15:16:42Z"
+        },
+        {
+          "number": 2628,
+          "title": "Updated framer-motion version pinning",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2628",
+          "created_at": "2024-08-23T05:11:58Z",
+          "closed_at": "2024-08-23T11:12:17Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "Shunii85": null,
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
