@@ -42560,5 +42560,106 @@
         }
       ]
     }
+  },
+  "2024-08-26": {
+    "108yen": null,
+    "suzukisan22": null,
+    "koralle": null,
+    "mokun632": null,
+    "illionillion": {
+      "issues": [
+        {
+          "number": 2670,
+          "title": "Button frame style bug in ButtonGroup",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2670",
+          "created_at": "2024-08-26T07:48:43Z",
+          "closed_at": null
+        },
+        {
+          "number": 2668,
+          "title": "`Drawer` onClose animation does not work",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2668",
+          "created_at": "2024-08-26T01:49:29Z",
+          "closed_at": null
+        },
+        {
+          "number": 2667,
+          "title": "Allow styles to be passed to `ModalOverlay` wrapper elements",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2667",
+          "created_at": "2024-08-26T01:30:27Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2669,
+          "title": "Apply styles to ModalContent wrapper elements",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2669",
+          "created_at": "2024-08-26T01:57:33Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": null,
+    "nakayan5": null,
+    "quantumshiro": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "setodeve": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2664#pullrequestreview-2259321094",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2664",
+          "submitted_at": "2024-08-25T15:12:08Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "pullRequests": [
+        {
+          "number": 2665,
+          "title": "Updated dependencies",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2665",
+          "created_at": "2024-08-25T16:45:28Z",
+          "closed_at": null
+        },
+        {
+          "number": 2664,
+          "title": "Added validation for invalid date strings",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2664",
+          "created_at": "2024-08-25T15:05:34Z",
+          "closed_at": "2024-08-25T15:18:17Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "Tomoya-Matsubara": null,
+    "haru-036": null,
+    "Hayato1031": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "Shunii85": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2070#issuecomment-2309112574",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2070",
+          "created_at": "2024-08-26T01:12:49Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2666,
+          "title": "Should be used the `Popover` component instead of `Menu` in the doc.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2666",
+          "created_at": "2024-08-26T00:57:32Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "kaitobq": null,
+    "Haru-0001": null
   }
 }
