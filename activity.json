@@ -42851,5 +42851,51 @@
     "Shunii85": null,
     "kaitobq": null,
     "Haru-0001": null
+  },
+  "2024-08-29": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2673#issuecomment-2316739468",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2673",
+          "created_at": "2024-08-29T05:23:13Z"
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": {
+      "pullRequests": [
+        {
+          "number": 2679,
+          "title": "docs: replace `Menu` with `Popover` in `Popover`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2679",
+          "created_at": "2024-08-29T13:45:23Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
