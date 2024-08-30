@@ -42897,5 +42897,182 @@
     "Shunii85": null,
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-08-30": {
+    "108yen": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2320886577",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T11:12:58Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2320921295",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T11:27:56Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2321045488",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T12:14:12Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#pullrequestreview-2271926693",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/447",
+          "submitted_at": "2024-08-30T10:52:09Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2684,
+          "title": "Cannot click on right navigation item",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2684",
+          "created_at": "2024-08-30T12:58:27Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2685#pullrequestreview-2272385483",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2685",
+          "submitted_at": "2024-08-30T13:39:25Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "number": 2680,
+          "title": "test: add tests for popover animation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2680",
+          "created_at": "2024-08-29T15:04:50Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "illionillion": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2320874063",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T11:07:56Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2320881228",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T11:10:00Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2320900154",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T11:18:28Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2320903963",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T11:20:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447#issuecomment-2320933780",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/447",
+          "created_at": "2024-08-30T11:33:54Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 447,
+          "title": "Add DateRangeTemperatureChart",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/447",
+          "created_at": "2024-08-30T10:39:02Z",
+          "closed_at": "2024-08-30T11:20:51Z"
+        }
+      ]
+    },
+    "taroj1205": {
+      "pullRequests": [
+        {
+          "number": 446,
+          "title": "refactor(chart): restore deleted `chart` example",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/446",
+          "created_at": "2024-08-30T08:38:50Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/189#issuecomment-2321476443",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/189",
+          "created_at": "2024-08-30T14:41:15Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2681#pullrequestreview-2270662486",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2681",
+          "submitted_at": "2024-08-30T00:12:38Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "pullRequests": [
+        {
+          "number": 2681,
+          "title": "Add emeriti category and update lists",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2681",
+          "created_at": "2024-08-29T16:06:52Z",
+          "closed_at": "2024-08-30T08:39:40Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2685#pullrequestreview-2272414106",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2685",
+          "submitted_at": "2024-08-30T13:48:39Z"
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "haru-036": {
+      "issues": [
+        {
+          "number": 2683,
+          "title": "Add custom labels for DonutChart",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2683",
+          "created_at": "2024-08-30T12:50:23Z",
+          "closed_at": "2024-08-30T13:48:45Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2685,
+          "title": "docs: add custom labels for DonutChart",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2685",
+          "created_at": "2024-08-30T13:23:42Z",
+          "closed_at": "2024-08-30T13:48:44Z"
+        }
+      ]
+    },
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
