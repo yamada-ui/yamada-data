@@ -43074,5 +43074,86 @@
     "Shunii85": null,
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-08-31": {
+    "108yen": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/446#issuecomment-2322755958",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/446",
+          "created_at": "2024-08-31T03:57:16Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2689#pullrequestreview-2273861436",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2689",
+          "submitted_at": "2024-08-31T14:31:22Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2688,
+          "title": "Insight page is unavailable",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2688",
+          "created_at": "2024-08-31T06:26:28Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2687,
+          "title": "Fixed a bug where the right navigation item was not clickable",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2687",
+          "created_at": "2024-08-31T03:14:38Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "illionillion": {
+      "issues": [
+        {
+          "number": 2686,
+          "title": "Refactoring of `RangeSlider` test code",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2686",
+          "created_at": "2024-08-30T15:22:31Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": null,
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": {
+      "pullRequests": [
+        {
+          "number": 2689,
+          "title": "Add a new `minSelectValues` prop to `RangeDatePicker`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2689",
+          "created_at": "2024-08-31T06:54:58Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
