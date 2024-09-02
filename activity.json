@@ -43341,5 +43341,154 @@
     },
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-02": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "number": 451,
+          "title": "refactor of temperature chart",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/451",
+          "created_at": "2024-09-02T04:12:02Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/452#pullrequestreview-2275846619",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/452",
+          "submitted_at": "2024-09-02T14:55:26Z"
+        }
+      ]
+    },
+    "illionillion": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/392#issuecomment-2324826745",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/392",
+          "created_at": "2024-09-02T13:59:49Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/452#pullrequestreview-2275081494",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/452",
+          "submitted_at": "2024-09-02T09:16:22Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 32,
+          "title": "add eslint `import type` rule",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/32",
+          "created_at": "2024-09-02T14:12:26Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": {
+      "issues": [
+        {
+          "number": 450,
+          "title": "`Timeline` component example",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/450",
+          "created_at": "2024-09-02T03:19:38Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 452,
+          "title": "feat(timeline): added `timeline` component examples",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/452",
+          "created_at": "2024-09-02T06:07:51Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "kaehehehe": {
+      "issues": [
+        {
+          "number": 2693,
+          "title": "The circles in the Loading component lost their animation.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2693",
+          "created_at": "2024-09-02T05:48:40Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2694,
+          "title": "The circles in the Loading component lost their animation.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2694",
+          "created_at": "2024-09-02T07:47:21Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "fffk10": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2691#issuecomment-2324759088",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2691",
+          "created_at": "2024-09-02T13:25:39Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2691#issuecomment-2324878315",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2691",
+          "created_at": "2024-09-02T14:26:52Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "issues": [
+        {
+          "number": 2695,
+          "title": "Visual regression test setup",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2695",
+          "created_at": "2024-09-02T14:31:31Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2694#pullrequestreview-2275119477",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2694",
+          "submitted_at": "2024-09-02T09:19:01Z"
+        }
+      ]
+    },
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "pullRequests": [
+        {
+          "number": 90,
+          "title": "Added fonts tokens to theme configuration",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/90",
+          "created_at": "2024-09-02T14:59:04Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
