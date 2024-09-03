@@ -1,7 +1,10 @@
 [
   {
     "name": { "en": "Haruki Maeda", "ja": "Haruki Maeda" },
-    "description": { "en": "Engineer based in tokyo.", "ja": "東京のエンジニア。" },
+    "description": {
+      "en": "Engineer based in Tokyo.",
+      "ja": "東京のエンジニア。"
+    },
     "github": {
       "id": "Haru-0001",
       "icon": "https://avatars.githubusercontent.com/u/166319111?v=4",
@@ -82,7 +85,7 @@
   {
     "name": { "en": "Haru", "ja": "Haru" },
     "description": {
-      "en": "University students studying programming and design.",
+      "en": "University student studying programming and design.",
       "ja": "プログラミングとデザインを学んでいる大学生。"
     },
     "github": {
@@ -166,7 +169,7 @@
   {
     "name": { "en": "ShiroHat", "ja": "白帽子" },
     "description": {
-      "en": "I'm a student who’s into front-end development and UI design as a hobby.",
+      "en": "I'm a student interested in front-end development and UI design as a hobby.",
       "ja": "フロントエンド開発とUIデザインを趣味として取り組んでいる学生。"
     },
     "github": {
@@ -208,7 +211,7 @@
   {
     "name": { "en": "Aose Yuu", "ja": "Aose Yuu" },
     "description": {
-      "en": "Front-end engineer. vimmer who likes Vue and CLI.",
+      "en": "Front-end engineer. Vimmer who likes Vue and CLI.",
       "ja": "フロントエンドエンジニア。VueとCLIが好きなVimmer。"
     },
     "github": {

@@ -29,7 +29,10 @@
   },
   {
     "name": { "en": "Yuto Ichinose", "ja": "Ichinose Yuto" },
-    "description": { "en": "Web engineer, a university student.", "ja": "Webエンジニア。大学生。" },
+    "description": {
+      "en": "Web engineer, a university student.",
+      "ja": "Webエンジニア。大学生。"
+    },
     "github": {
       "id": "illionillion",
       "icon": "https://avatars.githubusercontent.com/u/60034520?v=4",
@@ -41,8 +44,8 @@
   {
     "name": { "en": "Shintaro Jokagi", "ja": "Shintaro Jokagi" },
     "description": {
-      "en": "Passionate about web development and a student at the University of Auckland.",
-      "ja": "ウェブ開発に情熱を持つオークランド大学の学生。"
+      "en": "Developer from New Zealand and a university student.",
+      "ja": "ニュージーランドのエンジニア。大学生。"
     },
     "github": {
       "id": "taroj1205",
@@ -81,7 +84,10 @@
   },
   {
     "name": { "en": "Kei Setoguchi", "ja": "Kei Setoguchi" },
-    "description": { "en": "Engineer based in Fukuoka.", "ja": "福岡在住のエンジニア。" },
+    "description": {
+      "en": "Engineer based in Fukuoka.",
+      "ja": "福岡在住のエンジニア。"
+    },
     "github": {
       "id": "setodeve",
       "icon": "https://avatars.githubusercontent.com/u/83833293?v=4",
