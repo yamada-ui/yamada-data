@@ -44345,5 +44345,173 @@
       ]
     },
     "shiro8t": null
+  },
+  "2024-09-06": {
+    "108yen": null,
+    "koralle": {
+      "pullRequests": [
+        {
+          "number": 2718,
+          "title": "chore(ESLint): Migrate to v9.x ",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2718",
+          "created_at": "2024-09-06T13:11:00Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "chida09": {
+      "issues": [
+        {
+          "number": 2719,
+          "title": "Add the rule `testing-library/no-wait-for-multiple-assertions` to ESLint",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2719",
+          "created_at": "2024-09-06T13:17:57Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "illionillion": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/486#pullrequestreview-2284395151",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/486",
+          "submitted_at": "2024-09-06T01:19:34Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/486#pullrequestreview-2284430636",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/486",
+          "submitted_at": "2024-09-06T02:03:54Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2714,
+          "title": "The tooltip of the copy button in the code block overlaps the header.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2714",
+          "created_at": "2024-09-06T04:41:30Z",
+          "closed_at": "2024-09-06T09:13:35Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2715,
+          "title": "Add `zIndex` in CopyButton",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2715",
+          "created_at": "2024-09-06T04:51:22Z",
+          "closed_at": "2024-09-06T09:13:34Z"
+        },
+        {
+          "number": 486,
+          "title": "Refactor `Headers` components",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/486",
+          "created_at": "2024-09-06T01:13:23Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": {
+      "issues": [
+        {
+          "number": 487,
+          "title": "Refactor order logic in metadata.json",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/487",
+          "created_at": "2024-09-06T03:57:02Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 485,
+          "title": "feat(input): added `input` with overlay",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/485",
+          "created_at": "2024-09-05T21:38:29Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2715#pullrequestreview-2284978717",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2715",
+          "submitted_at": "2024-09-06T06:20:15Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2701#issuecomment-2333935063",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2701",
+          "created_at": "2024-09-06T12:21:35Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2717,
+          "title": "Removed unnecessary `tabIndex` attribute",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2717",
+          "created_at": "2024-09-06T12:22:43Z",
+          "closed_at": null
+        },
+        {
+          "number": 2716,
+          "title": "Simplify motion component logic",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2716",
+          "created_at": "2024-09-06T12:13:42Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2715#pullrequestreview-2285588158",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2715",
+          "submitted_at": "2024-09-06T09:13:28Z"
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2690#issuecomment-2334014370",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2690",
+          "created_at": "2024-09-06T13:08:24Z"
+        }
+      ]
+    },
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/485#issuecomment-2333087450",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/485",
+          "created_at": "2024-09-06T02:55:49Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/485#pullrequestreview-2284462928",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/485",
+          "submitted_at": "2024-09-06T02:48:06Z"
+        }
+      ]
+    },
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
