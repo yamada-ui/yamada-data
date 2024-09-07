@@ -44513,5 +44513,236 @@
     },
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-07": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2736#pullrequestreview-2287503432",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2736",
+          "submitted_at": "2024-09-07T14:12:29Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "number": 2736,
+          "title": "feat: add aria-disabled to button component",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2736",
+          "created_at": "2024-09-07T14:04:30Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "illionillion": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2708#issuecomment-2335195267",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2708",
+          "created_at": "2024-09-07T13:57:02Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2720,
+          "title": "Allow styles to be specified for MenuGroup labels",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2720",
+          "created_at": "2024-09-06T16:02:57Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2721,
+          "title": "feat: allow styles to be specified for MenuGroup labels",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2721",
+          "created_at": "2024-09-06T16:04:33Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2731#pullrequestreview-2287468066",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2731",
+          "submitted_at": "2024-09-07T10:38:04Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2729#pullrequestreview-2287468751",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2729",
+          "submitted_at": "2024-09-07T10:42:48Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2728#issuecomment-2335039416",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2728",
+          "created_at": "2024-09-07T04:41:34Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2716#issuecomment-2335049518",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2716",
+          "created_at": "2024-09-07T05:25:35Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2690#issuecomment-2335051871",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2690",
+          "created_at": "2024-09-07T05:37:07Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2725,
+          "title": "The `Image` component does not have `onError` and `onLoad` set",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2725",
+          "created_at": "2024-09-07T04:23:53Z",
+          "closed_at": null
+        },
+        {
+          "number": 2724,
+          "title": "When `listProps` is set to `maxW` or `maxWidth`, no width is set for the Popover.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2724",
+          "created_at": "2024-09-07T04:22:46Z",
+          "closed_at": null
+        },
+        {
+          "number": 2723,
+          "title": "CSS variables in Chart component are overwritten",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2723",
+          "created_at": "2024-09-07T04:20:38Z",
+          "closed_at": null
+        },
+        {
+          "number": 2722,
+          "title": "The type definition of `token` in `var` is wrong",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2722",
+          "created_at": "2024-09-07T04:19:02Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2735,
+          "title": "Add order to documentation files",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2735",
+          "created_at": "2024-09-07T10:44:54Z",
+          "closed_at": null
+        },
+        {
+          "number": 2733,
+          "title": "Improved error handling in changelog reader",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2733",
+          "created_at": "2024-09-07T05:35:41Z",
+          "closed_at": "2024-09-07T13:01:20Z"
+        },
+        {
+          "number": 2732,
+          "title": "Fixed docs workflow",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2732",
+          "created_at": "2024-09-07T05:33:51Z",
+          "closed_at": null
+        },
+        {
+          "number": 2730,
+          "title": "Updated references from `var` to `vars`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2730",
+          "created_at": "2024-09-07T04:59:54Z",
+          "closed_at": "2024-09-07T05:24:07Z"
+        },
+        {
+          "number": 2729,
+          "title": "Updated forwardRef implementations",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2729",
+          "created_at": "2024-09-07T04:33:04Z",
+          "closed_at": "2024-09-07T12:39:30Z"
+        },
+        {
+          "number": 2728,
+          "title": "Corrected `onError` and `onLoad` handling in Image component",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2728",
+          "created_at": "2024-09-07T04:28:30Z",
+          "closed_at": "2024-09-07T04:41:34Z"
+        },
+        {
+          "number": 2727,
+          "title": "Added `maxWidth` handling to components",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2727",
+          "created_at": "2024-09-07T04:27:11Z",
+          "closed_at": null
+        },
+        {
+          "number": 2726,
+          "title": "Added `createVars` and `LinkBox` theme",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2726",
+          "created_at": "2024-09-07T04:25:49Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": {
+      "pullRequests": [
+        {
+          "number": 2734,
+          "title": "Make aria-label of IconButton mandatory ",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2734",
+          "created_at": "2024-09-07T10:31:57Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2733#pullrequestreview-2287434575",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2733",
+          "submitted_at": "2024-09-07T06:16:46Z"
+        }
+      ]
+    },
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2713#issuecomment-2335081010",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2713",
+          "created_at": "2024-09-07T06:10:48Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2733#pullrequestreview-2287432244",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2733",
+          "submitted_at": "2024-09-07T06:02:35Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2730#pullrequestreview-2287426274",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2730",
+          "submitted_at": "2024-09-07T05:23:25Z"
+        }
+      ]
+    },
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
