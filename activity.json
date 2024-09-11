@@ -45777,5 +45777,186 @@
     },
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-11": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "illionillion": {
+      "issues": [
+        {
+          "number": 491,
+          "title": "Increase the font size of the Text component",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/491",
+          "created_at": "2024-09-11T06:59:56Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2783#pullrequestreview-2296564917",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2783",
+          "submitted_at": "2024-09-11T11:34:26Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2782,
+          "title": "Replace throw Error with console.warn for better error handling (sortNodes)",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2782",
+          "created_at": "2024-09-11T00:14:59Z",
+          "closed_at": null
+        },
+        {
+          "number": 2773,
+          "title": "Replace throw Error with console.warn for better error handling",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2773",
+          "created_at": "2024-09-10T15:04:28Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2784,
+          "title": "refactor: change error handling in sortNodes to use console.warn",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2784",
+          "created_at": "2024-09-11T12:03:22Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2783#pullrequestreview-2296558233",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2783",
+          "submitted_at": "2024-09-11T11:33:19Z"
+        }
+      ]
+    },
+    "fffk10": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2761#issuecomment-2343918811",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2761",
+          "created_at": "2024-09-11T14:57:20Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "issues": [
+        {
+          "number": 2781,
+          "title": "Add `_print` prop",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2781",
+          "created_at": "2024-09-10T17:24:25Z",
+          "closed_at": null
+        },
+        {
+          "number": 2780,
+          "title": "Provide `_group` to simplify styling of child elements",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2780",
+          "created_at": "2024-09-10T17:21:42Z",
+          "closed_at": null
+        },
+        {
+          "number": 2779,
+          "title": "We want to be able to use responsive objects with theme tokens.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2779",
+          "created_at": "2024-09-10T17:18:04Z",
+          "closed_at": null
+        },
+        {
+          "number": 2777,
+          "title": "Add `withProvider` to `renderHook`.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2777",
+          "created_at": "2024-09-10T16:02:35Z",
+          "closed_at": null
+        },
+        {
+          "number": 2774,
+          "title": "The `a11y` in `@yamada-ui/test` disables `withProvider` by default.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2774",
+          "created_at": "2024-09-10T15:16:58Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2778,
+          "title": "Update renderHook usage and types",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2778",
+          "created_at": "2024-09-10T16:05:58Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2783#pullrequestreview-2296613710",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2783",
+          "submitted_at": "2024-09-11T11:45:18Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2783#pullrequestreview-2297167060",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2783",
+          "submitted_at": "2024-09-11T13:56:40Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2783,
+          "title": "test: add SaturationSlider component with pointer events",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2783",
+          "created_at": "2024-09-11T08:51:47Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "Haruki0261": null,
+    "odendayoko": {
+      "issues": [
+        {
+          "number": 2776,
+          "title": "Fix incomplete sentence in @media documentation",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2776",
+          "created_at": "2024-09-10T15:39:19Z",
+          "closed_at": null
+        },
+        {
+          "number": 2775,
+          "title": "Add 2xl breakpoint to useBreakpointValue example",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2775",
+          "created_at": "2024-09-10T15:25:40Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "hironokobari": null,
+    "neginasu": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2784#pullrequestreview-2296812143",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2784",
+          "submitted_at": "2024-09-11T12:35:58Z"
+        }
+      ]
+    },
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
