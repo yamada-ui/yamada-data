@@ -45958,5 +45958,162 @@
     "Shunii85": null,
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-12": {
+    "108yen": null,
+    "koralle": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2789#pullrequestreview-2299063612",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2789",
+          "submitted_at": "2024-09-12T01:49:50Z"
+        }
+      ]
+    },
+    "chida09": null,
+    "illionillion": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/492#issuecomment-2345093768",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/492",
+          "created_at": "2024-09-12T01:50:03Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 492,
+          "title": "Add `ignore` data to `metadata.json`",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/492",
+          "created_at": "2024-09-12T01:42:11Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2795#issuecomment-2346542898",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2795",
+          "created_at": "2024-09-12T14:59:33Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2795,
+          "title": "The index.tsx example on the `Getting Started with Hono' page is inappropriate",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2795",
+          "created_at": "2024-09-12T14:58:53Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2786#pullrequestreview-2298875131",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2786",
+          "submitted_at": "2024-09-11T22:53:13Z"
+        }
+      ]
+    },
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2785#issuecomment-2344866044",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2785",
+          "created_at": "2024-09-11T23:03:11Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2793,
+          "title": "Enhance Test Coverage for `@yamada-ui/use-value`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2793",
+          "created_at": "2024-09-12T09:08:20Z",
+          "closed_at": null
+        },
+        {
+          "number": 2787,
+          "title": "Incorrect and duplicate theme type definitions",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2787",
+          "created_at": "2024-09-11T21:46:20Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2792,
+          "title": "Changed prettier export to local function",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2792",
+          "created_at": "2024-09-12T07:55:42Z",
+          "closed_at": null
+        },
+        {
+          "number": 2791,
+          "title": "Added group and peer style handlers",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2791",
+          "created_at": "2024-09-12T07:53:04Z",
+          "closed_at": null
+        },
+        {
+          "number": 2789,
+          "title": "Update data extraction and parsing logic",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2789",
+          "created_at": "2024-09-12T01:48:22Z",
+          "closed_at": "2024-09-12T01:56:30Z"
+        },
+        {
+          "number": 2788,
+          "title": "Updated theme references and types",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2788",
+          "created_at": "2024-09-11T23:05:54Z",
+          "closed_at": null
+        },
+        {
+          "number": 2786,
+          "title": "Added `@media print` to atRules",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2786",
+          "created_at": "2024-09-11T21:41:43Z",
+          "closed_at": "2024-09-11T23:51:14Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2790#pullrequestreview-2299592213",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2790",
+          "submitted_at": "2024-09-12T08:32:01Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/92#pullrequestreview-2299285368",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/92",
+          "submitted_at": "2024-09-12T05:59:19Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/40#pullrequestreview-2299281061",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-theme/pulls/40",
+          "submitted_at": "2024-09-12T05:56:00Z"
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
