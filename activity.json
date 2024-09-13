@@ -46115,5 +46115,61 @@
     "Shunii85": null,
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-13": {
+    "108yen": {
+      "issues": [
+        {
+          "number": 2798,
+          "title": "`ContextMenu` is displayed in the wrong position",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2798",
+          "created_at": "2024-09-13T14:39:04Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2796#issuecomment-2347769960",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2796",
+          "created_at": "2024-09-13T01:00:54Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 2796,
+          "title": "Colors used in `DropzoneAccept` in `Dropzone` are wrong.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2796",
+          "created_at": "2024-09-12T16:16:27Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
