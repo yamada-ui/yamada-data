@@ -46171,5 +46171,138 @@
     "Shunii85": null,
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-14": {
+    "108yen": {
+      "issues": [
+        {
+          "number": 47,
+          "title": "Add ability to export and import theme",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/47",
+          "created_at": "2024-09-13T15:38:37Z",
+          "closed_at": null
+        },
+        {
+          "number": 46,
+          "title": "Save theme in `indexDB` when changing theme",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/46",
+          "created_at": "2024-09-13T15:33:41Z",
+          "closed_at": null
+        },
+        {
+          "number": 45,
+          "title": "Discuss display of components",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/45",
+          "created_at": "2024-09-13T15:29:07Z",
+          "closed_at": null
+        },
+        {
+          "number": 44,
+          "title": "Discuss implementing code formatting",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/44",
+          "created_at": "2024-09-13T15:22:41Z",
+          "closed_at": null
+        },
+        {
+          "number": 43,
+          "title": "Discuss implementing form validation",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/43",
+          "created_at": "2024-09-13T15:18:28Z",
+          "closed_at": null
+        },
+        {
+          "number": 42,
+          "title": "Arrange navigation tree style",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/42",
+          "created_at": "2024-09-13T15:13:38Z",
+          "closed_at": null
+        },
+        {
+          "number": 41,
+          "title": "`ContextMenu` is hidden behind other components",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/41",
+          "created_at": "2024-09-13T15:08:26Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1737#issuecomment-2350972463",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1737",
+          "created_at": "2024-09-14T12:21:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1737#issuecomment-2350973576",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1737",
+          "created_at": "2024-09-14T12:26:28Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1737#issuecomment-2351006331",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1737",
+          "created_at": "2024-09-14T14:12:24Z"
+        }
+      ]
+    },
+    "illionillion": null,
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2797#issuecomment-2350738292",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2797",
+          "created_at": "2024-09-14T00:27:34Z"
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2674#issuecomment-2351011460",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2674",
+          "created_at": "2024-09-14T14:28:19Z"
+        }
+      ]
+    },
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1959#issuecomment-2350991291",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1959",
+          "created_at": "2024-09-14T13:26:19Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1959#issuecomment-2350992311",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1959",
+          "created_at": "2024-09-14T13:29:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1959#issuecomment-2351000024",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1959",
+          "created_at": "2024-09-14T13:54:05Z"
+        }
+      ]
+    },
+    "Haruki0261": null,
+    "odendayoko": null,
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
