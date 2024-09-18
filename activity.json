@@ -46466,5 +46466,206 @@
     "Shunii85": null,
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-18": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "illionillion": {
+      "issues": [
+        {
+          "number": 495,
+          "title": "Refactor `Navbar` component examples ",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/495",
+          "created_at": "2024-09-18T14:18:29Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 496,
+          "title": "Refactor `Navbar` component examples ",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/496",
+          "created_at": "2024-09-18T14:32:17Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": {
+      "pullRequests": [
+        {
+          "number": 2820,
+          "title": "Added `Fontawesome icon` test",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2820",
+          "created_at": "2024-09-17T15:05:03Z",
+          "closed_at": "2024-09-17T18:14:35Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2822#pullrequestreview-2310063162",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2822",
+          "submitted_at": "2024-09-17T15:11:19Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2831#pullrequestreview-2312463597",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2831",
+          "submitted_at": "2024-09-18T11:54:59Z"
+        }
+      ]
+    },
+    "setodeve": null,
+    "hirotomoyamada": {
+      "issues": [
+        {
+          "number": 2828,
+          "title": "Incorrect value for `date-value` in `Calendar`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2828",
+          "created_at": "2024-09-18T08:56:33Z",
+          "closed_at": null
+        },
+        {
+          "number": 2827,
+          "title": "We want to omit value in `Option` of `Autocomplete`.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2827",
+          "created_at": "2024-09-18T08:24:28Z",
+          "closed_at": null
+        },
+        {
+          "number": 2826,
+          "title": "We want to omit value in `Option` of `Select`.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2826",
+          "created_at": "2024-09-18T08:22:14Z",
+          "closed_at": null
+        },
+        {
+          "number": 2824,
+          "title": "Semantic token type definitions are not output correctly in the CLI.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2824",
+          "created_at": "2024-09-18T08:05:55Z",
+          "closed_at": null
+        },
+        {
+          "number": 2823,
+          "title": "Type definitions of `colors` and `sizes` are not output correctly in the CLI",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2823",
+          "created_at": "2024-09-18T08:05:10Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2829,
+          "title": "Corrected date-value in `useMonth`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2829",
+          "created_at": "2024-09-18T08:59:16Z",
+          "closed_at": null
+        },
+        {
+          "number": 2825,
+          "title": "Expanded the functionality so that you can set responsive objects in the theme",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2825",
+          "created_at": "2024-09-18T08:19:07Z",
+          "closed_at": null
+        },
+        {
+          "number": 2821,
+          "title": "Added `useValue` test",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2821",
+          "created_at": "2024-09-17T15:05:23Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2822#pullrequestreview-2310447043",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2822",
+          "submitted_at": "2024-09-17T17:54:03Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2820#pullrequestreview-2310466232",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2820",
+          "submitted_at": "2024-09-17T18:04:09Z"
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": {
+      "issues": [
+        {
+          "number": 2830,
+          "title": "Incorrect JSDoc Comment Placement in `SaturationSlider` and `HueSlider`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2830",
+          "created_at": "2024-09-18T09:20:37Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2822,
+          "title": "feat: add test for ColorPickerEyeDropper cloning children",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2822",
+          "created_at": "2024-09-17T15:10:29Z",
+          "closed_at": "2024-09-17T17:54:19Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2820#pullrequestreview-2310083177",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2820",
+          "submitted_at": "2024-09-17T15:18:53Z"
+        }
+      ]
+    },
+    "Haruki0261": null,
+    "odendayoko": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2831#pullrequestreview-2312413383",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2831",
+          "submitted_at": "2024-09-18T11:32:09Z"
+        }
+      ]
+    },
+    "hironokobari": null,
+    "neginasu": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2822#pullrequestreview-2310170426",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2822",
+          "submitted_at": "2024-09-17T15:54:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2820#pullrequestreview-2310171162",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2820",
+          "submitted_at": "2024-09-17T15:55:08Z"
+        }
+      ]
+    },
+    "Shunii85": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2829#pullrequestreview-2312701410",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2829",
+          "submitted_at": "2024-09-18T13:29:00Z"
+        }
+      ]
+    },
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
