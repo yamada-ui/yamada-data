@@ -46478,7 +46478,7 @@
           "title": "Refactor `Navbar` component examples ",
           "html_url": "https://github.com/yamada-ui/yamada-components/issues/495",
           "created_at": "2024-09-18T14:18:29Z",
-          "closed_at": null
+          "closed_at": "2024-09-19T06:32:22Z"
         }
       ],
       "pullRequests": [
@@ -46487,7 +46487,7 @@
           "title": "Refactor `Navbar` component examples ",
           "html_url": "https://github.com/yamada-ui/yamada-components/pull/496",
           "created_at": "2024-09-18T14:32:17Z",
-          "closed_at": null
+          "closed_at": "2024-09-19T06:32:21Z"
         }
       ]
     },
@@ -46531,7 +46531,7 @@
           "title": "Incorrect value for `date-value` in `Calendar`",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2828",
           "created_at": "2024-09-18T08:56:33Z",
-          "closed_at": null
+          "closed_at": "2024-09-19T13:19:51Z"
         },
         {
           "number": 2827,
@@ -46568,7 +46568,7 @@
           "title": "Corrected date-value in `useMonth`",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2829",
           "created_at": "2024-09-18T08:59:16Z",
-          "closed_at": null
+          "closed_at": "2024-09-19T13:19:50Z"
         },
         {
           "number": 2825,
@@ -46582,7 +46582,7 @@
           "title": "Added `useValue` test",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2821",
           "created_at": "2024-09-17T15:05:23Z",
-          "closed_at": null
+          "closed_at": "2024-09-18T22:05:02Z"
         }
       ],
       "approved": [
