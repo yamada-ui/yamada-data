@@ -46667,5 +46667,120 @@
     },
     "Haru-0001": null,
     "shiro8t": null
+  },
+  "2024-09-19": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2836#pullrequestreview-2315568309",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2836",
+          "submitted_at": "2024-09-19T13:34:15Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "illionillion": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/480#issuecomment-2359875624",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/480",
+          "created_at": "2024-09-19T02:55:54Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "quantumshiro": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2835#issuecomment-2360877189",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2835",
+          "created_at": "2024-09-19T12:39:10Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2835,
+          "title": "Change change throw Error to console.warn",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2835",
+          "created_at": "2024-09-19T12:30:35Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "setodeve": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2832#issuecomment-2360229674",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2832",
+          "created_at": "2024-09-19T07:43:26Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2829#issuecomment-2360230650",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2829",
+          "created_at": "2024-09-19T07:43:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2798#issuecomment-2361200859",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2798",
+          "created_at": "2024-09-19T14:41:53Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2834,
+          "title": "Updated `Input` component handling",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2834",
+          "created_at": "2024-09-19T06:50:59Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2836#pullrequestreview-2315763455",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2836",
+          "submitted_at": "2024-09-19T14:39:23Z"
+        }
+      ]
+    },
+    "aose-yuu": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "Haruki0261": null,
+    "odendayoko": {
+      "issues": [
+        {
+          "number": 2833,
+          "title": "The number of comments on issues are not reflected on the insight page.",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2833",
+          "created_at": "2024-09-18T16:05:16Z",
+          "closed_at": null
+        }
+      ],
+      "pullRequests": [
+        {
+          "number": 2836,
+          "title": "Add 2xl breakpoint to useBreakpointValue example",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2836",
+          "created_at": "2024-09-19T13:24:43Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "hironokobari": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null,
+    "shiro8t": null
   }
 }
