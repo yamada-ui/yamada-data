@@ -44924,11 +44924,6 @@
     "illionillion": {
       "comments": [
         {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2721#issuecomment-2336714676",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2721",
-          "created_at": "2024-09-08T14:49:47Z"
-        },
-        {
           "html_url": "https://github.com/yamada-ui/yamada-components/pull/486#issuecomment-2336544348",
           "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/486",
           "created_at": "2024-09-08T04:40:51Z"
@@ -44949,7 +44944,7 @@
           "title": "refactor(order): updated the file tab order logic",
           "html_url": "https://github.com/yamada-ui/yamada-components/pull/488",
           "created_at": "2024-09-08T03:57:33Z",
-          "closed_at": null
+          "closed_at": "2024-09-10T16:41:45Z"
         }
       ]
     },
@@ -44966,20 +44961,13 @@
       ]
     },
     "fffk10": {
-      "comments": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2742#issuecomment-2336697379",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2742",
-          "created_at": "2024-09-08T14:00:48Z"
-        }
-      ],
       "issues": [
         {
           "number": 2742,
           "title": "The gatsby-browser.tsx example on the `Getting Started with Gatsby' page is inappropriate",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2742",
           "created_at": "2024-09-08T14:00:26Z",
-          "closed_at": null
+          "closed_at": "2024-09-11T21:40:50Z"
         }
       ],
       "pullRequests": [
@@ -44988,7 +44976,7 @@
           "title": "feat:create yamada app update Remix template",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2737",
           "created_at": "2024-09-07T16:02:23Z",
-          "closed_at": null
+          "closed_at": "2024-09-10T06:29:45Z"
         }
       ]
     },
@@ -44997,28 +44985,6 @@
     "kaz-uen": null,
     "setodeve": null,
     "hirotomoyamada": {
-      "comments": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2721#issuecomment-2336588747",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2721",
-          "created_at": "2024-09-08T08:02:21Z"
-        },
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2740#issuecomment-2336603846",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2740",
-          "created_at": "2024-09-08T08:52:21Z"
-        },
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-components/pull/443#issuecomment-2336573658",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/443",
-          "created_at": "2024-09-08T07:03:15Z"
-        },
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-components/pull/435#issuecomment-2336574100",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/435",
-          "created_at": "2024-09-08T07:05:05Z"
-        }
-      ],
       "issues": [
         {
           "number": 2738,
@@ -45034,7 +45000,7 @@
           "title": "Reorganize type definitions in files",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2743",
           "created_at": "2024-09-08T14:48:00Z",
-          "closed_at": null
+          "closed_at": "2024-09-08T15:39:37Z"
         },
         {
           "number": 2741,
@@ -45060,15 +45026,7 @@
     "haru-036": null,
     "uraaaa24": null,
     "Haruki0261": null,
-    "odendayoko": {
-      "comments": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2355#issuecomment-2336580796",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2355",
-          "created_at": "2024-09-08T07:31:45Z"
-        }
-      ]
-    },
+    "odendayoko": null,
     "hironokobari": null,
     "neginasu": null,
     "Shunii85": null,
