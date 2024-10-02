@@ -51516,5 +51516,130 @@
         }
       ]
     }
+  },
+  "2024-10-02": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/52#pullrequestreview-2341850731",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-theme/pulls/52",
+          "submitted_at": "2024-10-02T03:38:32Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3031#pullrequestreview-2342348692",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3031",
+          "submitted_at": "2024-10-02T09:36:55Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3033#pullrequestreview-2343066888",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3033",
+          "submitted_at": "2024-10-02T14:07:38Z"
+        }
+      ]
+    },
+    "mei28": null,
+    "aiirononeko": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": {
+      "pullRequests": [
+        {
+          "number": 3030,
+          "title": "fix: displayName is not set for the component of \"@yamada-ui/pin-input\"",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3030",
+          "created_at": "2024-10-02T08:27:21Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3032#pullrequestreview-2343059617",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3032",
+          "submitted_at": "2024-10-02T14:04:43Z"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": {
+      "pullRequests": [
+        {
+          "number": 3033,
+          "title": "Set `displayName` and `__ui__` for `@yamada-ui/file-input`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3033",
+          "created_at": "2024-10-02T13:35:03Z",
+          "closed_at": null
+        },
+        {
+          "number": 3032,
+          "title": "Set `displayName` and `__ui__` for `@yamada-ui/charts`",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3032",
+          "created_at": "2024-10-02T13:26:18Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2869#issuecomment-2387931907",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2869",
+          "created_at": "2024-10-02T08:40:17Z"
+        }
+      ]
+    },
+    "kurakke": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3033#pullrequestreview-2343132329",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3033",
+          "submitted_at": "2024-10-02T14:32:49Z"
+        }
+      ]
+    },
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3025#pullrequestreview-2342278479",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3025",
+          "submitted_at": "2024-10-02T09:12:38Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2835#pullrequestreview-2342962183",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2835",
+          "submitted_at": "2024-10-02T13:30:38Z"
+        }
+      ]
+    },
+    "odendayoko": {
+      "comments": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/52#issuecomment-2388873529",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-theme/issues/52",
+          "created_at": "2024-10-02T14:54:48Z"
+        }
+      ]
+    },
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
