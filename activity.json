@@ -51641,5 +51641,92 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-03": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "aiirononeko": null,
+    "illionillion": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/511#pullrequestreview-2344573376",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/511",
+          "submitted_at": "2024-10-03T03:31:50Z"
+        }
+      ],
+      "issues": [
+        {
+          "number": 3035,
+          "title": "Markdown components do not work in Safari prior to version 16.4",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3035",
+          "created_at": "2024-10-03T13:30:47Z",
+          "closed_at": null
+        },
+        {
+          "number": 512,
+          "title": "Support for ignore flag in `scripts/search-content.ts`",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/512",
+          "created_at": "2024-10-03T05:57:31Z",
+          "closed_at": null
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2978#pullrequestreview-2344571459",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2978",
+          "submitted_at": "2024-10-03T03:28:56Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "kaz-uen": null,
+    "hirotomoyamada": null,
+    "kurakke": {
+      "pullRequests": [
+        {
+          "number": 3034,
+          "title": "set the displayName and __ui__ of the Link component",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3034",
+          "created_at": "2024-10-03T12:35:49Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3030#pullrequestreview-2345060747",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3030",
+          "submitted_at": "2024-10-03T09:10:41Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": {
+      "pullRequests": [
+        {
+          "number": 3036,
+          "title": "add roles and descriptions to carousel component",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3036",
+          "created_at": "2024-10-03T14:57:56Z",
+          "closed_at": null
+        }
+      ]
+    },
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
