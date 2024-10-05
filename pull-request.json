@@ -6,16 +6,9 @@
   "addHelpWantedDay": 7,
   "excludeReviewers": ["hirotomoyamada", "hajimemat"],
   "preferredReviewers": {
-    "neginasu": ["hirotomoyamada", "kaehehehe", "uraaaa24"],
-    "kaehehehe": ["hirotomoyamada", "neginasu", "uraaaa24"],
-    "uraaaa24": ["hirotomoyamada", "neginasu", "kaehehehe"],
-    "takaakichida": ["cidkumagai", "0xtkey256"],
-    "0xtkey256": ["cidkumagai", "takaakichida"],
-    "kurakke": ["koralle", "fffk10", "aose-yuu"],
-    "fffk10": ["koralle", "kurakke", "aose-yuu"],
-    "aose-yuu": ["koralle", "kurakke", "fffk10"],
-    "shiro8t": ["setodeve", "kaz-uen", "Haruki0261"],
-    "kaz-uen": ["setodeve", "shiro8t", "Haruki0261"],
-    "Haruki0261": ["setodeve", "shiro8t", "kaz-uen"]
+    "Itsuki54": ["illionillion", "aiirononeko"],
+    "aiirononeko": ["illionillion", "Itsuki54"],
+    "mei28": ["108yen", "taiseiiiii"],
+    "taiseiiiii": ["108yen", "mei28"]
   }
 }
