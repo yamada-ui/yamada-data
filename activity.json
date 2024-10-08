@@ -52489,5 +52489,157 @@
         }
       ]
     }
+  },
+  "2024-10-08": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3066#pullrequestreview-2353167851",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3066",
+          "submitted_at": "2024-10-08T00:48:35Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-08T13:32:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3073",
+          "number": 3073,
+          "title": "feat(docs): add accessibility section for Toggle component"
+        }
+      ]
+    },
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3068#pullrequestreview-2353203034",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3068",
+          "submitted_at": "2024-10-08T01:36:21Z"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-08T04:02:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/516",
+          "number": 516,
+          "title": "Fix Simple pagination button"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/511#pullrequestreview-2353319940",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/511",
+          "submitted_at": "2024-10-08T04:00:39Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3021#pullrequestreview-2353258818",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3021",
+          "submitted_at": "2024-10-08T02:48:44Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/507#pullrequestreview-2353306852",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/507",
+          "submitted_at": "2024-10-08T03:42:36Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-08T13:25:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/517",
+          "number": 517,
+          "title": "Add SideBar Example"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3072#pullrequestreview-2353447795",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3072",
+          "submitted_at": "2024-10-08T05:43:07Z"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3057#pullrequestreview-2354456607",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3057",
+          "submitted_at": "2024-10-08T13:13:01Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/2961#pullrequestreview-2353318293",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/2961",
+          "submitted_at": "2024-10-08T03:58:28Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3047#pullrequestreview-2353180556",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3047",
+          "submitted_at": "2024-10-08T01:06:31Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/511#pullrequestreview-2354424278",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/511",
+          "submitted_at": "2024-10-08T13:00:56Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3021#pullrequestreview-2354410262",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3021",
+          "submitted_at": "2024-10-08T12:55:34Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/507#pullrequestreview-2354423518",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/507",
+          "submitted_at": "2024-10-08T13:00:39Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3072#pullrequestreview-2354054895",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3072",
+          "submitted_at": "2024-10-08T10:18:42Z"
+        }
+      ]
+    },
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3069#pullrequestreview-2353181667",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3069",
+          "submitted_at": "2024-10-08T01:08:12Z"
+        }
+      ]
+    }
   }
 }
