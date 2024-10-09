@@ -52641,5 +52641,187 @@
         }
       ]
     }
+  },
+  "2024-10-09": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2024-10-09T13:14:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3081#issuecomment-2402319351",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3081"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3081#pullrequestreview-2356958097",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3081",
+          "submitted_at": "2024-10-09T12:09:40Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-09T12:03:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3082",
+          "number": 3082,
+          "title": "Accessibility tab of `Modal` component ja page is written in english"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3081#pullrequestreview-2357220417",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3081",
+          "submitted_at": "2024-10-09T13:47:09Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "aiirononeko": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2024-10-09T00:15:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/516#issuecomment-2401026744",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/516"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-09T01:14:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/518",
+          "number": 518,
+          "title": "Correction of `Headers/WithTabs`'s menu group"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": {
+      "comments": [
+        {
+          "created_at": "2024-10-09T13:05:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3081#issuecomment-2402281810",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3081"
+        },
+        {
+          "created_at": "2024-10-09T13:36:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3081#issuecomment-2402373300",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3081"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3063#pullrequestreview-2355797636",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3063",
+          "submitted_at": "2024-10-09T01:53:29Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-09T11:45:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3081",
+          "number": 3081,
+          "title": "feat(docs): add the a11y section for Button component"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3073#pullrequestreview-2356734099",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3073",
+          "submitted_at": "2024-10-09T10:29:12Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": {
+      "comments": [
+        {
+          "created_at": "2024-10-09T14:16:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3074#issuecomment-2402475519",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3074"
+        }
+      ]
+    },
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-10-09T11:33:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2888#issuecomment-2402067860",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2888"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3074#pullrequestreview-2356969919",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3074",
+          "submitted_at": "2024-10-09T12:14:58Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-09T01:58:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/519",
+          "number": 519,
+          "title": "Add base config for ESLint rules"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-09T01:39:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/54",
+          "number": 54,
+          "title": "Add ESLint configurations and rules"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-09T01:11:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/96",
+          "number": 96,
+          "title": "Add eslint configuration and rules"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3078#pullrequestreview-2356386415",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3078",
+          "submitted_at": "2024-10-09T08:06:01Z"
+        }
+      ]
+    },
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3074#pullrequestreview-2355868681",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3074",
+          "submitted_at": "2024-10-09T03:19:55Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3079#pullrequestreview-2356706513",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3079",
+          "submitted_at": "2024-10-09T10:16:40Z"
+        }
+      ]
+    },
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
