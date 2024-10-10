@@ -52823,5 +52823,148 @@
     },
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-10": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-10T14:43:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3085",
+          "number": 3085,
+          "title": "feat(docs): add accessibility section for FileInput component"
+        }
+      ]
+    },
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/96#pullrequestreview-2359079090",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/96",
+          "submitted_at": "2024-10-10T06:07:56Z"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2024-10-10T14:11:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3083#issuecomment-2405208024",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3083"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/520#pullrequestreview-2358806001",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/520",
+          "submitted_at": "2024-10-10T03:53:48Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-10-10T14:53:22Z",
+          "created_at": "2024-10-10T06:57:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3083",
+          "number": 3083,
+          "title": "fixed `node=\"[object Object]\"` in `Markdown` document and storybook"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-10T05:59:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/521",
+          "number": 521,
+          "title": "refactor: changed `labelProps`"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3063#pullrequestreview-2359537747",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3063",
+          "submitted_at": "2024-10-10T08:46:29Z"
+        }
+      ]
+    },
+    "quantumshiro": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/521#pullrequestreview-2359117795",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/521",
+          "submitted_at": "2024-10-10T06:26:24Z"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-10T14:26:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3084",
+          "number": 3084,
+          "title": "Implementation of the Swap component"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3075#pullrequestreview-2359653160",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3075",
+          "submitted_at": "2024-10-10T09:34:26Z"
+        }
+      ]
+    },
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3083#pullrequestreview-2360511681",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3083",
+          "submitted_at": "2024-10-10T14:12:42Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3074#pullrequestreview-2360377977",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3074",
+          "submitted_at": "2024-10-10T13:42:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3063#pullrequestreview-2360492623",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3063",
+          "submitted_at": "2024-10-10T14:06:03Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3083#pullrequestreview-2360443176",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3083",
+          "submitted_at": "2024-10-10T13:55:36Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3080#pullrequestreview-2360433246",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3080",
+          "submitted_at": "2024-10-10T13:53:32Z"
+        }
+      ]
+    },
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
