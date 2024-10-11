@@ -52966,5 +52966,74 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-11": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/54#pullrequestreview-2362695921",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-theme/pulls/54",
+          "submitted_at": "2024-10-11T12:29:34Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "aiirononeko": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3091#pullrequestreview-2362280386",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3091",
+          "submitted_at": "2024-10-11T08:41:52Z"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3086#pullrequestreview-2363012510",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3086",
+          "submitted_at": "2024-10-11T14:57:33Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3093#pullrequestreview-2362988871",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3093",
+          "submitted_at": "2024-10-11T14:46:17Z"
+        }
+      ]
+    },
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-11T14:27:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3094",
+          "number": 3094,
+          "title": "Input value are not reset when `MultiAutocomplete` has `allowCreate` set to `true`."
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
