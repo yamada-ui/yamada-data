@@ -53035,5 +53035,113 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-12": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-12T12:54:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3100",
+          "number": 3100,
+          "title": "feat(docs): add accessibility section for `pagination` component"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2024-10-12T10:01:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/511#issuecomment-2408505479",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/511"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3098#pullrequestreview-2363805511",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3098",
+          "submitted_at": "2024-10-12T06:36:28Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/520#pullrequestreview-2363889999",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/520",
+          "submitted_at": "2024-10-12T10:45:14Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-10-12T09:08:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2882#issuecomment-2408468894",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2882"
+        },
+        {
+          "created_at": "2024-10-12T14:14:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2879#issuecomment-2408579669",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2879"
+        },
+        {
+          "created_at": "2024-10-12T09:22:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/506#issuecomment-2408472964",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/506"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-12T09:09:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3099",
+          "number": 3099,
+          "title": "Enhance Test Coverage for `@yamada-ui/select`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/520#pullrequestreview-2363918235",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/520",
+          "submitted_at": "2024-10-12T14:16:02Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": {
+      "comments": [
+        {
+          "created_at": "2024-10-12T09:32:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3019#issuecomment-2408475935",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3019"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/520#pullrequestreview-2363859873",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/520",
+          "submitted_at": "2024-10-12T09:50:12Z"
+        }
+      ]
+    },
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
