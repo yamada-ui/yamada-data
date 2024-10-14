@@ -53240,5 +53240,166 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-14": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2024-10-14T04:21:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3100#issuecomment-2409914479",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3100"
+        },
+        {
+          "created_at": "2024-10-14T13:08:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3100#issuecomment-2411206750",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3100"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3112#pullrequestreview-2366672951",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3112",
+          "submitted_at": "2024-10-14T13:36:27Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "comments": [
+        {
+          "created_at": "2024-10-14T03:40:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3100#issuecomment-2409882719",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3100"
+        },
+        {
+          "created_at": "2024-10-14T04:50:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3100#issuecomment-2409940437",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3100"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3104#pullrequestreview-2365477109",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3104",
+          "submitted_at": "2024-10-14T06:32:35Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3003#pullrequestreview-2366218686",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3003",
+          "submitted_at": "2024-10-14T10:49:14Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3111#pullrequestreview-2365280372",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3111",
+          "submitted_at": "2024-10-14T04:37:03Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "issues": [
+        {
+          "closed_at": "2024-10-14T12:06:33Z",
+          "created_at": "2024-10-14T02:08:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3110",
+          "number": 3110,
+          "title": "The type definition of `useClickable` is wrong."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-14T02:05:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3109",
+          "number": 3109,
+          "title": "We want to add `role=\"rowheader\"` to `td` in `Table`."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-14T02:02:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3108",
+          "number": 3108,
+          "title": "If all rows in `Table` are invalid, all will show as selected"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-14T02:00:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3107",
+          "number": 3107,
+          "title": "Sorting of `Table` component is not keyboard controlled."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-14T01:58:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3106",
+          "number": 3106,
+          "title": "Keyboard operation is not possible with the `Table` component."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-14T01:54:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3105",
+          "number": 3105,
+          "title": "All `td` in `Table` component have `\"aria-colindex\"`."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-14T04:38:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3112",
+          "number": 3112,
+          "title": "Added keyboard and `rowHeader` support"
+        },
+        {
+          "closed_at": "2024-10-14T12:06:32Z",
+          "created_at": "2024-10-14T04:24:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3111",
+          "number": 3111,
+          "title": "Fixed `useClickable` types."
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "comments": [
+        {
+          "created_at": "2024-10-14T02:28:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/issues/39#issuecomment-2409810183",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-theme/issues/39"
+        }
+      ]
+    },
+    "neginasu": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3111#pullrequestreview-2365287589",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3111",
+          "submitted_at": "2024-10-14T04:47:22Z"
+        }
+      ]
+    },
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
