@@ -53891,5 +53891,207 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-17": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2024-10-17T00:55:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#issuecomment-2418267382",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3147"
+        },
+        {
+          "created_at": "2024-10-17T03:59:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#issuecomment-2418448277",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3147"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#pullrequestreview-2375072067",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3147",
+          "submitted_at": "2024-10-17T12:24:15Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "comments": [
+        {
+          "created_at": "2024-10-17T13:52:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3038#issuecomment-2419614104",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3038"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3121#pullrequestreview-2375000831",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3121",
+          "submitted_at": "2024-10-17T11:59:43Z"
+        }
+      ]
+    },
+    "mei28": null,
+    "aiirononeko": null,
+    "illionillion": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T12:31:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/529",
+          "number": 529,
+          "title": "Create `Faq page header` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T12:28:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/528",
+          "number": 528,
+          "title": "Create `Navbar with nested links` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T12:26:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/527",
+          "number": 527,
+          "title": "Create `Navbar with search` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T12:18:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/526",
+          "number": 526,
+          "title": "Replacing the same image with another image."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T12:06:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/525",
+          "number": 525,
+          "title": "Delete and hide components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T12:02:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/523",
+          "number": 523,
+          "title": "Fix the forgetting to add `position: relative;`."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T12:03:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/524",
+          "number": 524,
+          "title": "fix: fix the forgetting to add `position: relative;`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/519#pullrequestreview-2375382450",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/519",
+          "submitted_at": "2024-10-17T14:12:53Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": {
+      "comments": [
+        {
+          "created_at": "2024-10-17T03:35:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#issuecomment-2418427013",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3147"
+        },
+        {
+          "created_at": "2024-10-17T04:09:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#issuecomment-2418456664",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3147"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-10-17T14:58:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3084#issuecomment-2419786630",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3084"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T04:09:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3149",
+          "number": 3149,
+          "title": "Update @yamada-ui/popover accessibility "
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-17T14:57:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3150",
+          "number": 3150,
+          "title": "Implementation of the Swap component"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3121#pullrequestreview-2374630360",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3121",
+          "submitted_at": "2024-10-17T09:13:09Z"
+        }
+      ]
+    },
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "zonoryo17": {
+      "comments": [
+        {
+          "created_at": "2024-10-17T14:02:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3038#issuecomment-2419641939",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3038"
+        },
+        {
+          "created_at": "2024-10-17T14:13:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3038#issuecomment-2419672220",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3038"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3128#pullrequestreview-2375338378",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3128",
+          "submitted_at": "2024-10-17T13:59:12Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/524#pullrequestreview-2375389927",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/524",
+          "submitted_at": "2024-10-17T14:15:20Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3138#pullrequestreview-2375393955",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3138",
+          "submitted_at": "2024-10-17T14:16:42Z"
+        }
+      ]
+    },
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
