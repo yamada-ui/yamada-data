@@ -54093,5 +54093,160 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-18": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2024-10-18T06:33:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3148#issuecomment-2421537457",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3148"
+        },
+        {
+          "created_at": "2024-10-18T07:14:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3148#issuecomment-2421617897",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3148"
+        },
+        {
+          "created_at": "2024-10-18T14:31:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3152#issuecomment-2422618200",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3152"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-18T08:58:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3152",
+          "number": 3152,
+          "title": "Wrong text of `InfiniteScrollArea` documentation"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#pullrequestreview-2378004108",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3147",
+          "submitted_at": "2024-10-18T12:55:08Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3145#pullrequestreview-2378102763",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3145",
+          "submitted_at": "2024-10-18T13:38:15Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "comments": [
+        {
+          "created_at": "2024-10-18T13:31:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3100#issuecomment-2422486319",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3100"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": {
+      "comments": [
+        {
+          "created_at": "2024-10-18T12:54:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#issuecomment-2422413774",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3147"
+        }
+      ]
+    },
+    "quantumshiro": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3091#pullrequestreview-2377672760",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3091",
+          "submitted_at": "2024-10-18T10:20:15Z"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3135#pullrequestreview-2376945452",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3135",
+          "submitted_at": "2024-10-18T04:12:30Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-10-18T14:05:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2880#issuecomment-2422558274",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2880"
+        },
+        {
+          "created_at": "2024-10-18T14:05:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2887#issuecomment-2422559599",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2887"
+        },
+        {
+          "created_at": "2024-10-18T14:08:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3152#issuecomment-2422566757",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3152"
+        },
+        {
+          "created_at": "2024-10-18T14:02:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/524#issuecomment-2422552314",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/524"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/524#pullrequestreview-2378162806",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/524",
+          "submitted_at": "2024-10-18T14:01:43Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": {
+      "comments": [
+        {
+          "created_at": "2024-10-18T03:50:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2880#issuecomment-2421276833",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2880"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-18T14:36:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/531",
+          "number": 531,
+          "title": "Hidden components appear in search results"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-18T14:11:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/530",
+          "number": 530,
+          "title": "Delete unwanted components"
+        }
+      ]
+    }
   }
 }
