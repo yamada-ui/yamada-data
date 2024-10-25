@@ -56140,5 +56140,99 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-25": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-25T06:08:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3235",
+          "number": 3235,
+          "title": "Remove unnecessary layout animation of `Switch` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "aiirononeko": null,
+    "illionillion": null,
+    "taroj1205": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3231#pullrequestreview-2394116486",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3231",
+          "submitted_at": "2024-10-25T04:04:09Z"
+        }
+      ]
+    },
+    "taiseiiiii": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3180#pullrequestreview-2394106881",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3180",
+          "submitted_at": "2024-10-25T03:50:22Z"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "kaehehehe": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-25T05:34:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3234",
+          "number": 3234,
+          "title": "Add documentation for `Airy`, `Rotate`, and `Flip` components."
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-10-25T07:56:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3229#issuecomment-2437136533",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3229"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/541#pullrequestreview-2394569797",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/541",
+          "submitted_at": "2024-10-25T08:23:38Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/541#pullrequestreview-2394513035",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/541",
+          "submitted_at": "2024-10-25T08:04:03Z"
+        }
+      ]
+    },
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3235#pullrequestreview-2394461295",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3235",
+          "submitted_at": "2024-10-25T07:40:32Z"
+        }
+      ]
+    },
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
