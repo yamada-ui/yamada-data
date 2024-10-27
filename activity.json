@@ -55180,7 +55180,7 @@
       ],
       "issues": [
         {
-          "closed_at": null,
+          "closed_at": "2024-10-27T06:02:21Z",
           "created_at": "2024-10-22T07:34:00Z",
           "html_url": "https://github.com/yamada-ui/yamada-components/issues/539",
           "number": 539,
@@ -55189,14 +55189,14 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-10-25T08:23:43Z",
           "created_at": "2024-10-22T08:35:33Z",
           "html_url": "https://github.com/yamada-ui/yamada-components/pull/541",
           "number": 541,
           "title": "Fixed hidden components appearing in list"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-27T06:02:20Z",
           "created_at": "2024-10-22T07:41:33Z",
           "html_url": "https://github.com/yamada-ui/yamada-components/pull/540",
           "number": 540,
@@ -55254,6 +55254,11 @@
           "created_at": "2024-10-22T14:46:40Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#issuecomment-2429494027",
           "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3147"
+        },
+        {
+          "created_at": "2024-10-22T15:44:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3150#issuecomment-2429640461",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3150"
         }
       ],
       "reviews": [
@@ -55490,6 +55495,13 @@
       ],
       "issues": [
         {
+          "closed_at": "2024-10-23T04:05:56Z",
+          "created_at": "2024-10-22T15:41:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3201",
+          "number": 3201,
+          "title": "Error thrown by `LoadingProvider`."
+        },
+        {
           "closed_at": null,
           "created_at": "2024-10-22T14:36:34Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3199",
@@ -55511,70 +55523,70 @@
           "title": "Add `useProcessing` documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-23T16:45:03Z",
           "created_at": "2024-10-22T09:46:42Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3195",
           "number": 3195,
           "title": "Unnecessary ARIA attribute is added to `Rating`"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-23T16:45:03Z",
           "created_at": "2024-10-22T09:45:57Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3194",
           "number": 3194,
           "title": "`Role=\"radiogroup\"` is not set in `Rating`"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-24T01:00:58Z",
           "created_at": "2024-10-22T06:39:25Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3192",
           "number": 3192,
           "title": "The omission of `Pagination` is clickable."
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-23T09:18:10Z",
           "created_at": "2024-10-22T05:20:20Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3188",
           "number": 3188,
           "title": "The `aria-hidden` option icon in `Menu` is not set"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-23T09:18:09Z",
           "created_at": "2024-10-22T05:19:02Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3187",
           "number": 3187,
           "title": "Option groups `Menu` do not have `aria-labelledby` set"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-23T09:18:09Z",
           "created_at": "2024-10-22T05:18:02Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3186",
           "number": 3186,
           "title": "`aria-labelledby` is not set in `Menu`"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T11:02:52Z",
           "created_at": "2024-10-22T05:15:52Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3185",
           "number": 3185,
           "title": "Unnecessary `aria-label` and `aria-multiselectable` are set in `MultiAutocomplete`"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T11:02:52Z",
           "created_at": "2024-10-22T05:14:00Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3184",
           "number": 3184,
           "title": "Non-existent roles are set in `Autocomplete` and `MultiAutocomplete`"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T11:02:53Z",
           "created_at": "2024-10-22T05:12:08Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3183",
           "number": 3183,
           "title": "Option groups such as `Autocomplete` and `Select` do not have `aria-labelledby` set"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T11:02:53Z",
           "created_at": "2024-10-22T05:09:57Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3182",
           "number": 3182,
@@ -55583,14 +55595,35 @@
       ],
       "pullRequests": [
         {
+          "closed_at": "2024-10-23T05:37:21Z",
+          "created_at": "2024-10-22T16:52:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3204",
+          "number": 3204,
+          "title": "Update various configurations and scripts"
+        },
+        {
           "closed_at": null,
+          "created_at": "2024-10-22T15:45:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3203",
+          "number": 3203,
+          "title": "Updated v1.6"
+        },
+        {
+          "closed_at": "2024-10-23T04:05:55Z",
+          "created_at": "2024-10-22T15:43:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3202",
+          "number": 3202,
+          "title": "Implemented forwardRef in loading components"
+        },
+        {
+          "closed_at": "2024-10-23T16:45:02Z",
           "created_at": "2024-10-22T09:53:23Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3196",
           "number": 3196,
           "title": "Updated aria attributes and props handling"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-24T01:00:57Z",
           "created_at": "2024-10-22T06:44:04Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3193",
           "number": 3193,
@@ -55604,14 +55637,14 @@
           "title": "Updated useRef type in component docs"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T11:02:51Z",
           "created_at": "2024-10-22T05:30:02Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3190",
           "number": 3190,
           "title": "Enhance accessibility of autocomplete elements"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-23T09:18:08Z",
           "created_at": "2024-10-22T05:25:26Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3189",
           "number": 3189,
@@ -55638,6 +55671,20 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3191#pullrequestreview-2384374231",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3191",
           "submitted_at": "2024-10-22T08:31:49Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3169#pullrequestreview-2386494122",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3169",
+          "submitted_at": "2024-10-22T22:15:30Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-22T15:32:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3200",
+          "number": 3200,
+          "title": "feat: add accessibility documentation for Select component"
         }
       ]
     },
@@ -55667,7 +55714,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-10-27T06:01:57Z",
           "created_at": "2024-10-22T07:03:18Z",
           "html_url": "https://github.com/yamada-ui/yamada-components/pull/538",
           "number": 538,
@@ -55691,7 +55738,15 @@
         }
       ]
     },
-    "taroj1205": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3193#pullrequestreview-2389825842",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3193",
+          "submitted_at": "2024-10-23T19:06:59Z"
+        }
+      ]
+    },
     "taiseiiiii": null,
     "quantumshiro": {
       "reviews": [
@@ -56001,7 +56056,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T23:23:33Z",
           "created_at": "2024-10-24T04:26:16Z",
           "html_url": "https://github.com/yamada-ui/yamada-components/pull/543",
           "number": 543,
@@ -56038,7 +56093,7 @@
       ],
       "issues": [
         {
-          "closed_at": null,
+          "closed_at": "2024-10-27T09:26:59Z",
           "created_at": "2024-10-24T10:27:59Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3230",
           "number": 3230,
@@ -56052,14 +56107,14 @@
           "title": "Enhance Test Coverage for `@yamada-ui/transitions`"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T10:51:51Z",
           "created_at": "2024-10-24T08:38:36Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3228",
           "number": 3228,
           "title": "The pagination layout of `PagingTable` is strange"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-24T18:42:33Z",
           "created_at": "2024-10-24T06:58:19Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3225",
           "number": 3225,
@@ -56082,7 +56137,7 @@
           "title": "Sync documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-24T18:42:32Z",
           "created_at": "2024-10-24T07:01:26Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3226",
           "number": 3226,
@@ -56139,7 +56194,25 @@
     "odendayoko": null,
     "neginasu": null,
     "Shunii85": null,
-    "Haru-0001": null
+    "Haru-0001": {
+      "comments": [
+        {
+          "created_at": "2024-10-24T16:03:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/526#issuecomment-2435689688",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/526"
+        },
+        {
+          "created_at": "2024-10-24T16:09:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/515#issuecomment-2435702748",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/515"
+        },
+        {
+          "created_at": "2024-10-24T16:10:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/issues/514#issuecomment-2435703701",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/514"
+        }
+      ]
+    }
   },
   "2024-10-25": {
     "108yen": {
@@ -56153,7 +56226,17 @@
         }
       ]
     },
-    "koralle": null,
+    "koralle": {
+      "pullRequests": [
+        {
+          "closed_at": "2024-10-27T14:23:13Z",
+          "created_at": "2024-10-25T18:04:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3237",
+          "number": 3237,
+          "title": "test(table): update coverages"
+        }
+      ]
+    },
     "chida09": null,
     "mei28": null,
     "aiirononeko": null,
@@ -56207,7 +56290,15 @@
         }
       ]
     },
-    "kurakke": null,
+    "kurakke": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/543#pullrequestreview-2395828494",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/543",
+          "submitted_at": "2024-10-25T16:35:13Z"
+        }
+      ]
+    },
     "zonoryo17": null,
     "bearone236": null,
     "0xtkey256": {
@@ -56236,7 +56327,15 @@
     "Haru-0001": null
   },
   "2024-10-26": {
-    "108yen": null,
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/57#pullrequestreview-2397270346",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-theme/pulls/57",
+          "submitted_at": "2024-10-26T15:06:14Z"
+        }
+      ]
+    },
     "koralle": {
       "reviews": [
         {
@@ -56254,7 +56353,7 @@
           "title": "feat(menu): add `displayName` to components related with `Menu`"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-10-26T23:29:18Z",
           "created_at": "2024-10-26T13:13:26Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3241",
           "number": 3241,
@@ -56343,6 +56442,21 @@
           "created_at": "2024-10-26T05:55:39Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3236#issuecomment-2439371714",
           "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3236"
+        },
+        {
+          "created_at": "2024-10-26T23:20:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2213#issuecomment-2439765238",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2213"
+        },
+        {
+          "created_at": "2024-10-26T23:24:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3165#issuecomment-2439765964",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3165"
+        },
+        {
+          "created_at": "2024-10-26T23:29:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3178#issuecomment-2439766724",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3178"
         }
       ],
       "reviews": [
@@ -56350,6 +56464,11 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3233#pullrequestreview-2397146128",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3233",
           "submitted_at": "2024-10-26T10:38:20Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3233#pullrequestreview-2397373965",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3233",
+          "submitted_at": "2024-10-26T23:27:34Z"
         },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3180#pullrequestreview-2397253411",
@@ -56367,12 +56486,27 @@
           "submitted_at": "2024-10-26T13:18:31Z"
         },
         {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3162#pullrequestreview-2397216843",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3162",
+          "submitted_at": "2024-10-26T11:26:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3162#pullrequestreview-2397373478",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3162",
+          "submitted_at": "2024-10-26T23:22:00Z"
+        },
+        {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3036#pullrequestreview-2397145666",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3036",
           "submitted_at": "2024-10-26T10:34:15Z"
         }
       ],
       "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3241#pullrequestreview-2397373515",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3241",
+          "submitted_at": "2024-10-26T23:22:32Z"
+        },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3236#pullrequestreview-2397057908",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3236",
@@ -56384,9 +56518,19 @@
           "submitted_at": "2024-10-26T10:44:33Z"
         },
         {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3162#pullrequestreview-2397216843",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/543#pullrequestreview-2397373587",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/543",
+          "submitted_at": "2024-10-26T23:23:28Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/537#pullrequestreview-2397373609",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/537",
+          "submitted_at": "2024-10-26T23:23:43Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3162#pullrequestreview-2397374705",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3162",
-          "submitted_at": "2024-10-26T11:26:51Z"
+          "submitted_at": "2024-10-26T23:39:02Z"
         },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3147#pullrequestreview-2397082353",
@@ -56465,6 +56609,191 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3203#pullrequestreview-2397082338",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3203",
           "submitted_at": "2024-10-26T09:15:01Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3203#pullrequestreview-2397082338",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3203",
+          "submitted_at": "2024-10-26T09:15:01Z"
+        }
+      ]
+    },
+    "Haru-0001": null
+  },
+  "2024-10-27": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3243#pullrequestreview-2397447403",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3243",
+          "submitted_at": "2024-10-27T09:32:01Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3243#pullrequestreview-2397528264",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3243",
+          "submitted_at": "2024-10-27T13:02:11Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "comments": [
+        {
+          "created_at": "2024-10-27T09:54:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3100#issuecomment-2439932773",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3100"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/540#pullrequestreview-2397403006",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/540",
+          "submitted_at": "2024-10-27T05:14:50Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/538#pullrequestreview-2397402407",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/538",
+          "submitted_at": "2024-10-27T05:07:30Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/534#pullrequestreview-2397402233",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/534",
+          "submitted_at": "2024-10-27T05:05:18Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "kaehehehe": null,
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-10-27T00:29:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2692#issuecomment-2439780724",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2692"
+        },
+        {
+          "created_at": "2024-10-27T09:07:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/2879#issuecomment-2439917433",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/2879"
+        },
+        {
+          "created_at": "2024-10-27T12:37:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3243#issuecomment-2439999337",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3243"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3235#pullrequestreview-2397413962",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3235",
+          "submitted_at": "2024-10-27T06:18:15Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3235#pullrequestreview-2397446851",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3235",
+          "submitted_at": "2024-10-27T09:29:09Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3233#pullrequestreview-2397412491",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3233",
+          "submitted_at": "2024-10-27T06:05:18Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3233#pullrequestreview-2397412501",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3233",
+          "submitted_at": "2024-10-27T06:05:24Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3233#pullrequestreview-2397412619",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3233",
+          "submitted_at": "2024-10-27T06:06:27Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3161#pullrequestreview-2397413712",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3161",
+          "submitted_at": "2024-10-27T06:15:57Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-27T09:07:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3244",
+          "number": 3244,
+          "title": "Enhance Test Coverage for `@yamada-ui/carousel`"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-27T14:22:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3245",
+          "number": 3245,
+          "title": "Added `Bleed` and `Float` component"
+        },
+        {
+          "closed_at": "2024-10-27T13:20:26Z",
+          "created_at": "2024-10-27T05:59:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3243",
+          "number": 3243,
+          "title": "Added `Blockquote`, `Code` and `Em` components."
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3237#pullrequestreview-2397551067",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3237",
+          "submitted_at": "2024-10-27T13:20:38Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3233#pullrequestreview-2397446334",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3233",
+          "submitted_at": "2024-10-27T09:26:50Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/540#pullrequestreview-2397412220",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/540",
+          "submitted_at": "2024-10-27T06:02:16Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/538#pullrequestreview-2397412190",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/538",
+          "submitted_at": "2024-10-27T06:01:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/534#pullrequestreview-2397412168",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/534",
+          "submitted_at": "2024-10-27T06:01:34Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3237#pullrequestreview-2397522556",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3237",
+          "submitted_at": "2024-10-27T12:34:42Z"
         }
       ]
     },
