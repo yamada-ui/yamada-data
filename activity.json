@@ -56798,5 +56798,155 @@
       ]
     },
     "Haru-0001": null
+  },
+  "2024-10-28": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3245#pullrequestreview-2397847109",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3245",
+          "submitted_at": "2024-10-28T03:11:19Z"
+        }
+      ]
+    },
+    "koralle": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3223#pullrequestreview-2399086443",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3223",
+          "submitted_at": "2024-10-28T13:30:49Z"
+        }
+      ]
+    },
+    "chida09": null,
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3239#pullrequestreview-2398075888",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3239",
+          "submitted_at": "2024-10-28T06:42:06Z"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3247#pullrequestreview-2398015560",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3247",
+          "submitted_at": "2024-10-28T06:10:23Z"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "fffk10": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3240#pullrequestreview-2399026975",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3240",
+          "submitted_at": "2024-10-28T13:07:31Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hinataOhyama": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3240#pullrequestreview-2398467808",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3240",
+          "submitted_at": "2024-10-28T09:23:27Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3242#pullrequestreview-2397878904",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3242",
+          "submitted_at": "2024-10-28T03:51:20Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-10-28T06:20:40Z",
+          "created_at": "2024-10-28T06:09:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3247",
+          "number": 3247,
+          "title": "Updated contributor and member lists"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3235#pullrequestreview-2398067224",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3235",
+          "submitted_at": "2024-10-28T06:35:45Z"
+        }
+      ]
+    },
+    "kurakke": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3242#pullrequestreview-2398004455",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3242",
+          "submitted_at": "2024-10-28T06:05:45Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-28T05:29:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3246",
+          "number": 3246,
+          "title": "docs: add documentation on a11y for Icon component"
+        }
+      ]
+    },
+    "zonoryo17": null,
+    "bearone236": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3247#pullrequestreview-2398040478",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3247",
+          "submitted_at": "2024-10-28T06:20:23Z"
+        }
+      ]
+    },
+    "Shunii85": {
+      "comments": [
+        {
+          "created_at": "2024-10-28T11:03:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3165#issuecomment-2441270957",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3165"
+        }
+      ]
+    },
+    "Haru-0001": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-28T13:21:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/545",
+          "number": 545,
+          "title": "Fixed  `header component with search box`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-28T07:34:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/544",
+          "number": 544,
+          "title": "Added `ignore` option when adding new components"
+        }
+      ]
+    }
   }
 }
