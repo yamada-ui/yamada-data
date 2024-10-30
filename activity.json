@@ -57351,5 +57351,167 @@
     },
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-10-30": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3289#pullrequestreview-2403901736",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3289",
+          "submitted_at": "2024-10-30T08:02:58Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3287#pullrequestreview-2403598553",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3287",
+          "submitted_at": "2024-10-30T04:56:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3272#pullrequestreview-2403308076",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3272",
+          "submitted_at": "2024-10-30T00:20:23Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-30T12:35:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3291",
+          "number": 3291,
+          "title": "Udated insight"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-10-30T08:26:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3290",
+          "number": 3290,
+          "title": "Added a11y document for calendar"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3287#pullrequestreview-2404822243",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3287",
+          "submitted_at": "2024-10-30T13:07:17Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-30T07:39:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3289",
+          "number": 3289,
+          "title": "docs(natvie-select): add a11y docs"
+        }
+      ]
+    },
+    "aiirononeko": null,
+    "illionillion": null,
+    "taroj1205": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/544#pullrequestreview-2403648271",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/544",
+          "submitted_at": "2024-10-30T05:25:00Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3282#pullrequestreview-2403644255",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3282",
+          "submitted_at": "2024-10-30T05:21:08Z"
+        }
+      ]
+    },
+    "taiseiiiii": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3157#pullrequestreview-2404116152",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3157",
+          "submitted_at": "2024-10-30T09:20:27Z"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-10-30T12:05:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3288#issuecomment-2446900464",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3288"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-30T06:57:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3288",
+          "number": 3288,
+          "title": "Separation of UI and Logic in Component `Slider`"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3285#pullrequestreview-2403644924",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3285",
+          "submitted_at": "2024-10-30T05:21:51Z"
+        }
+      ]
+    },
+    "kurakke": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-30T02:43:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3287",
+          "number": 3287,
+          "title": "feat: enhance Icon component a11y"
+        }
+      ]
+    },
+    "zonoryo17": null,
+    "bearone236": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3287#pullrequestreview-2404630584",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3287",
+          "submitted_at": "2024-10-30T12:04:31Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3286#pullrequestreview-2404635801",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3286",
+          "submitted_at": "2024-10-30T12:06:22Z"
+        }
+      ]
+    },
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-10-30T00:45:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3286",
+          "number": 3286,
+          "title": "feat: add a11y docs for carousel"
+        }
+      ]
+    },
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
