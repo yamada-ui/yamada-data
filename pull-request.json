@@ -5,10 +5,5 @@
   "addReviewWantedDay": 1,
   "addHelpWantedDay": 7,
   "excludeReviewers": ["hirotomoyamada", "hajimemat"],
-  "preferredReviewers": {
-    "Itsuki54": ["illionillion", "aiirononeko"],
-    "aiirononeko": ["illionillion", "Itsuki54"],
-    "mei28": ["108yen", "taiseiiiii"],
-    "taiseiiiii": ["108yen", "mei28"]
-  }
+  "preferredReviewers": {}
 }
