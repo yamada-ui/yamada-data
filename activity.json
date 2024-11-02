@@ -58244,5 +58244,180 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-11-02": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2024-11-02T14:04:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3323#issuecomment-2453000398",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3323"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-02T14:15:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3325",
+          "number": 3325,
+          "title": "`Rating` component does not have `\"use client\"`"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-02T14:24:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3326",
+          "number": 3326,
+          "title": "Added `\"use client\"` to `Rating`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-02T07:58:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3323",
+          "number": 3323,
+          "title": "Added a11y doc for icon-button"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-02T07:33:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3322",
+          "number": 3322,
+          "title": "Added a11y doc for slider"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3300#pullrequestreview-2411152437",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3300",
+          "submitted_at": "2024-11-02T04:14:10Z"
+        }
+      ]
+    },
+    "koralle": {
+      "comments": [
+        {
+          "created_at": "2024-11-02T05:14:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3320#issuecomment-2452871714",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3320"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3320#pullrequestreview-2411186321",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3320",
+          "submitted_at": "2024-11-02T05:14:22Z"
+        }
+      ]
+    },
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-02T04:10:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3321",
+          "number": 3321,
+          "title": "Added `FormatNumber` and `FormatByte` components and related hooks"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "comments": [
+        {
+          "created_at": "2024-11-02T13:41:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3302#issuecomment-2452994161",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3302"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-11-02T08:18:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3180#issuecomment-2452917746",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3180"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3321#pullrequestreview-2411208650",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3321",
+          "submitted_at": "2024-11-02T07:34:59Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3319#pullrequestreview-2411211898",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3319",
+          "submitted_at": "2024-11-02T08:00:30Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-02T13:46:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3324",
+          "number": 3324,
+          "title": "Separation of UI and Logic in Component `FormControl`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3326#pullrequestreview-2411261218",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3326",
+          "submitted_at": "2024-11-02T14:25:05Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": null,
+    "kurakke": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3274#pullrequestreview-2411254906",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3274",
+          "submitted_at": "2024-11-02T13:51:33Z"
+        }
+      ]
+    },
+    "zonoryo17": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3323#pullrequestreview-2411251237",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3323",
+          "submitted_at": "2024-11-02T13:25:15Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3318#pullrequestreview-2411183381",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3318",
+          "submitted_at": "2024-11-02T04:59:49Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3323#pullrequestreview-2411259453",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3323",
+          "submitted_at": "2024-11-02T14:12:13Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3318#pullrequestreview-2411249332",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3318",
+          "submitted_at": "2024-11-02T13:09:13Z"
+        }
+      ]
+    },
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
