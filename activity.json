@@ -59253,5 +59253,325 @@
         }
       ]
     }
+  },
+  "2024-11-06": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2024-11-06T14:08:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3337#issuecomment-2459853025",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3337"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3346#pullrequestreview-2417103214",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3346",
+          "submitted_at": "2024-11-06T06:13:53Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3337#pullrequestreview-2417064274",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3337",
+          "submitted_at": "2024-11-06T01:07:12Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3337#pullrequestreview-2417067307",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3337",
+          "submitted_at": "2024-11-06T01:10:12Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3337#pullrequestreview-2418267407",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3337",
+          "submitted_at": "2024-11-06T13:27:21Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3337#pullrequestreview-2418276489",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3337",
+          "submitted_at": "2024-11-06T13:28:28Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T12:39:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3363",
+          "number": 3363,
+          "title": "Hydration error in Next.js 15"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T12:17:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3361",
+          "number": 3361,
+          "title": "Added a11y document for `Menu`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3360#pullrequestreview-2417686745",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3360",
+          "submitted_at": "2024-11-06T09:31:33Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "comments": [
+        {
+          "created_at": "2024-11-06T07:05:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3345#issuecomment-2458860530",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3345"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3345#pullrequestreview-2417402892",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3345",
+          "submitted_at": "2024-11-06T07:05:26Z"
+        }
+      ]
+    },
+    "illionillion": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T09:03:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3357",
+          "number": 3357,
+          "title": "Components that are not `*Icon` are set to `@deprecated`"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T09:06:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3358",
+          "number": 3358,
+          "title": "Set `@deprecated` in `@yamada-ui/lucide`."
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": {
+      "comments": [
+        {
+          "created_at": "2024-11-06T03:35:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1923#issuecomment-2458662136",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1923"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3358#pullrequestreview-2418409009",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3358",
+          "submitted_at": "2024-11-06T14:19:18Z"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "nathanlao": {
+      "comments": [
+        {
+          "created_at": "2024-11-06T00:29:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3320#issuecomment-2458466336",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3320"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T00:19:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3346",
+          "number": 3346,
+          "title": "docs: rename left and right to start and end"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T12:59:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3366",
+          "number": 3366,
+          "title": "Separation of UI and Logic in the `NumberInput` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T12:51:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3365",
+          "number": 3365,
+          "title": "Separation of UI and Logic in the `Drawer` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T12:47:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3364",
+          "number": 3364,
+          "title": "Separation of UI and Logic in the `Modal` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T12:39:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3362",
+          "number": 3362,
+          "title": "Separation of UI and Logic in the `Menu` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T07:54:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3354",
+          "number": 3354,
+          "title": "Separation of UI and Logic in the `Highlight` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T07:47:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3353",
+          "number": 3353,
+          "title": "Separation of UI and Logic in the `FocusLock` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T07:44:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3352",
+          "number": 3352,
+          "title": "Separation of UI and Logic in the `FileInput` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T07:42:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3351",
+          "number": 3351,
+          "title": "Separation of UI and Logic in the `FileButton` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T07:33:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3350",
+          "number": 3350,
+          "title": "Separation of UI and Logic in the `Editable` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T07:28:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3349",
+          "number": 3349,
+          "title": "Separation of UI and Logic in the `CheckboxGroup` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T07:10:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3348",
+          "number": 3348,
+          "title": "Separation of UI and Logic in the `Breadcrumb` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-06T06:35:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3347",
+          "number": 3347,
+          "title": "Separation of UI and Logic in the `AccordionItem` Component"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3320#pullrequestreview-2417484148",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3320",
+          "submitted_at": "2024-11-06T07:57:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3320#pullrequestreview-2417484380",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3320",
+          "submitted_at": "2024-11-06T07:57:30Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3320#pullrequestreview-2417484593",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3320",
+          "submitted_at": "2024-11-06T07:57:38Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3274#pullrequestreview-2417491142",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3274",
+          "submitted_at": "2024-11-06T08:01:27Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3274#pullrequestreview-2417495192",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3274",
+          "submitted_at": "2024-11-06T08:03:46Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3274#pullrequestreview-2417496042",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3274",
+          "submitted_at": "2024-11-06T08:04:15Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3274#pullrequestreview-2417496904",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3274",
+          "submitted_at": "2024-11-06T08:04:43Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": "2024-11-06T12:47:58Z",
+          "created_at": "2024-11-06T08:59:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3356",
+          "number": 3356,
+          "title": "The `Tabs` accessibility page is different from the accessibility pages of other components"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-11-06T12:47:57Z",
+          "created_at": "2024-11-06T09:25:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3360",
+          "number": 3360,
+          "title": "Updated aria attributes for clarity"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3343#pullrequestreview-2417479567",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3343",
+          "submitted_at": "2024-11-06T07:54:41Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3342#pullrequestreview-2417476810",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3342",
+          "submitted_at": "2024-11-06T07:53:00Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3333#pullrequestreview-2418251498",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3333",
+          "submitted_at": "2024-11-06T13:17:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3240#pullrequestreview-2418178973",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3240",
+          "submitted_at": "2024-11-06T12:43:43Z"
+        }
+      ]
+    },
+    "Haru-0001": null
   }
 }
