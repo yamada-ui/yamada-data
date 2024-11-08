@@ -59867,5 +59867,212 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-11-08": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3274#pullrequestreview-2422918779",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3274",
+          "submitted_at": "2024-11-08T07:44:27Z"
+        }
+      ]
+    },
+    "illionillion": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3390#pullrequestreview-2423139355",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3390",
+          "submitted_at": "2024-11-08T09:08:14Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3390#pullrequestreview-2423140332",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3390",
+          "submitted_at": "2024-11-08T09:08:58Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T06:24:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3388",
+          "number": 3388,
+          "title": "Changed import of `@yamada-ui/lucide` in `forms` of Storybook to `*Icon`."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T06:21:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3387",
+          "number": 3387,
+          "title": "Changed import of `@yamada-ui/lucide` in `disclosure` of Storybook to `*Icon`."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T06:04:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3386",
+          "number": 3386,
+          "title": "Changed import of `@yamada-ui/lucide` in `data-display` of Storybook to `*Icon`."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T06:28:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3389",
+          "number": 3389,
+          "title": "Changed import of @yamada-ui/lucide in data-display of Storybook to *Icon."
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": {
+      "comments": [
+        {
+          "created_at": "2024-11-08T12:36:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3361#issuecomment-2464657299",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3361"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3361#pullrequestreview-2423147168",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3361",
+          "submitted_at": "2024-11-08T09:19:35Z"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "nathanlao": {
+      "comments": [
+        {
+          "created_at": "2024-11-08T04:31:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3381#issuecomment-2463733747",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3381"
+        },
+        {
+          "created_at": "2024-11-08T06:21:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3381#issuecomment-2463872476",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3381"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T03:23:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3382",
+          "number": 3382,
+          "title": "docs: rename isOpen to open in props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T03:19:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3381",
+          "number": 3381,
+          "title": "feat(components): rename props from isOpen to open"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-11-08T04:11:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3372#issuecomment-2463718141",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3372"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3381#pullrequestreview-2422645370",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3381",
+          "submitted_at": "2024-11-08T04:20:08Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3381#pullrequestreview-2422660123",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3381",
+          "submitted_at": "2024-11-08T04:34:28Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3381#pullrequestreview-2422774619",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3381",
+          "submitted_at": "2024-11-08T06:02:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3359#pullrequestreview-2422680028",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3359",
+          "submitted_at": "2024-11-08T04:49:00Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3294#pullrequestreview-2423159171",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3294",
+          "submitted_at": "2024-11-08T09:16:59Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T03:57:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3385",
+          "number": 3385,
+          "title": "Separation of UI and Logic in the `SegmentedControl` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T03:52:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3384",
+          "number": 3384,
+          "title": "Separation of UI and Logic in the `ScrollArea` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T03:48:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3383",
+          "number": 3383,
+          "title": "Separation of UI and Logic in the `Reorder` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T03:01:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3380",
+          "number": 3380,
+          "title": "Separation of UI and Logic in the `Radio` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-08T02:55:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3379",
+          "number": 3379,
+          "title": "Separation of UI and Logic in the `Dialog` Component"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3381#pullrequestreview-2422827230",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3381",
+          "submitted_at": "2024-11-08T06:44:31Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3359#pullrequestreview-2422615566",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3359",
+          "submitted_at": "2024-11-08T03:37:47Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
