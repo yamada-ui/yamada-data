@@ -61325,5 +61325,114 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-11-13": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3440#pullrequestreview-2432790569",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3440",
+          "submitted_at": "2024-11-13T11:18:00Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "comments": [
+        {
+          "created_at": "2024-11-13T13:16:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3345#issuecomment-2473593452",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3345"
+        }
+      ]
+    },
+    "illionillion": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3441#pullrequestreview-2433189641",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3441",
+          "submitted_at": "2024-11-13T13:38:13Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-11-13T00:45:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3436#issuecomment-2472039165",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3436"
+        },
+        {
+          "created_at": "2024-11-13T04:34:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3436#issuecomment-2472355393",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3436"
+        },
+        {
+          "created_at": "2024-11-13T12:46:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3436#issuecomment-2473521300",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3436"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-13T13:28:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3442",
+          "number": 3442,
+          "title": "`Accordion`: remove `is` prefix in props"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": {
+      "comments": [
+        {
+          "created_at": "2024-11-13T03:35:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3436#issuecomment-2472303220",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3436"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3436#pullrequestreview-2431694807",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3436",
+          "submitted_at": "2024-11-13T03:36:35Z"
+        }
+      ]
+    },
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-11-13T09:08:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3345#issuecomment-2472911106",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3345"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-11-13T11:29:17Z",
+          "created_at": "2024-11-13T10:56:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3440",
+          "number": 3440,
+          "title": "Updated layout page title to plural"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
