@@ -63457,5 +63457,240 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-11-19": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3437#pullrequestreview-2445435087",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3437",
+          "submitted_at": "2024-11-19T13:12:38Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3560#pullrequestreview-2445403863",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3560",
+          "submitted_at": "2024-11-19T12:59:20Z"
+        }
+      ]
+    },
+    "mei28": {
+      "comments": [
+        {
+          "created_at": "2024-11-19T07:55:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3557#issuecomment-2484958205",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3557"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3557#pullrequestreview-2444605136",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3557",
+          "submitted_at": "2024-11-19T07:54:05Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3504#pullrequestreview-2444637170",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3504",
+          "submitted_at": "2024-11-19T08:03:56Z"
+        }
+      ]
+    },
+    "illionillion": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3557#pullrequestreview-2444404457",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3557",
+          "submitted_at": "2024-11-19T06:40:18Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3541#pullrequestreview-2444427922",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3541",
+          "submitted_at": "2024-11-19T06:57:03Z"
+        }
+      ]
+    },
+    "taroj1205": {
+      "comments": [
+        {
+          "created_at": "2024-11-19T08:15:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3555#issuecomment-2484994385",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3555"
+        },
+        {
+          "created_at": "2024-11-19T08:59:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3554#issuecomment-2485084781",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3554"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3558#pullrequestreview-2444963202",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3558",
+          "submitted_at": "2024-11-19T10:11:41Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T05:46:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3556",
+          "number": 3556,
+          "title": "Modal body is overflowing with any size on Firefox"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T05:43:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3555",
+          "number": 3555,
+          "title": "Tabs do not have underline on Firefox"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T05:41:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3554",
+          "number": 3554,
+          "title": "Stepper design is breaking on Firefox"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T08:52:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3560",
+          "number": 3560,
+          "title": "Fix orientation data selector not working in firefox"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T06:49:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3559",
+          "number": 3559,
+          "title": "Replace `ResizableTriggerIcon` in `ResizeTrigger` to use `@yamada-ui/lucide` icon"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T06:09:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3557",
+          "number": 3557,
+          "title": "Remove `StepIcon` in `StepStatus` and use `@yamada-ui/lucide` icon"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-11-19T06:07:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3362#issuecomment-2484781899",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3362"
+        },
+        {
+          "created_at": "2024-11-19T06:42:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3524#issuecomment-2484824673",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3524"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-11-19T12:07:40Z",
+          "created_at": "2024-11-19T09:50:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3561",
+          "number": 3561,
+          "title": "feat(highlight): remove is prefix in props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T06:36:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3558",
+          "number": 3558,
+          "title": "feat(indicator): remove is prefix in props"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3548#pullrequestreview-2445374262",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3548",
+          "submitted_at": "2024-11-19T14:08:47Z"
+        }
+      ]
+    },
+    "hinataOhyama": null,
+    "hirotomoyamada": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T05:37:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3553",
+          "number": 3553,
+          "title": "Update dependencies and add new icons"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T03:18:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3552",
+          "number": 3552,
+          "title": "Standardize color to 'muted' across components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T03:09:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3551",
+          "number": 3551,
+          "title": "Added `DataList` component"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3561#pullrequestreview-2445269765",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3561",
+          "submitted_at": "2024-11-19T12:07:34Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "zonoryo17": null,
+    "0xtkey256": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3561#pullrequestreview-2445000702",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3561",
+          "submitted_at": "2024-11-19T10:25:04Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-19T13:47:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3562",
+          "number": 3562,
+          "title": "feat: add accessibility documentation for PinInput component"
+        }
+      ]
+    },
+    "odendayoko": null,
+    "neginasu": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3475#pullrequestreview-2445555588",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3475",
+          "submitted_at": "2024-11-19T13:57:03Z"
+        }
+      ]
+    },
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
