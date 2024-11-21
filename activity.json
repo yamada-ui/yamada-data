@@ -63877,5 +63877,92 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-11-21": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-21T06:31:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3577",
+          "number": 3577,
+          "title": "Rename `props`: `is*` eliminates all `is` prefix in the `calendar` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-21T06:28:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3576",
+          "number": 3576,
+          "title": "Rename `props`: `is*` eliminates all `is` prefix in the `carousel` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-21T06:25:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3575",
+          "number": 3575,
+          "title": "Rename `props`: `is*` eliminates all `is` prefix in the `charts` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-21T06:17:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3574",
+          "number": 3574,
+          "title": "Rename `props`: `is*` eliminates all `is` prefix in the `checkbox` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-21T06:16:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3573",
+          "number": 3573,
+          "title": "Rename `props`: `is*` eliminates all `is` prefix in the `close-button` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-21T06:15:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3572",
+          "number": 3572,
+          "title": "Rename `props`: `is*` eliminates all `is` prefix in the `color-picker` package"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3559#pullrequestreview-2449978878",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3559",
+          "submitted_at": "2024-11-21T00:22:46Z"
+        }
+      ]
+    },
+    "fffk10": null,
+    "cidkumagai": null,
+    "hinataOhyama": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "zonoryo17": null,
+    "0xtkey256": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#pullrequestreview-2451585848",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3538",
+          "submitted_at": "2024-11-21T14:16:31Z"
+        }
+      ]
+    },
+    "neginasu": null,
+    "Shunii85": null,
+    "Haru-0001": null
   }
 }
