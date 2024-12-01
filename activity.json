@@ -65041,13 +65041,6 @@
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3631",
           "submitted_at": "2024-11-26T12:46:25Z"
         }
-      ],
-      "reviews": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3631#pullrequestreview-2461435080",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3631",
-          "submitted_at": "2024-11-26T12:46:25Z"
-        }
       ]
     },
     "mei28": {
@@ -65074,30 +65067,10 @@
           "number": 3631,
           "title": "Fix deprecated usage of `motion` in  `@yamada-ui/motion`"
         }
-      ],
-      "comments": [
-        {
-          "created_at": "2024-11-26T20:11:56Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3604#issuecomment-2501829072",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3604"
-        },
-        {
-          "created_at": "2024-11-26T20:12:16Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3603#issuecomment-2501829564",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3603"
-        }
       ]
     },
     "taiseiiiii": null,
-    "quantumshiro": {
-      "approved": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3634#pullrequestreview-2461832694",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3634",
-          "submitted_at": "2024-11-26T15:06:23Z"
-        }
-      ]
-    },
+    "quantumshiro": null,
     "nathanlao": null,
     "kaehehehe": {
       "comments": [
@@ -65116,28 +65089,28 @@
       ],
       "issues": [
         {
-          "closed_at": "2024-12-01T04:26:53Z",
+          "closed_at": null,
           "created_at": "2024-11-26T02:40:54Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3625",
           "number": 3625,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `native-table` package"
         },
         {
-          "closed_at": "2024-12-01T04:14:27Z",
+          "closed_at": null,
           "created_at": "2024-11-26T02:40:05Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3624",
           "number": 3624,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `number-input` package"
         },
         {
-          "closed_at": "2024-12-01T04:21:54Z",
+          "closed_at": null,
           "created_at": "2024-11-26T02:39:18Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3623",
           "number": 3623,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `popover` package"
         },
         {
-          "closed_at": "2024-11-28T03:28:29Z",
+          "closed_at": null,
           "created_at": "2024-11-26T02:38:28Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3622",
           "number": 3622,
@@ -65165,7 +65138,7 @@
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `select` package"
         },
         {
-          "closed_at": "2024-12-01T04:58:49Z",
+          "closed_at": null,
           "created_at": "2024-11-26T02:35:04Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3618",
           "number": 3618,
@@ -65186,14 +65159,14 @@
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `switch` package"
         },
         {
-          "closed_at": "2024-11-29T02:02:29Z",
+          "closed_at": null,
           "created_at": "2024-11-26T02:32:28Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3614",
           "number": 3614,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `tag` package"
         },
         {
-          "closed_at": "2024-12-01T05:10:22Z",
+          "closed_at": null,
           "created_at": "2024-11-26T02:31:32Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3613",
           "number": 3613,
@@ -65204,12 +65177,12 @@
           "created_at": "2024-11-26T02:15:38Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3610",
           "number": 3610,
-          "title": "Rename props: is* eliminates all is prefix in the `radio` package"
+          "title": "Rename props: is* eliminates all is prefix in the radio package"
         }
       ],
       "pullRequests": [
         {
-          "closed_at": "2024-12-01T05:10:21Z",
+          "closed_at": null,
           "created_at": "2024-11-26T03:32:33Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3630",
           "number": 3630,
@@ -65261,16 +65234,6 @@
           "created_at": "2024-11-26T13:42:48Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3541#issuecomment-2500838333",
           "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3541"
-        },
-        {
-          "created_at": "2024-11-26T23:51:57Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3214#issuecomment-2502205452",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3214"
-        },
-        {
-          "created_at": "2024-11-26T23:52:11Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3213#issuecomment-2502205674",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3213"
         }
       ],
       "reviews": [
@@ -65311,28 +65274,21 @@
       ],
       "pullRequests": [
         {
-          "closed_at": "2024-11-27T01:38:05Z",
-          "created_at": "2024-11-26T23:58:53Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3638",
-          "number": 3638,
-          "title": "Updated v1.7"
-        },
-        {
-          "closed_at": "2024-11-27T13:30:30Z",
+          "closed_at": null,
           "created_at": "2024-11-26T13:36:37Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3636",
           "number": 3636,
           "title": "Updated icon references in documentation"
         },
         {
-          "closed_at": "2024-11-28T03:22:01Z",
+          "closed_at": null,
           "created_at": "2024-11-26T13:29:49Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3635",
           "number": 3635,
           "title": "Reordered story components"
         },
         {
-          "closed_at": "2024-11-27T00:01:36Z",
+          "closed_at": null,
           "created_at": "2024-11-26T13:28:16Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3634",
           "number": 3634,
@@ -65500,7 +65456,7 @@
     "chida09": {
       "pullRequests": [
         {
-          "closed_at": "2024-11-28T03:28:28Z",
+          "closed_at": null,
           "created_at": "2024-11-27T13:59:28Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3657",
           "number": 3657,
@@ -65512,13 +65468,6 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3642#pullrequestreview-2465048835",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3642",
           "submitted_at": "2024-11-27T13:35:41Z"
-        }
-      ],
-      "reviews": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3664#pullrequestreview-2466099490",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3664",
-          "submitted_at": "2024-11-27T23:52:52Z"
         }
       ]
     },
@@ -65541,20 +65490,6 @@
           "number": 3645,
           "title": "Add documentation for `FormatNumber` component"
         }
-      ],
-      "comments": [
-        {
-          "created_at": "2024-11-27T21:46:10Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3645#issuecomment-2504827306",
-          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3645"
-        }
-      ],
-      "approved": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3644#pullrequestreview-2466015218",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3644",
-          "submitted_at": "2024-11-27T22:07:19Z"
-        }
       ]
     },
     "taiseiiiii": {
@@ -65563,13 +65498,6 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3643#pullrequestreview-2464939073",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3643",
           "submitted_at": "2024-11-27T12:53:02Z"
-        }
-      ],
-      "approved": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3643#pullrequestreview-2465639315",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3643",
-          "submitted_at": "2024-11-27T17:34:22Z"
         }
       ]
     },
@@ -65703,27 +65631,6 @@
       ],
       "pullRequests": [
         {
-          "closed_at": "2024-12-01T04:02:40Z",
-          "created_at": "2024-11-27T16:00:50Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3661",
-          "number": 3661,
-          "title": "Restructured pagination item styles"
-        },
-        {
-          "closed_at": "2024-11-29T02:31:19Z",
-          "created_at": "2024-11-27T15:58:39Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3660",
-          "number": 3660,
-          "title": "Added `MenuSeparator` component replacing `MenuDivider`"
-        },
-        {
-          "closed_at": "2024-11-28T15:56:04Z",
-          "created_at": "2024-11-27T15:56:35Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3659",
-          "number": 3659,
-          "title": "Add `Separator` component and deprecate `Divider`"
-        },
-        {
           "closed_at": "2024-11-27T09:11:53Z",
           "created_at": "2024-11-27T09:08:18Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3649",
@@ -65731,14 +65638,14 @@
           "title": "Feat/pr agent"
         },
         {
-          "closed_at": "2024-11-28T15:53:46Z",
+          "closed_at": null,
           "created_at": "2024-11-27T05:57:57Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3648",
           "number": 3648,
           "title": "Added `CheckboxCard` and `RadioCard` documentation"
         },
         {
-          "closed_at": "2024-11-28T06:35:13Z",
+          "closed_at": null,
           "created_at": "2024-11-27T04:32:20Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3647",
           "number": 3647,
@@ -65752,14 +65659,14 @@
           "title": "Added `PasswordInput` documentation"
         },
         {
-          "closed_at": "2024-11-28T03:22:08Z",
+          "closed_at": null,
           "created_at": "2024-11-27T03:40:56Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3644",
           "number": 3644,
           "title": "Added `Status` documentation"
         },
         {
-          "closed_at": "2024-11-28T02:35:26Z",
+          "closed_at": null,
           "created_at": "2024-11-27T03:24:44Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3643",
           "number": 3643,
@@ -65849,18 +65756,6 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3636#pullrequestreview-2464868062",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3636",
           "submitted_at": "2024-11-27T12:23:18Z"
-        },
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3635#pullrequestreview-2465515540",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3635",
-          "submitted_at": "2024-11-27T16:33:41Z"
-        }
-      ],
-      "reviews": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3633#pullrequestreview-2464998046",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3633",
-          "submitted_at": "2024-11-27T16:21:43Z"
         }
       ]
     },
@@ -65936,7 +65831,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": "2024-11-29T03:08:55Z",
+          "closed_at": null,
           "created_at": "2024-11-28T05:03:44Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3671",
           "number": 3671,
@@ -65950,7 +65845,7 @@
           "title": "Updated component documentation descriptions"
         },
         {
-          "closed_at": "2024-11-29T02:22:03Z",
+          "closed_at": null,
           "created_at": "2024-11-28T04:02:18Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3669",
           "number": 3669,
@@ -65991,11 +65886,6 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3662#pullrequestreview-2466572367",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3662",
           "submitted_at": "2024-11-28T05:51:48Z"
-        },
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3662#pullrequestreview-2468324488",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3662",
-          "submitted_at": "2024-11-28T14:29:35Z"
         }
       ],
       "pullRequests": [
@@ -66008,6 +65898,11 @@
         }
       ],
       "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3662#pullrequestreview-2468324488",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3662",
+          "submitted_at": "2024-11-28T14:29:35Z"
+        },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3647#pullrequestreview-2466326162",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3647",
@@ -66074,14 +65969,14 @@
       ],
       "pullRequests": [
         {
-          "closed_at": "2024-12-01T05:17:59Z",
+          "closed_at": null,
           "created_at": "2024-11-29T05:41:21Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3684",
           "number": 3684,
           "title": "`carousel`: remove is prefix from props and variables"
         },
         {
-          "closed_at": "2024-12-01T04:21:53Z",
+          "closed_at": null,
           "created_at": "2024-11-29T04:45:43Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3681",
           "number": 3681,
@@ -66106,28 +66001,28 @@
           "title": "feat: remove is prefix from props"
         },
         {
-          "closed_at": "2024-12-01T04:26:52Z",
+          "closed_at": null,
           "created_at": "2024-11-29T04:41:21Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3680",
           "number": 3680,
           "title": "feat(native-table): remove is prefix from props"
         },
         {
-          "closed_at": "2024-12-01T04:14:27Z",
+          "closed_at": null,
           "created_at": "2024-11-29T04:11:25Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3679",
           "number": 3679,
           "title": "feat(number-input): remove is prefix from props"
         },
         {
-          "closed_at": "2024-12-01T04:08:07Z",
+          "closed_at": null,
           "created_at": "2024-11-29T03:58:29Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3678",
           "number": 3678,
           "title": "feat(checkbox): remove is prefix from props"
         },
         {
-          "closed_at": "2024-12-01T04:58:48Z",
+          "closed_at": null,
           "created_at": "2024-11-29T02:13:45Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3674",
           "number": 3674,
@@ -66336,7 +66231,24 @@
     },
     "mei28": null,
     "illionillion": null,
-    "taroj1205": null,
+    "taroj1205": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-11-30T04:08:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3688",
+          "number": 3688,
+          "title": "Create issues for replacing stacking examples with `<For />` where possible"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-11-30T03:58:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3687",
+          "number": 3687,
+          "title": "`FormatNumber` and `FormatByte` does not appear properly in search"
+        }
+      ]
+    },
     "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": null,
