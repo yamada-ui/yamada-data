@@ -65041,6 +65041,13 @@
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3631",
           "submitted_at": "2024-11-26T12:46:25Z"
         }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3631#pullrequestreview-2461435080",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3631",
+          "submitted_at": "2024-11-26T12:46:25Z"
+        }
       ]
     },
     "mei28": {
@@ -65067,10 +65074,30 @@
           "number": 3631,
           "title": "Fix deprecated usage of `motion` in  `@yamada-ui/motion`"
         }
+      ],
+      "comments": [
+        {
+          "created_at": "2024-11-26T20:11:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3604#issuecomment-2501829072",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3604"
+        },
+        {
+          "created_at": "2024-11-26T20:12:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3603#issuecomment-2501829564",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3603"
+        }
       ]
     },
     "taiseiiiii": null,
-    "quantumshiro": null,
+    "quantumshiro": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3634#pullrequestreview-2461832694",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3634",
+          "submitted_at": "2024-11-26T15:06:23Z"
+        }
+      ]
+    },
     "nathanlao": null,
     "kaehehehe": {
       "comments": [
@@ -65089,28 +65116,28 @@
       ],
       "issues": [
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:26:53Z",
           "created_at": "2024-11-26T02:40:54Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3625",
           "number": 3625,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `native-table` package"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:14:27Z",
           "created_at": "2024-11-26T02:40:05Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3624",
           "number": 3624,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `number-input` package"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:21:54Z",
           "created_at": "2024-11-26T02:39:18Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3623",
           "number": 3623,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `popover` package"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-28T03:28:29Z",
           "created_at": "2024-11-26T02:38:28Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3622",
           "number": 3622,
@@ -65138,7 +65165,7 @@
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `select` package"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:58:49Z",
           "created_at": "2024-11-26T02:35:04Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3618",
           "number": 3618,
@@ -65159,14 +65186,14 @@
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `switch` package"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-29T02:02:29Z",
           "created_at": "2024-11-26T02:32:28Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3614",
           "number": 3614,
           "title": "Rename `props`: `is*` eliminates all `is` prefix in the `tag` package"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T05:10:22Z",
           "created_at": "2024-11-26T02:31:32Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3613",
           "number": 3613,
@@ -65177,12 +65204,12 @@
           "created_at": "2024-11-26T02:15:38Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3610",
           "number": 3610,
-          "title": "Rename props: is* eliminates all is prefix in the radio package"
+          "title": "Rename props: is* eliminates all is prefix in the `radio` package"
         }
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T05:10:21Z",
           "created_at": "2024-11-26T03:32:33Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3630",
           "number": 3630,
@@ -65234,6 +65261,16 @@
           "created_at": "2024-11-26T13:42:48Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3541#issuecomment-2500838333",
           "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3541"
+        },
+        {
+          "created_at": "2024-11-26T23:51:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3214#issuecomment-2502205452",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3214"
+        },
+        {
+          "created_at": "2024-11-26T23:52:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3213#issuecomment-2502205674",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3213"
         }
       ],
       "reviews": [
@@ -65274,21 +65311,28 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-11-27T01:38:05Z",
+          "created_at": "2024-11-26T23:58:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3638",
+          "number": 3638,
+          "title": "Updated v1.7"
+        },
+        {
+          "closed_at": "2024-11-27T13:30:30Z",
           "created_at": "2024-11-26T13:36:37Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3636",
           "number": 3636,
           "title": "Updated icon references in documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-28T03:22:01Z",
           "created_at": "2024-11-26T13:29:49Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3635",
           "number": 3635,
           "title": "Reordered story components"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-27T00:01:36Z",
           "created_at": "2024-11-26T13:28:16Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3634",
           "number": 3634,
@@ -65456,7 +65500,7 @@
     "chida09": {
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-11-28T03:28:28Z",
           "created_at": "2024-11-27T13:59:28Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3657",
           "number": 3657,
@@ -65468,6 +65512,13 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3642#pullrequestreview-2465048835",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3642",
           "submitted_at": "2024-11-27T13:35:41Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3664#pullrequestreview-2466099490",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3664",
+          "submitted_at": "2024-11-27T23:52:52Z"
         }
       ]
     },
@@ -65490,6 +65541,20 @@
           "number": 3645,
           "title": "Add documentation for `FormatNumber` component"
         }
+      ],
+      "comments": [
+        {
+          "created_at": "2024-11-27T21:46:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3645#issuecomment-2504827306",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3645"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3644#pullrequestreview-2466015218",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3644",
+          "submitted_at": "2024-11-27T22:07:19Z"
+        }
       ]
     },
     "taiseiiiii": {
@@ -65498,6 +65563,13 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3643#pullrequestreview-2464939073",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3643",
           "submitted_at": "2024-11-27T12:53:02Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3643#pullrequestreview-2465639315",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3643",
+          "submitted_at": "2024-11-27T17:34:22Z"
         }
       ]
     },
@@ -65631,6 +65703,27 @@
       ],
       "pullRequests": [
         {
+          "closed_at": "2024-12-01T04:02:40Z",
+          "created_at": "2024-11-27T16:00:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3661",
+          "number": 3661,
+          "title": "Restructured pagination item styles"
+        },
+        {
+          "closed_at": "2024-11-29T02:31:19Z",
+          "created_at": "2024-11-27T15:58:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3660",
+          "number": 3660,
+          "title": "Added `MenuSeparator` component replacing `MenuDivider`"
+        },
+        {
+          "closed_at": "2024-11-28T15:56:04Z",
+          "created_at": "2024-11-27T15:56:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3659",
+          "number": 3659,
+          "title": "Add `Separator` component and deprecate `Divider`"
+        },
+        {
           "closed_at": "2024-11-27T09:11:53Z",
           "created_at": "2024-11-27T09:08:18Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3649",
@@ -65638,14 +65731,14 @@
           "title": "Feat/pr agent"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-28T15:53:46Z",
           "created_at": "2024-11-27T05:57:57Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3648",
           "number": 3648,
           "title": "Added `CheckboxCard` and `RadioCard` documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-28T06:35:13Z",
           "created_at": "2024-11-27T04:32:20Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3647",
           "number": 3647,
@@ -65659,14 +65752,14 @@
           "title": "Added `PasswordInput` documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-28T03:22:08Z",
           "created_at": "2024-11-27T03:40:56Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3644",
           "number": 3644,
           "title": "Added `Status` documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-28T02:35:26Z",
           "created_at": "2024-11-27T03:24:44Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3643",
           "number": 3643,
@@ -65756,6 +65849,18 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3636#pullrequestreview-2464868062",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3636",
           "submitted_at": "2024-11-27T12:23:18Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3635#pullrequestreview-2465515540",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3635",
+          "submitted_at": "2024-11-27T16:33:41Z"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3633#pullrequestreview-2464998046",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3633",
+          "submitted_at": "2024-11-27T16:21:43Z"
         }
       ]
     },
@@ -65831,7 +65936,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-11-29T03:08:55Z",
           "created_at": "2024-11-28T05:03:44Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3671",
           "number": 3671,
@@ -65845,7 +65950,7 @@
           "title": "Updated component documentation descriptions"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-11-29T02:22:03Z",
           "created_at": "2024-11-28T04:02:18Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3669",
           "number": 3669,
@@ -65886,6 +65991,11 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3662#pullrequestreview-2466572367",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3662",
           "submitted_at": "2024-11-28T05:51:48Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3662#pullrequestreview-2468324488",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3662",
+          "submitted_at": "2024-11-28T14:29:35Z"
         }
       ],
       "pullRequests": [
@@ -65898,11 +66008,6 @@
         }
       ],
       "approved": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3662#pullrequestreview-2468324488",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3662",
-          "submitted_at": "2024-11-28T14:29:35Z"
-        },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3647#pullrequestreview-2466326162",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3647",
@@ -65969,14 +66074,14 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T05:17:59Z",
           "created_at": "2024-11-29T05:41:21Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3684",
           "number": 3684,
           "title": "`carousel`: remove is prefix from props and variables"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:21:53Z",
           "created_at": "2024-11-29T04:45:43Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3681",
           "number": 3681,
@@ -66001,28 +66106,28 @@
           "title": "feat: remove is prefix from props"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:26:52Z",
           "created_at": "2024-11-29T04:41:21Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3680",
           "number": 3680,
           "title": "feat(native-table): remove is prefix from props"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:14:27Z",
           "created_at": "2024-11-29T04:11:25Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3679",
           "number": 3679,
           "title": "feat(number-input): remove is prefix from props"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:08:07Z",
           "created_at": "2024-11-29T03:58:29Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3678",
           "number": 3678,
           "title": "feat(checkbox): remove is prefix from props"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-01T04:58:48Z",
           "created_at": "2024-11-29T02:13:45Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3674",
           "number": 3674,
@@ -66231,24 +66336,7 @@
     },
     "mei28": null,
     "illionillion": null,
-    "taroj1205": {
-      "issues": [
-        {
-          "closed_at": null,
-          "created_at": "2024-11-30T04:08:33Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3688",
-          "number": 3688,
-          "title": "Create issues for replacing stacking examples with `<For />` where possible"
-        },
-        {
-          "closed_at": null,
-          "created_at": "2024-11-30T03:58:43Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3687",
-          "number": 3687,
-          "title": "`FormatNumber` and `FormatByte` does not appear properly in search"
-        }
-      ]
-    },
+    "taroj1205": null,
     "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": null,
@@ -66291,5 +66379,925 @@
     "neginasu": null,
     "Shunii85": null,
     "Haru-0001": null
+  },
+  "2024-12-01": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3672#pullrequestreview-2471427939",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3672",
+          "submitted_at": "2024-12-01T13:53:54Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T01:10:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3690",
+          "number": 3690,
+          "title": "feat: rename is prefix in variables for resizable"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": {
+      "pullRequests": [
+        {
+          "closed_at": "2024-12-01T05:26:33Z",
+          "created_at": "2024-12-01T04:08:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3691",
+          "number": 3691,
+          "title": "fix: fix example's icon import"
+        }
+      ]
+    },
+    "taroj1205": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T10:20:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3796",
+          "number": 3796,
+          "title": "Make breadcrumb separator icon centered"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T10:11:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3795",
+          "number": 3795,
+          "title": "Popover location for `DonutChart` is covering the entire chart"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T10:04:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3794",
+          "number": 3794,
+          "title": "The `For` component is appearing 3 times in search"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T10:02:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3793",
+          "number": 3793,
+          "title": "Too many re-render on header when scrolling"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T09:57:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3792",
+          "number": 3792,
+          "title": "Control externally section in `Slider` documentation should use `ButtonGroup`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T09:54:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3791",
+          "number": 3791,
+          "title": "`ScaleFade` does nothing when toggle"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:26:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3790",
+          "number": 3790,
+          "title": "Use `<For />` in Documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3789",
+          "number": 3789,
+          "title": "Use `<For />` in `useTheme` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3788",
+          "number": 3788,
+          "title": "Use `<For />` in `useInfiniteScroll` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3787",
+          "number": 3787,
+          "title": "Use `<For />` in `useFormatNumber` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3786",
+          "number": 3786,
+          "title": "Use `<For />` in `useFormatByte` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3785",
+          "number": 3785,
+          "title": "Use `<For />` in `FormatNumber` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3784",
+          "number": 3784,
+          "title": "Use `<For />` in `FormatByte` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3783",
+          "number": 3783,
+          "title": "Use `<For />` in `EmptyState` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3782",
+          "number": 3782,
+          "title": "Use `<For />` in `CloseButton` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3781",
+          "number": 3781,
+          "title": "Use `<For />` in `Motion` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:25:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3780",
+          "number": 3780,
+          "title": "Use `<For />` in `Indicator` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3779",
+          "number": 3779,
+          "title": "Use `<For />` in `Avatar` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3778",
+          "number": 3778,
+          "title": "Use `<For />` in `Icon` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3777",
+          "number": 3777,
+          "title": "Use `<For />` in `Picture` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3776",
+          "number": 3776,
+          "title": "Use `<For />` in `Progress` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3775",
+          "number": 3775,
+          "title": "Use `<For />` in `Loading` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3774",
+          "number": 3774,
+          "title": "Use `<For />` in `Status` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3773",
+          "number": 3773,
+          "title": "Use `<For />` in `Alert` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3772",
+          "number": 3772,
+          "title": "Use `<For />` in `Tooltip` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3771",
+          "number": 3771,
+          "title": "Use `<For />` in `Popover` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:24:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3770",
+          "number": 3770,
+          "title": "Use `<For />` in `Drawer` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3769",
+          "number": 3769,
+          "title": "Use `<For />` in `Dialog` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3768",
+          "number": 3768,
+          "title": "Use `<For />` in `Modal` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3767",
+          "number": 3767,
+          "title": "Use `<For />` in `Tabs` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3766",
+          "number": 3766,
+          "title": "Use `<For />` in `Accordion` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3765",
+          "number": 3765,
+          "title": "Use `<For />` in `Stepper` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3764",
+          "number": 3764,
+          "title": "Use `<For />` in `Pagination` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3763",
+          "number": 3763,
+          "title": "Use `<For />` in `Breadcrumb` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3762",
+          "number": 3762,
+          "title": "Use `<For />` in `ColorSwatch` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3761",
+          "number": 3761,
+          "title": "Use `<For />` in `InfiniteScrollArea` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:23:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3760",
+          "number": 3760,
+          "title": "Use `<For />` in `ScrollArea` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3759",
+          "number": 3759,
+          "title": "Use `<For />` in `Reorder` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3758",
+          "number": 3758,
+          "title": "Use `<For />` in `Carousel` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3757",
+          "number": 3757,
+          "title": "Use `<For />` in `RadialChart` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3756",
+          "number": 3756,
+          "title": "Use `<For />` in `RadarChart` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3755",
+          "number": 3755,
+          "title": "Use `<For />` in `DonutChart` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3754",
+          "number": 3754,
+          "title": "Use `<For />` in `PieChart` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3753",
+          "number": 3753,
+          "title": "Use `<For />` in `BarChart` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3752",
+          "number": 3752,
+          "title": "Use `<For />` in `AreaChart` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:22:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3751",
+          "number": 3751,
+          "title": "Use `<For />` in `LineChart` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3750",
+          "number": 3750,
+          "title": "Use `<For />` in `Calendar` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3749",
+          "number": 3749,
+          "title": "Use `<For />` in `NativeTable` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3748",
+          "number": 3748,
+          "title": "Use `<For />` in `PagingTable` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3747",
+          "number": 3747,
+          "title": "Use `<For />` in `Stat` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3746",
+          "number": 3746,
+          "title": "Use `<For />` in `Card` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3745",
+          "number": 3745,
+          "title": "Use `<For />` in `DataListItem` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3744",
+          "number": 3744,
+          "title": "Use `<For />` in `List` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3743",
+          "number": 3743,
+          "title": "Use `<For />` in `Badge` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3742",
+          "number": 3742,
+          "title": "Use `<For />` in `Tag` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:21:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3741",
+          "number": 3741,
+          "title": "Use `<For />` in `SegmentedControl` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3740",
+          "number": 3740,
+          "title": "Use `<For />` in `Rating` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3739",
+          "number": 3739,
+          "title": "Use `<For />` in `SaturationSlider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3738",
+          "number": 3738,
+          "title": "Use `<For />` in `AlphaSlider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3737",
+          "number": 3737,
+          "title": "Use `<For />` in `HueSlider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3736",
+          "number": 3736,
+          "title": "Use `<For />` in `RangeSlider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3735",
+          "number": 3735,
+          "title": "Use `<For />` in `Slider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3734",
+          "number": 3734,
+          "title": "Use `<For />` in `Dropzone` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3733",
+          "number": 3733,
+          "title": "Use `<For />` in `FileButton` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3732",
+          "number": 3732,
+          "title": "Use `<For />` in `FileInput` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:20:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3731",
+          "number": 3731,
+          "title": "Use `<For />` in `ColorPicker` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3730",
+          "number": 3730,
+          "title": "Use `<For />` in `YearPicker` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3729",
+          "number": 3729,
+          "title": "Use `<For />` in `MonthPicker` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3728",
+          "number": 3728,
+          "title": "Use `<For />` in `RangeDatePicker` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3727",
+          "number": 3727,
+          "title": "Use `<For />` in `MultiDatePicker` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3726",
+          "number": 3726,
+          "title": "Use `<For />` in `DatePicker` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3725",
+          "number": 3725,
+          "title": "Use `<For />` in `MultiAutocomplete` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3724",
+          "number": 3724,
+          "title": "Use `<For />` in `Autocomplete` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3723",
+          "number": 3723,
+          "title": "Use `<For />` in `NativeSelect` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3722",
+          "number": 3722,
+          "title": "Use `<For />` in `MultiSelect` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3721",
+          "number": 3721,
+          "title": "Use `<For />` in `Select` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3720",
+          "number": 3720,
+          "title": "Use `<For />` in `Toggle` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3719",
+          "number": 3719,
+          "title": "Use `<For />` in `Switch` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3718",
+          "number": 3718,
+          "title": "Use `<For />` in `CheckboxCard` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3717",
+          "number": 3717,
+          "title": "Use `<For />` in `Checkbox` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3716",
+          "number": 3716,
+          "title": "Use `<For />` in `RadioCard` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3715",
+          "number": 3715,
+          "title": "Use `<For />` in `Radio` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3714",
+          "number": 3714,
+          "title": "Use `<For />` in `Textarea` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3713",
+          "number": 3713,
+          "title": "Use `<For />` in `PinInput` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:18:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3712",
+          "number": 3712,
+          "title": "Use `<For />` in `PasswordInput` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3711",
+          "number": 3711,
+          "title": "Use `<For />` in `NumberInput` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3710",
+          "number": 3710,
+          "title": "Use `<For />` in `Input` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3709",
+          "number": 3709,
+          "title": "Use `<For />` in `IconButton` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3708",
+          "number": 3708,
+          "title": "Use `<For />` in `Button` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3707",
+          "number": 3707,
+          "title": "Use `<For />` in `Text` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3706",
+          "number": 3706,
+          "title": "Use `<For />` in `Highlight` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3705",
+          "number": 3705,
+          "title": "Use `<For />` in `Heading` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3704",
+          "number": 3704,
+          "title": "Use `<For />` in `Code` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3703",
+          "number": 3703,
+          "title": "Use `<For />` in `Blockquote` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:17:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3702",
+          "number": 3702,
+          "title": "Use `<For />` in `Wrap` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:16:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3701",
+          "number": 3701,
+          "title": "Use `<For />` in `Stack` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:16:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3700",
+          "number": 3700,
+          "title": "Use `<For />` in `SimpleGrid` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:16:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3699",
+          "number": 3699,
+          "title": "Use `<For />` in `Separator` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:16:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3698",
+          "number": 3698,
+          "title": "Use `<For />` in `Grid` documentation"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:19:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-data/pull/2",
+          "number": 2,
+          "title": "Exclude taroj1205 for vacation"
+        }
+      ]
+    },
+    "taiseiiiii": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3800#pullrequestreview-2471433350",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3800",
+          "submitted_at": "2024-12-01T14:11:50Z"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "nathanlao": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T04:52:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3693",
+          "number": 3693,
+          "title": "`menu`: remove is from props"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3686#pullrequestreview-2471414819",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3686",
+          "submitted_at": "2024-12-01T12:41:16Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T13:39:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3800",
+          "number": 3800,
+          "title": "feat(progress): remove is prefix from props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T13:30:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3799",
+          "number": 3799,
+          "title": "feat(radio): add `@deprecated` to the `isNative` prop"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T13:01:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3798",
+          "number": 3798,
+          "title": "feat(slider): remove is prefix from props"
+        }
+      ]
+    },
+    "cidkumagai": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3694#pullrequestreview-2471333707",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3694",
+          "submitted_at": "2024-12-01T08:11:49Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-01T03:55:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3685#issuecomment-2509556435",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3685"
+        },
+        {
+          "created_at": "2024-12-01T04:04:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3345#issuecomment-2509558723",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3345"
+        },
+        {
+          "created_at": "2024-12-01T05:25:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3292#issuecomment-2509580438",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3292"
+        },
+        {
+          "created_at": "2024-12-01T05:28:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3435#issuecomment-2509580967",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3435"
+        },
+        {
+          "created_at": "2024-12-01T06:25:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3409#issuecomment-2509595403",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3409"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T08:08:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3694",
+          "number": 3694,
+          "title": "Update contributor and maintainer lists"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3691#pullrequestreview-2471305774",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3691",
+          "submitted_at": "2024-12-01T04:11:27Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3684#pullrequestreview-2471305890",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3684",
+          "submitted_at": "2024-12-01T04:12:53Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3681#pullrequestreview-2471304927",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3681",
+          "submitted_at": "2024-12-01T04:02:29Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3680#pullrequestreview-2471304792",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3680",
+          "submitted_at": "2024-12-01T04:00:50Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3679#pullrequestreview-2471304766",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3679",
+          "submitted_at": "2024-12-01T04:00:28Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3678#pullrequestreview-2471304708",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3678",
+          "submitted_at": "2024-12-01T03:59:39Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3674#pullrequestreview-2471305703",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3674",
+          "submitted_at": "2024-12-01T04:10:44Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3630#pullrequestreview-2471305442",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3630",
+          "submitted_at": "2024-12-01T04:08:00Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3606#pullrequestreview-2471305502",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3606",
+          "submitted_at": "2024-12-01T04:08:44Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3690#pullrequestreview-2471295754",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3690",
+          "submitted_at": "2024-12-01T02:17:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#pullrequestreview-2471404760",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3538",
+          "submitted_at": "2024-12-01T11:51:24Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#pullrequestreview-2471411078",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3538",
+          "submitted_at": "2024-12-01T12:22:30Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-01T12:16:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3797",
+          "number": 3797,
+          "title": "Focusing previous and next `Tab` through skipping disabled `Tab`."
+        }
+      ]
+    }
   }
 }
