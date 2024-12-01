@@ -55,6 +55,20 @@
     "x": { "url": "https://x.com/taroj1205" },
     "discord": { "id": "631578250144907269" }
   },
+
+  {
+    "name": { "en": "Kazuhiro Kumagai", "ja": "Kazuhiro Kumagai" },
+    "description": {
+      "en": "Self-proclaimed front-end engineer.",
+      "ja": "自称フロントエンドエンジニア。"
+    },
+    "github": {
+      "id": "cidkumagai",
+      "icon": "https://avatars.githubusercontent.com/u/78473460?v=4",
+      "url": "https://github.com/cidkumagai"
+    },
+    "discord": { "id": "831092312238719026" }
+  },
   {
     "name": { "en": "koralle", "ja": "koralle" },
     "description": {
@@ -68,18 +82,5 @@
     },
     "x": { "url": "https://x.com/koralle_tech" },
     "discord": { "id": "702799711404425246" }
-  },
-  {
-    "name": { "en": "Kazuhiro Kumagai", "ja": "Kazuhiro Kumagai" },
-    "description": {
-      "en": "Self-proclaimed front-end engineer.",
-      "ja": "自称フロントエンドエンジニア。"
-    },
-    "github": {
-      "id": "cidkumagai",
-      "icon": "https://avatars.githubusercontent.com/u/78473460?v=4",
-      "url": "https://github.com/cidkumagai"
-    },
-    "discord": { "id": "831092312238719026" }
   }
 ]
