@@ -68008,5 +68008,117 @@
         }
       ]
     }
+  },
+  "2024-12-05": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3832#pullrequestreview-2481556725",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3832",
+          "submitted_at": "2024-12-05T12:31:09Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3832#pullrequestreview-2481611669",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3832",
+          "submitted_at": "2024-12-05T12:51:49Z"
+        }
+      ]
+    },
+    "koralle": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3689#pullrequestreview-2480520196",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3689",
+          "submitted_at": "2024-12-05T05:42:11Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3689#pullrequestreview-2480520427",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3689",
+          "submitted_at": "2024-12-05T05:42:21Z"
+        }
+      ]
+    },
+    "chida09": null,
+    "mei28": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2024-12-05T12:34:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3832#issuecomment-2520199924",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3832"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": "2024-12-05T14:51:14Z",
+          "created_at": "2024-12-05T12:00:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3831",
+          "number": 3831,
+          "title": "Remove the post-reading of the regular expression in the `convertColor` function"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-12-05T14:51:13Z",
+          "created_at": "2024-12-05T12:10:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3832",
+          "number": 3832,
+          "title": "Refactor `convertColor` to replace lookbehind in regular expression."
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "comments": [
+        {
+          "created_at": "2024-12-05T04:17:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#issuecomment-2519057247",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3538"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-05T13:24:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3652#issuecomment-2520320293",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3652"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3832#pullrequestreview-2481677432",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3832",
+          "submitted_at": "2024-12-05T13:19:24Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3689#pullrequestreview-2480816563",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3689",
+          "submitted_at": "2024-12-05T07:51:19Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": {
+      "comments": [
+        {
+          "created_at": "2024-12-05T14:22:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3296#issuecomment-2520461883",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3296"
+        }
+      ]
+    }
   }
 }
