@@ -68156,5 +68156,92 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2024-12-07": {
+    "108yen": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-07T08:37:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3835",
+          "number": 3835,
+          "title": "Type error in Next.js 15"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3834#pullrequestreview-2486448968",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3834",
+          "submitted_at": "2024-12-07T08:17:40Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3834#pullrequestreview-2486491442",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3834",
+          "submitted_at": "2024-12-07T12:28:36Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3833#pullrequestreview-2486258947",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3833",
+          "submitted_at": "2024-12-07T02:13:15Z"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2024-12-07T05:22:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3532#issuecomment-2524916037",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3532"
+        },
+        {
+          "created_at": "2024-12-07T10:47:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3834#issuecomment-2525068830",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3834"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-07T05:53:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3834",
+          "number": 3834,
+          "title": "Use <For /> in Heading documentation"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "comments": [
+        {
+          "created_at": "2024-12-07T02:20:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3532#issuecomment-2524812022",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3532"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#pullrequestreview-2486280536",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3538",
+          "submitted_at": "2024-12-07T03:22:42Z"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
