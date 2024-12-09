@@ -68364,5 +68364,164 @@
       ]
     },
     "Shunii85": null
+  },
+  "2024-12-09": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#pullrequestreview-2488152948",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3841",
+          "submitted_at": "2024-12-09T09:35:13Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#pullrequestreview-2488347472",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3841",
+          "submitted_at": "2024-12-09T10:14:12Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3839#pullrequestreview-2488331770",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3839",
+          "submitted_at": "2024-12-09T10:08:32Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3842#pullrequestreview-2488142611",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3842",
+          "submitted_at": "2024-12-09T08:52:59Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T13:27:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3844",
+          "number": 3844,
+          "title": "Make components headless for `Input` component"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3838#pullrequestreview-2487707768",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3838",
+          "submitted_at": "2024-12-09T04:33:52Z"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T06:43:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3842",
+          "number": 3842,
+          "title": "Use <For/> in `ColorPicker` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T04:53:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841",
+          "number": 3841,
+          "title": "Use <For/> in `Tag` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T04:10:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3840",
+          "number": 3840,
+          "title": "Use <For/> in `Badge` documentation "
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T03:30:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3839",
+          "number": 3839,
+          "title": "Use <For /> in `Flex` documentation "
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T03:10:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3838",
+          "number": 3838,
+          "title": "Use  <For /> in `Divider` documentation"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-09T07:52:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3532#issuecomment-2527182879",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3532"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3838#pullrequestreview-2487987632",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3838",
+          "submitted_at": "2024-12-09T07:37:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3838#pullrequestreview-2487989127",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3838",
+          "submitted_at": "2024-12-09T07:38:15Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#pullrequestreview-2487995539",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3538",
+          "submitted_at": "2024-12-09T07:41:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#pullrequestreview-2488001608",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3538",
+          "submitted_at": "2024-12-09T07:44:46Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T14:04:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3845",
+          "number": 3845,
+          "title": "Add `NativePopover` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-09T09:10:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3843",
+          "number": 3843,
+          "title": "Enhance Test Coverage for `@yamada-ui/motion`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3836#pullrequestreview-2488016387",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3836",
+          "submitted_at": "2024-12-09T07:53:58Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3834#pullrequestreview-2488015521",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3834",
+          "submitted_at": "2024-12-09T07:53:26Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
