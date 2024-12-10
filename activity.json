@@ -68523,5 +68523,874 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2024-12-10": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3874#pullrequestreview-2491960994",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3874",
+          "submitted_at": "2024-12-10T11:09:20Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#pullrequestreview-2490801132",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3841",
+          "submitted_at": "2024-12-10T03:15:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#pullrequestreview-2490896061",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3841",
+          "submitted_at": "2024-12-10T04:00:33Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3862#pullrequestreview-2491169174",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3862",
+          "submitted_at": "2024-12-10T06:36:36Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#pullrequestreview-2490964302",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3841",
+          "submitted_at": "2024-12-10T04:49:05Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:15:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3946",
+          "number": 3946,
+          "title": "Make components headless for `Visually-hidden` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:15:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3945",
+          "number": 3945,
+          "title": "Make components headless for `Typography` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:15:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3944",
+          "number": 3944,
+          "title": "Make components headless for `Transitions` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:15:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3943",
+          "number": 3943,
+          "title": "Make components headless for `Tooltip` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:15:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3942",
+          "number": 3942,
+          "title": "Make components headless for `Toggle` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3941",
+          "number": 3941,
+          "title": "Make components headless for `Textarea` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3940",
+          "number": 3940,
+          "title": "Make components headless for `Tag` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3939",
+          "number": 3939,
+          "title": "Make components headless for `Tabs` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3938",
+          "number": 3938,
+          "title": "Make components headless for `Table` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3937",
+          "number": 3937,
+          "title": "Make components headless for `Switch` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3936",
+          "number": 3936,
+          "title": "Make components headless for `Stepper` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3935",
+          "number": 3935,
+          "title": "Make components headless for `Status` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3934",
+          "number": 3934,
+          "title": "Make components headless for `Stat` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3933",
+          "number": 3933,
+          "title": "Make components headless for `Snacks` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3932",
+          "number": 3932,
+          "title": "Make components headless for `Slider` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3931",
+          "number": 3931,
+          "title": "Make components headless for `Skeleton` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:14:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3930",
+          "number": 3930,
+          "title": "Make components headless for `Select` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3929",
+          "number": 3929,
+          "title": "Make components headless for `Segmented-control` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3928",
+          "number": 3928,
+          "title": "Make components headless for `Scroll-area` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3927",
+          "number": 3927,
+          "title": "Make components headless for `Ripple` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3926",
+          "number": 3926,
+          "title": "Make components headless for `Resizable` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3925",
+          "number": 3925,
+          "title": "Make components headless for `Reorder` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3924",
+          "number": 3924,
+          "title": "Make components headless for `Rating` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3923",
+          "number": 3923,
+          "title": "Make components headless for `Radio` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3922",
+          "number": 3922,
+          "title": "Make components headless for `Progress` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3921",
+          "number": 3921,
+          "title": "Make components headless for `Portal` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3920",
+          "number": 3920,
+          "title": "Make components headless for `Popover` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3919",
+          "number": 3919,
+          "title": "Make components headless for `Pin-input` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:13:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3918",
+          "number": 3918,
+          "title": "Make components headless for `Password-input` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3917",
+          "number": 3917,
+          "title": "Make components headless for `Pagination` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3916",
+          "number": 3916,
+          "title": "Make components headless for `Number-input` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3915",
+          "number": 3915,
+          "title": "Make components headless for `Notice` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3914",
+          "number": 3914,
+          "title": "Make components headless for `Native-table` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3913",
+          "number": 3913,
+          "title": "Make components headless for `Native-select` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3912",
+          "number": 3912,
+          "title": "Make components headless for `Motion` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3911",
+          "number": 3911,
+          "title": "Make components headless for `Modal` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3910",
+          "number": 3910,
+          "title": "Make components headless for `Menu` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3909",
+          "number": 3909,
+          "title": "Make components headless for `Markdown` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3908",
+          "number": 3908,
+          "title": "Make components headless for `Lucide` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3907",
+          "number": 3907,
+          "title": "Make components headless for `Loading` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3906",
+          "number": 3906,
+          "title": "Make components headless for `List` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:12:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3905",
+          "number": 3905,
+          "title": "Make components headless for `Link` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3904",
+          "number": 3904,
+          "title": "Make components headless for `Layouts` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3903",
+          "number": 3903,
+          "title": "Make components headless for `Kbd` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3902",
+          "number": 3902,
+          "title": "Make components headless for `Infinite-scroll-area` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3901",
+          "number": 3901,
+          "title": "Make components headless for `Indicator` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3900",
+          "number": 3900,
+          "title": "Make components headless for `Image` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3899",
+          "number": 3899,
+          "title": "Make components headless for `Icon` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3898",
+          "number": 3898,
+          "title": "Make components headless for `Highlight` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3897",
+          "number": 3897,
+          "title": "Make components headless for `Format` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3896",
+          "number": 3896,
+          "title": "Make components headless for `Form-control` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3895",
+          "number": 3895,
+          "title": "Make components headless for `For` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3894",
+          "number": 3894,
+          "title": "Make components headless for `Fontawesome` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:11:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3893",
+          "number": 3893,
+          "title": "Make components headless for `Focus-lock` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3892",
+          "number": 3892,
+          "title": "Make components headless for `File-input` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3891",
+          "number": 3891,
+          "title": "Make components headless for `File-button` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3890",
+          "number": 3890,
+          "title": "Make components headless for `Empty-state` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3889",
+          "number": 3889,
+          "title": "Make components headless for `Editable` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3888",
+          "number": 3888,
+          "title": "Make components headless for `Dropzone` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3887",
+          "number": 3887,
+          "title": "Make components headless for `Data-list` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3886",
+          "number": 3886,
+          "title": "Make components headless for `Color-picker` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3885",
+          "number": 3885,
+          "title": "Make components headless for `Close-button` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3884",
+          "number": 3884,
+          "title": "Make components headless for `Checkbox` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3883",
+          "number": 3883,
+          "title": "Make components headless for `Carousel` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3882",
+          "number": 3882,
+          "title": "Make components headless for `Card` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3881",
+          "number": 3881,
+          "title": "Make components headless for `Calendar` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:10:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3880",
+          "number": 3880,
+          "title": "Make components headless for `Button` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:09:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3879",
+          "number": 3879,
+          "title": "Make components headless for `Breadcrumb` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:07:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3878",
+          "number": 3878,
+          "title": "Make components headless for `Badge` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T13:07:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3877",
+          "number": 3877,
+          "title": "Make components headless for `Avatar` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T12:50:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3876",
+          "number": 3876,
+          "title": "Make components headless for `Autocomplete` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T12:41:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3875",
+          "number": 3875,
+          "title": "Make components headless for `Alert` component"
+        }
+      ]
+    },
+    "mei28": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3850#pullrequestreview-2491642056",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3850",
+          "submitted_at": "2024-12-10T09:29:39Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3850#pullrequestreview-2491682415",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3850",
+          "submitted_at": "2024-12-10T09:39:31Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3850#pullrequestreview-2491546452",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3850",
+          "submitted_at": "2024-12-10T09:12:25Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3846#pullrequestreview-2490506355",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3846",
+          "submitted_at": "2024-12-10T00:58:03Z"
+        }
+      ]
+    },
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:54:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3873",
+          "number": 3873,
+          "title": "Remove deprecated props in `input` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:53:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3872",
+          "number": 3872,
+          "title": "Remove deprecated props in `infinite-scroll-area` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:53:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3871",
+          "number": 3871,
+          "title": "Remove deprecated props in `indicator` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:51:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3870",
+          "number": 3870,
+          "title": "Remove deprecated props in `image` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:39:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3869",
+          "number": 3869,
+          "title": "Remove deprecated props in `highlight` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:37:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3868",
+          "number": 3868,
+          "title": "Remove deprecated props in `form-control` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:35:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3867",
+          "number": 3867,
+          "title": "Remove deprecated props in `focus-lock` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:34:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3866",
+          "number": 3866,
+          "title": "Remove deprecated props in`file-input` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:31:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3865",
+          "number": 3865,
+          "title": "Remove deprecated props in `file-button` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:24:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3864",
+          "number": 3864,
+          "title": "Remove deprecated props in `editable` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T07:22:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3863",
+          "number": 3863,
+          "title": "Remove deprecated props in `dropzone` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:42:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3861",
+          "number": 3861,
+          "title": "Remove deprecated props in `color-picker` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:41:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3860",
+          "number": 3860,
+          "title": "Remove deprecated props in `close-button` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:40:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3859",
+          "number": 3859,
+          "title": "Remove deprecated props in `checkbox` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:39:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3858",
+          "number": 3858,
+          "title": "Remove deprecated props in `charts` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:36:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3857",
+          "number": 3857,
+          "title": "Remove deprecated props in `carousel` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:34:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3856",
+          "number": 3856,
+          "title": "Remove deprecated props in `calendar` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:32:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3855",
+          "number": 3855,
+          "title": "Remove deprecated props in `button` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:31:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3854",
+          "number": 3854,
+          "title": "Remove deprecated props in `breadcrumb` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:30:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3853",
+          "number": 3853,
+          "title": "Remove deprecated props in `avatar` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:28:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3852",
+          "number": 3852,
+          "title": "Remove deprecated props in `autocomplete` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T04:22:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3851",
+          "number": 3851,
+          "title": "Remove deprecated props in `accordion` package"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-12-10T02:26:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#issuecomment-2530075113",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3841"
+        },
+        {
+          "created_at": "2024-12-10T02:37:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3839#issuecomment-2530099690",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3839"
+        },
+        {
+          "created_at": "2024-12-10T02:47:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3838#issuecomment-2530115514",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3838"
+        },
+        {
+          "created_at": "2024-12-10T03:35:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3701#issuecomment-2530185777",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3701"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T09:31:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3874",
+          "number": 3874,
+          "title": "Use <For/> in `Blockquote` documentation"
+        },
+        {
+          "closed_at": "2024-12-10T12:46:22Z",
+          "created_at": "2024-12-10T05:52:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3862",
+          "number": 3862,
+          "title": "Use <For/> in `List` documentation"
+        },
+        {
+          "closed_at": "2024-12-10T11:56:05Z",
+          "created_at": "2024-12-10T04:14:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3850",
+          "number": 3850,
+          "title": "Use <For/> in `FileInput` documentation "
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T03:06:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3849",
+          "number": 3849,
+          "title": "Use <For/> in `SimpleGrid` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T02:59:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3848",
+          "number": 3848,
+          "title": "Use <For/> in `Separator` documentation"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-10T11:57:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3650#issuecomment-2531389534",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3650"
+        },
+        {
+          "created_at": "2024-12-10T12:00:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3701#issuecomment-2531413423",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3701"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3862#pullrequestreview-2492022303",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3862",
+          "submitted_at": "2024-12-10T11:34:28Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3850#pullrequestreview-2492019960",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3850",
+          "submitted_at": "2024-12-10T11:33:18Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3846#pullrequestreview-2492017905",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3846",
+          "submitted_at": "2024-12-10T11:32:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#pullrequestreview-2492016268",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3841",
+          "submitted_at": "2024-12-10T11:31:41Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3839#pullrequestreview-2492116077",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3839",
+          "submitted_at": "2024-12-10T12:02:10Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3838#pullrequestreview-2492113043",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3838",
+          "submitted_at": "2024-12-10T12:01:32Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3849#pullrequestreview-2492138989",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3849",
+          "submitted_at": "2024-12-10T12:09:19Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "comments": [
+        {
+          "created_at": "2024-12-10T14:56:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3837#issuecomment-2531880045",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3837"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-10T14:33:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3947",
+          "number": 3947,
+          "title": "Replace `StatIcon` with `TriangleIcon` from `@yamada-ui/lucide`"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
