@@ -69392,5 +69392,773 @@
       ]
     },
     "Shunii85": null
+  },
+  "2024-12-11": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2024-12-11T10:34:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3365#issuecomment-2535472372",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3365"
+        },
+        {
+          "created_at": "2024-12-11T10:41:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3369#issuecomment-2535489563",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3369"
+        },
+        {
+          "created_at": "2024-12-11T10:47:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3379#issuecomment-2535501986",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3379"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977#pullrequestreview-2494447373",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3977",
+          "submitted_at": "2024-12-11T06:41:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977#pullrequestreview-2494538181",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3977",
+          "submitted_at": "2024-12-11T07:29:47Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3947#pullrequestreview-2494428628",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3947",
+          "submitted_at": "2024-12-11T06:28:55Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:51:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4024",
+          "number": 4024,
+          "title": "Separation of UI and Logic in the Other Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:51:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4023",
+          "number": 4023,
+          "title": "Separation of UI and Logic in the Transitions Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:50:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4022",
+          "number": 4022,
+          "title": "Separation of UI and Logic in the Media and Icons Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:50:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4021",
+          "number": 4021,
+          "title": "Separation of UI and Logic in the Feedback Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:49:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4020",
+          "number": 4020,
+          "title": "Separation of UI and Logic in the Navigation Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:47:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4019",
+          "number": 4019,
+          "title": "Separation of UI and Logic in the Layouts Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:43:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4018",
+          "number": 4018,
+          "title": "Separation of UI and Logic in the Feedback Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:38:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4017",
+          "number": 4017,
+          "title": "Separation of UI and Logic in the Typography Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:36:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4016",
+          "number": 4016,
+          "title": "Separation of UI and Logic in the Overlay Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:34:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4015",
+          "number": 4015,
+          "title": "Separation of UI and Logic in the Disclosure Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:28:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4014",
+          "number": 4014,
+          "title": "Separation of UI and Logic in the Forms Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:20:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4013",
+          "number": 4013,
+          "title": "Separation of UI and Logic in the `Input` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:16:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4012",
+          "number": 4012,
+          "title": "Separation of UI and Logic in the DataDisplay Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:12:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4011",
+          "number": 4011,
+          "title": "Separation of UI and Logic in the `InfiniteScrollArea` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:11:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4010",
+          "number": 4010,
+          "title": "Separation of UI and Logic in the `Indicator` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:10:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4009",
+          "number": 4009,
+          "title": "Separation of UI and Logic in the `Image` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:10:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4008",
+          "number": 4008,
+          "title": "Separation of UI and Logic in the `Icon` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:09:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4007",
+          "number": 4007,
+          "title": "Separation of UI and Logic in the `Format` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:08:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4006",
+          "number": 4006,
+          "title": "Separation of UI and Logic in the `For` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:07:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4005",
+          "number": 4005,
+          "title": "Separation of UI and Logic in the `EmptyState` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:07:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4004",
+          "number": 4004,
+          "title": "Separation of UI and Logic in the `Dropzone` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:05:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4003",
+          "number": 4003,
+          "title": "Separation of UI and Logic in the `DataList` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:04:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4002",
+          "number": 4002,
+          "title": "Separation of UI and Logic in the `ColorPicker` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:03:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4001",
+          "number": 4001,
+          "title": "Separation of UI and Logic in the `CloseButton` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:03:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4000",
+          "number": 4000,
+          "title": "Separation of UI and Logic in the `Charts` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:02:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3999",
+          "number": 3999,
+          "title": "Separation of UI and Logic in the `Carousel` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:01:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3998",
+          "number": 3998,
+          "title": "Separation of UI and Logic in the `Card` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T12:00:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3997",
+          "number": 3997,
+          "title": "Separation of UI and Logic in the `Breadcrumb` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:59:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3996",
+          "number": 3996,
+          "title": "Separation of UI and Logic in the `Badge` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:58:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3995",
+          "number": 3995,
+          "title": "Separation of UI and Logic in the `Avatar` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:57:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3994",
+          "number": 3994,
+          "title": "Separation of UI and Logic in the `Alert` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:27:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3993",
+          "number": 3993,
+          "title": "Separation of UI and Logic in the `Autocomplete` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:24:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3992",
+          "number": 3992,
+          "title": "Separation of UI and Logic in the `Progress` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:16:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3991",
+          "number": 3991,
+          "title": "Separation of UI and Logic in the `List` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:14:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3990",
+          "number": 3990,
+          "title": "Separation of UI and Logic in the `Popover` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:09:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3989",
+          "number": 3989,
+          "title": "Separation of UI and Logic in the `Tag` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:08:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3988",
+          "number": 3988,
+          "title": "Separation of UI and Logic in the `Select` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T11:06:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3987",
+          "number": 3987,
+          "title": "Separation of UI and Logic in the `Switch` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T10:57:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3986",
+          "number": 3986,
+          "title": "Separation of UI and Logic in the `Calendar` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T10:53:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3985",
+          "number": 3985,
+          "title": "Separation of UI and Logic in the `Button` Component"
+        },
+        {
+          "closed_at": "2024-12-11T10:27:24Z",
+          "created_at": "2024-12-11T09:33:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3983",
+          "number": 3983,
+          "title": "Storybook page is broken"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4025#pullrequestreview-2495937705",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4025",
+          "submitted_at": "2024-12-11T14:58:41Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3984#pullrequestreview-2494972923",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3984",
+          "submitted_at": "2024-12-11T09:54:30Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3980#pullrequestreview-2494453782",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3980",
+          "submitted_at": "2024-12-11T06:44:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3874#pullrequestreview-2494168807",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3874",
+          "submitted_at": "2024-12-11T02:43:09Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3979#pullrequestreview-2494396392",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3979",
+          "submitted_at": "2024-12-11T06:04:29Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3973#pullrequestreview-2494136152",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3973",
+          "submitted_at": "2024-12-11T02:19:24Z"
+        }
+      ]
+    },
+    "illionillion": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3976#pullrequestreview-2494210828",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3976",
+          "submitted_at": "2024-12-11T03:21:24Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3978#pullrequestreview-2494455320",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3978",
+          "submitted_at": "2024-12-11T06:45:32Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3949#pullrequestreview-2494760255",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3949",
+          "submitted_at": "2024-12-11T08:27:30Z"
+        }
+      ]
+    },
+    "nathanlao": {
+      "comments": [
+        {
+          "created_at": "2024-12-11T01:30:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#issuecomment-2533416019",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3538"
+        },
+        {
+          "created_at": "2024-12-11T02:25:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#issuecomment-2533479182",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3538"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T02:00:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3971",
+          "number": 3971,
+          "title": "Remove deprecated props in `ripple` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:59:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3970",
+          "number": 3970,
+          "title": "Remove deprecated props in `resizable` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:58:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3969",
+          "number": 3969,
+          "title": "Remove deprecated props in `reorder` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:57:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3968",
+          "number": 3968,
+          "title": "Remove deprecated props in `rating` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:56:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3967",
+          "number": 3967,
+          "title": "Remove deprecated props in `radio` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:55:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3966",
+          "number": 3966,
+          "title": "Remove deprecated props in `progress` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:54:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3965",
+          "number": 3965,
+          "title": "Remove deprecated props in `portal` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:54:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3964",
+          "number": 3964,
+          "title": "Remove deprecated props in `popover` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:53:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3963",
+          "number": 3963,
+          "title": "Remove deprecated props in `pin-input` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:52:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3962",
+          "number": 3962,
+          "title": "Remove deprecated props in `password-input` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:51:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3961",
+          "number": 3961,
+          "title": "Remove deprecated props in `pagination` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:50:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3960",
+          "number": 3960,
+          "title": "Remove deprecated props in `number-input` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:49:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3959",
+          "number": 3959,
+          "title": "Remove deprecated props in `notice` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:45:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3958",
+          "number": 3958,
+          "title": "Remove deprecated props in `native-table` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:44:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3957",
+          "number": 3957,
+          "title": "Remove deprecated props in `native-select` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:43:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3956",
+          "number": 3956,
+          "title": "Remove deprecated props in `motion` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:42:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3955",
+          "number": 3955,
+          "title": "Remove deprecated props in `modal` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:40:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3954",
+          "number": 3954,
+          "title": "Remove deprecated props in `menu` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:40:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3953",
+          "number": 3953,
+          "title": "Remove deprecated props in `markdown` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:38:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3952",
+          "number": 3952,
+          "title": "Remove deprecated props in `loading` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:35:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3951",
+          "number": 3951,
+          "title": "Remove deprecated props in `link` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T01:34:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3950",
+          "number": 3950,
+          "title": "Remove deprecated props in `layouts` package"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-12-11T03:20:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3701#issuecomment-2533538543",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3701"
+        },
+        {
+          "created_at": "2024-12-11T06:46:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3741#issuecomment-2533769088",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3741"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T06:02:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3981",
+          "number": 3981,
+          "title": "Use <For/> in `Rating` documentation"
+        },
+        {
+          "closed_at": "2024-12-11T09:45:22Z",
+          "created_at": "2024-12-11T05:45:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3980",
+          "number": 3980,
+          "title": "Use <For/> in `SaturationSlider` documentation"
+        },
+        {
+          "closed_at": "2024-12-11T10:05:38Z",
+          "created_at": "2024-12-11T05:29:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3979",
+          "number": 3979,
+          "title": "Use <For/> in `AlphaSlider` documentation "
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T04:53:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3978",
+          "number": 3978,
+          "title": "Use <For/> in `HueSlider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T04:44:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977",
+          "number": 3977,
+          "title": "Use <For/> in `RangeSlider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T03:16:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3976",
+          "number": 3976,
+          "title": "Use <For/> in `Slider` documentation"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T02:55:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975",
+          "number": 3975,
+          "title": "Use <For/> in `Dropzone` documentation "
+        },
+        {
+          "closed_at": "2024-12-11T09:04:09Z",
+          "created_at": "2024-12-11T02:15:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3973",
+          "number": 3973,
+          "title": "Use <For/> in `FileButton` documentation "
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-11T00:15:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#issuecomment-2533316564",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3538"
+        },
+        {
+          "created_at": "2024-12-11T00:26:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3790#issuecomment-2533341957",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3790"
+        },
+        {
+          "created_at": "2024-12-11T00:27:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3761#issuecomment-2533343116",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3761"
+        },
+        {
+          "created_at": "2024-12-11T01:18:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3949#issuecomment-2533396564",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3949"
+        },
+        {
+          "created_at": "2024-12-11T01:37:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#issuecomment-2533422892",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3538"
+        },
+        {
+          "created_at": "2024-12-11T03:34:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3701#issuecomment-2533551961",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3701"
+        },
+        {
+          "created_at": "2024-12-11T09:00:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3746#issuecomment-2535236483",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3746"
+        },
+        {
+          "created_at": "2024-12-11T09:02:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3741#issuecomment-2535240133",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3741"
+        },
+        {
+          "created_at": "2024-12-11T14:19:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3788#issuecomment-2536131203",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3788"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T09:09:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3982",
+          "number": 3982,
+          "title": "Enhance Test Coverage for `@yamada-ui/radio`"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-12-11T10:27:23Z",
+          "created_at": "2024-12-11T09:38:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3984",
+          "number": 3984,
+          "title": "Updated useDarkMode hook implementation"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3980#pullrequestreview-2494852468",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3980",
+          "submitted_at": "2024-12-11T09:08:31Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3979#pullrequestreview-2494850805",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3979",
+          "submitted_at": "2024-12-11T09:07:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3979#pullrequestreview-2494851643",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3979",
+          "submitted_at": "2024-12-11T09:08:09Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3978#pullrequestreview-2494850093",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3978",
+          "submitted_at": "2024-12-11T09:07:38Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3976#pullrequestreview-2494849294",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3976",
+          "submitted_at": "2024-12-11T09:07:19Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3974#pullrequestreview-2494223870",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3974",
+          "submitted_at": "2024-12-11T03:33:16Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3973#pullrequestreview-2494841587",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3973",
+          "submitted_at": "2024-12-11T09:04:04Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3972#pullrequestreview-2494139826",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3972",
+          "submitted_at": "2024-12-11T02:22:23Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3949#pullrequestreview-2494858748",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3949",
+          "submitted_at": "2024-12-11T09:11:13Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3874#pullrequestreview-2494843612",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3874",
+          "submitted_at": "2024-12-11T09:04:56Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3692#pullrequestreview-2494085010",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3692",
+          "submitted_at": "2024-12-11T01:38:06Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3538#pullrequestreview-2488007896",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3538",
+          "submitted_at": "2024-12-11T03:05:01Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
