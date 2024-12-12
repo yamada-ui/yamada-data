@@ -70160,5 +70160,285 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2024-12-12": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977#pullrequestreview-2497454903",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3977",
+          "submitted_at": "2024-12-12T02:24:27Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977#pullrequestreview-2497548300",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3977",
+          "submitted_at": "2024-12-12T03:50:29Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4026#pullrequestreview-2497497193",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4026",
+          "submitted_at": "2024-12-12T03:02:08Z"
+        }
+      ]
+    },
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:35:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4044",
+          "number": 4044,
+          "title": "Remove deprecated props in `transitions` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:34:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4043",
+          "number": 4043,
+          "title": "Remove deprecated props in `tooltip` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:33:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4042",
+          "number": 4042,
+          "title": "Remove deprecated props in `toggle` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:32:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4041",
+          "number": 4041,
+          "title": "Remove deprecated props in `textarea` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:30:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4040",
+          "number": 4040,
+          "title": "Remove deprecated props in `tag` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:30:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4039",
+          "number": 4039,
+          "title": "Remove deprecated props in `tabs` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:28:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4038",
+          "number": 4038,
+          "title": "Remove deprecated props in `table` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:22:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4037",
+          "number": 4037,
+          "title": "Remove deprecated props in `switch` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:21:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4036",
+          "number": 4036,
+          "title": "Remove deprecated props in `stepper` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:18:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4035",
+          "number": 4035,
+          "title": "Remove deprecated props in `snacks` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:17:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4034",
+          "number": 4034,
+          "title": "Remove deprecated props in `slider` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:15:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4033",
+          "number": 4033,
+          "title": "Remove deprecated props in `skeleton` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:14:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4032",
+          "number": 4032,
+          "title": "Remove deprecated props in `select` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:13:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4031",
+          "number": 4031,
+          "title": "Remove deprecated props in `segmented-control` package"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T05:12:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4030",
+          "number": 4030,
+          "title": "Remove deprecated props in `scroll-area` package"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T06:28:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4045",
+          "number": 4045,
+          "title": "Use <For/> in `pagination` documentation"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-12-12T02:25:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3779#issuecomment-2537616245",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3779"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T02:37:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4029",
+          "number": 4029,
+          "title": "Use <For/> in `Stack` documentation"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-12T09:24:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3948#issuecomment-2538337193",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3948"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T07:52:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/105",
+          "number": 105,
+          "title": "Update node version and cleanup code"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T07:45:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/555",
+          "number": 555,
+          "title": "Updated node version and package manager"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T07:45:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/67",
+          "number": 67,
+          "title": "Updated node and dependencies …"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-12T07:13:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4046",
+          "number": 4046,
+          "title": "Updated node version and package configs"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4026#pullrequestreview-2497835171",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4026",
+          "submitted_at": "2024-12-12T06:20:29Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4025#pullrequestreview-2497836831",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4025",
+          "submitted_at": "2024-12-12T06:21:01Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977#pullrequestreview-2497838766",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3977",
+          "submitted_at": "2024-12-12T06:21:35Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/66#pullrequestreview-2498086919",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-theme/pulls/66",
+          "submitted_at": "2024-12-12T07:34:36Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/554#pullrequestreview-2498087802",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/554",
+          "submitted_at": "2024-12-12T07:34:53Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/104#pullrequestreview-2498089458",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/104",
+          "submitted_at": "2024-12-12T07:35:23Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3837#pullrequestreview-2498387184",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3837",
+          "submitted_at": "2024-12-12T08:47:15Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3798#pullrequestreview-2498634893",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3798",
+          "submitted_at": "2024-12-12T09:40:10Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3683#pullrequestreview-2498703931",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3683",
+          "submitted_at": "2024-12-12T09:57:03Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3672#pullrequestreview-2498568823",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3672",
+          "submitted_at": "2024-12-12T09:25:06Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3609#pullrequestreview-2498735436",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3609",
+          "submitted_at": "2024-12-12T10:04:45Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/105#pullrequestreview-2498968689",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/105",
+          "submitted_at": "2024-12-12T11:00:32Z"
+        }
+      ]
+    }
   }
 }
