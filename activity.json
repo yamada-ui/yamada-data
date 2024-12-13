@@ -70440,5 +70440,87 @@
         }
       ]
     }
+  },
+  "2024-12-13": {
+    "108yen": null,
+    "koralle": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/555#pullrequestreview-2501854242",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/555",
+          "submitted_at": "2024-12-13T09:41:52Z"
+        }
+      ]
+    },
+    "chida09": null,
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4046#pullrequestreview-2501821973",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4046",
+          "submitted_at": "2024-12-13T09:26:09Z"
+        }
+      ]
+    },
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T14:59:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4054",
+          "number": 4054,
+          "title": "Enhance a11y in the Overlay Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T14:58:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4053",
+          "number": 4053,
+          "title": "Make `aria-labelledby` support multiple values in `Dropzone`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T14:57:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4052",
+          "number": 4052,
+          "title": "Make `aria-labelledby` support multiple values in `Checkbox`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T14:55:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4051",
+          "number": 4051,
+          "title": "Make `aria-labelledby` support multiple values in `AutoComplete`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T14:53:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4050",
+          "number": 4050,
+          "title": "Enhance a11y in the Forms Category Components"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2502014493",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-13T10:54:48Z"
+        }
+      ]
+    },
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
