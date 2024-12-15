@@ -68556,7 +68556,34 @@
         }
       ]
     },
-    "koralle": null,
+    "koralle": {
+      "comments": [
+        {
+          "created_at": "2024-12-10T15:38:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3837#issuecomment-2532088093",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3837"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3840#pullrequestreview-2492698374",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3840",
+          "submitted_at": "2024-12-10T15:25:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3837#pullrequestreview-2492734837",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3837",
+          "submitted_at": "2024-12-10T15:38:12Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3840#pullrequestreview-2492758747",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3840",
+          "submitted_at": "2024-12-10T15:46:15Z"
+        }
+      ]
+    },
     "chida09": {
       "issues": [
         {
@@ -69278,7 +69305,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-12-11T09:25:46Z",
           "created_at": "2024-12-10T09:31:29Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3874",
           "number": 3874,
@@ -69299,14 +69326,14 @@
           "title": "Use <For/> in `FileInput` documentation "
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-10T22:51:32Z",
           "created_at": "2024-12-10T03:06:09Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3849",
           "number": 3849,
           "title": "Use <For/> in `SimpleGrid` documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-10T22:12:22Z",
           "created_at": "2024-12-10T02:59:25Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3848",
           "number": 3848,
@@ -69326,6 +69353,11 @@
           "created_at": "2024-12-10T12:00:29Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3701#issuecomment-2531413423",
           "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3701"
+        },
+        {
+          "created_at": "2024-12-10T21:37:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3948#issuecomment-2532942429",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3948"
         }
       ],
       "approved": [
@@ -69340,6 +69372,16 @@
           "submitted_at": "2024-12-10T11:33:18Z"
         },
         {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3849#pullrequestreview-2493664576",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3849",
+          "submitted_at": "2024-12-10T21:41:59Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3848#pullrequestreview-2493668870",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3848",
+          "submitted_at": "2024-12-10T21:44:46Z"
+        },
+        {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3846#pullrequestreview-2492017905",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3846",
           "submitted_at": "2024-12-10T11:32:22Z"
@@ -69348,6 +69390,11 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3841#pullrequestreview-2492016268",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3841",
           "submitted_at": "2024-12-10T11:31:41Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3840#pullrequestreview-2493670021",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3840",
+          "submitted_at": "2024-12-10T21:45:32Z"
         },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3839#pullrequestreview-2492116077",
@@ -69388,6 +69435,13 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3947",
           "number": 3947,
           "title": "Replace `StatIcon` with `TriangleIcon` from `@yamada-ui/lucide`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3848#pullrequestreview-2492652679",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3848",
+          "submitted_at": "2024-12-10T15:10:48Z"
         }
       ]
     },
@@ -69767,7 +69821,24 @@
       ]
     },
     "taroj1205": null,
-    "taiseiiiii": null,
+    "taiseiiiii": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T17:49:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4028",
+          "number": 4028,
+          "title": "Make `aria-labelledby` support multiple values in `Accordion`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-11T17:47:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4027",
+          "number": 4027,
+          "title": "Enhance a11y in the Disclosure Category Components"
+        }
+      ]
+    },
     "quantumshiro": {
       "approved": [
         {
@@ -69988,21 +70059,21 @@
           "title": "Use <For/> in `AlphaSlider` documentation "
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-12T06:50:11Z",
           "created_at": "2024-12-11T04:53:12Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3978",
           "number": 3978,
           "title": "Use <For/> in `HueSlider` documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-12T09:05:57Z",
           "created_at": "2024-12-11T04:44:59Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977",
           "number": 3977,
           "title": "Use <For/> in `RangeSlider` documentation"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-12T07:13:12Z",
           "created_at": "2024-12-11T03:16:03Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3976",
           "number": 3976,
@@ -70164,6 +70235,11 @@
   "2024-12-12": {
     "108yen": {
       "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4048#pullrequestreview-2499742039",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4048",
+          "submitted_at": "2024-12-12T15:15:50Z"
+        },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3977#pullrequestreview-2497454903",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3977",
@@ -70340,7 +70416,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2024-12-14T12:04:10Z",
           "created_at": "2024-12-12T07:52:48Z",
           "html_url": "https://github.com/yamada-ui/yamada-colors/pull/105",
           "number": 105,
@@ -70361,7 +70437,7 @@
           "title": "Updated node and dependencies …"
         },
         {
-          "closed_at": null,
+          "closed_at": "2024-12-14T12:04:59Z",
           "created_at": "2024-12-12T07:13:54Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4046",
           "number": 4046,
@@ -70450,11 +70526,35 @@
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/555",
           "submitted_at": "2024-12-13T09:41:52Z"
         }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/555#pullrequestreview-2501854242",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/555",
+          "submitted_at": "2024-12-13T09:41:52Z"
+        }
       ]
     },
-    "chida09": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T23:23:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4075",
+          "number": 4075,
+          "title": "Use `<For />` in `Stat` docs"
+        }
+      ]
+    },
     "mei28": {
       "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4046#pullrequestreview-2501821973",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4046",
+          "submitted_at": "2024-12-13T09:26:09Z"
+        }
+      ],
+      "reviews": [
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4046#pullrequestreview-2501821973",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4046",
@@ -70466,6 +70566,132 @@
     "taroj1205": null,
     "taiseiiiii": {
       "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T16:23:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4072",
+          "number": 4072,
+          "title": "Internationalize `aria-label` within the `Breadcrumb`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T16:22:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4071",
+          "number": 4071,
+          "title": "Enhance a11y in the Navigation Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T16:21:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4070",
+          "number": 4070,
+          "title": "Internationalize `aria-label` within the `Avatar`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T16:20:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4069",
+          "number": 4069,
+          "title": "Enhance a11y in the Media and Icons Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T16:18:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4068",
+          "number": 4068,
+          "title": "Internationalize `aria-label` within the `AutoComplete`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:34:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4067",
+          "number": 4067,
+          "title": "Make `aria-describedby` support multiple values in `Tooltip`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:27:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4066",
+          "number": 4066,
+          "title": "Make `aria-describedby` support multiple values in `FormControl`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:17:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4065",
+          "number": 4065,
+          "title": "Make `aria-labelledby` support multiple values in `Tabs`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:15:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4064",
+          "number": 4064,
+          "title": "Make `aria-labelledby` support multiple values in `Tabs`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:14:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4063",
+          "number": 4063,
+          "title": "Enhance a11y in the Disclosure Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:13:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4062",
+          "number": 4062,
+          "title": "Make `aria-labelledby` support multiple values in `Table`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:09:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4061",
+          "number": 4061,
+          "title": "Enhance a11y in the Data Display Category Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:08:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4060",
+          "number": 4060,
+          "title": "Make `aria-labelledby` support multiple values in `Slider`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:08:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4059",
+          "number": 4059,
+          "title": "Make `aria-labelledby` support multiple values in `Select`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:04:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4058",
+          "number": 4058,
+          "title": "Make `aria-labelledby` support multiple values in `Radio`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:02:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4057",
+          "number": 4057,
+          "title": "Make `aria-labelledby` and `aria-describedby` support multiple values in `Popover`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:01:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4056",
+          "number": 4056,
+          "title": "Make `aria-labelledby` and `aria-describedby` support multiple values in `Modal`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-13T15:00:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4055",
+          "number": 4055,
+          "title": "Make `aria-labelledby` support multiple values in `Menu`"
+        },
         {
           "closed_at": null,
           "created_at": "2024-12-13T14:59:22Z",
@@ -70515,7 +70741,53 @@
         }
       ]
     },
-    "hirotomoyamada": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-13T21:56:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4046#issuecomment-2542445856",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4046"
+        },
+        {
+          "created_at": "2024-12-13T21:45:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/105#issuecomment-2542432364",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-colors/issues/105"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3686#pullrequestreview-2503151767",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3686",
+          "submitted_at": "2024-12-13T20:01:21Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2024-12-14T14:31:23Z",
+          "created_at": "2024-12-13T21:30:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4074",
+          "number": 4074,
+          "title": "Updated type definition"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3693#pullrequestreview-2503228085",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3693",
+          "submitted_at": "2024-12-13T20:51:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3686#pullrequestreview-2503199579",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3686",
+          "submitted_at": "2024-12-13T20:29:26Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3633#pullrequestreview-2503196964",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3633",
+          "submitted_at": "2024-12-13T20:27:27Z"
+        }
+      ]
+    },
     "kurakke": null,
     "Itsuki54": null,
     "haru-036": null,
@@ -70546,7 +70818,122 @@
     },
     "illionillion": null,
     "taroj1205": null,
-    "taiseiiiii": null,
+    "taiseiiiii": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:27:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4095",
+          "number": 4095,
+          "title": "Internationalize `aria-label` within the `Tag`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:26:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4094",
+          "number": 4094,
+          "title": "Internationalize `aria-label` within the `Table`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:26:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4093",
+          "number": 4093,
+          "title": "Internationalize `aria-label` within the `Stat`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:25:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4092",
+          "number": 4092,
+          "title": "Internationalize `aria-label` within the `Slider`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:25:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4091",
+          "number": 4091,
+          "title": "Internationalize `aria-label` within the `Select`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:24:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4090",
+          "number": 4090,
+          "title": "Internationalize `aria-label` within the `Rating`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:24:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4089",
+          "number": 4089,
+          "title": "Internationalize `aria-label` within the `Popover`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:14:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4088",
+          "number": 4088,
+          "title": "Internationalize `aria-label` within the `PasswordInput`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:13:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4087",
+          "number": 4087,
+          "title": "Internationalize `aria-label` within the `Pagination`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:12:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4086",
+          "number": 4086,
+          "title": "Internationalize `aria-label` within the `NumberInput`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:11:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4085",
+          "number": 4085,
+          "title": "Internationalize `aria-label` within the `Modal`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:10:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4084",
+          "number": 4084,
+          "title": "Internationalize `aria-label` within the `ColorPicker`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:09:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4083",
+          "number": 4083,
+          "title": "Internationalize `aria-label` within the `CloseButton`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:08:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4082",
+          "number": 4082,
+          "title": "Enhance a11y in the Other Components"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:07:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4081",
+          "number": 4081,
+          "title": "Internationalize `aria-label` within the `Carousel`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-14T15:06:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4080",
+          "number": 4080,
+          "title": "Internationalize `aria-label` within the `Calendar`"
+        }
+      ]
+    },
     "quantumshiro": {
       "approved": [
         {
@@ -70575,6 +70962,13 @@
     },
     "cidkumagai": {
       "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2503742532",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-14T08:11:43Z"
+        }
+      ],
+      "reviews": [
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2503742532",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
@@ -70641,5 +71035,160 @@
         }
       ]
     }
+  },
+  "2024-12-15": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4096#pullrequestreview-2504281850",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4096",
+          "submitted_at": "2024-12-15T01:41:07Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4096#pullrequestreview-2504299890",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4096",
+          "submitted_at": "2024-12-15T05:01:41Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4073#pullrequestreview-2504281269",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4073",
+          "submitted_at": "2024-12-15T01:32:39Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-15T11:32:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4073#issuecomment-2543837076",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4073"
+        },
+        {
+          "created_at": "2024-12-15T11:32:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3789#issuecomment-2543837243",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3789"
+        },
+        {
+          "created_at": "2024-12-15T11:39:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/555#issuecomment-2543839121",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-components/issues/555"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534323",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:13Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534334",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:18Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534369",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:25Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534385",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:31Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534401",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:36Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534415",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:42Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534459",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534482",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:36:57Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534533",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:37:10Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534558",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:37:19Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534581",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:37:25Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/3975#pullrequestreview-2504534645",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/3975",
+          "submitted_at": "2024-12-15T11:37:37Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4097#pullrequestreview-2504533001",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4097",
+          "submitted_at": "2024-12-15T11:29:03Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4096#pullrequestreview-2504533094",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4096",
+          "submitted_at": "2024-12-15T11:29:32Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4075#pullrequestreview-2504533165",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4075",
+          "submitted_at": "2024-12-15T11:30:01Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4049#pullrequestreview-2504532901",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4049",
+          "submitted_at": "2024-12-15T11:28:29Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4029#pullrequestreview-2504534117",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4029",
+          "submitted_at": "2024-12-15T11:34:54Z"
+        }
+      ]
+    },
+    "kurakke": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4097#pullrequestreview-2504375766",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4097",
+          "submitted_at": "2024-12-15T08:09:02Z"
+        }
+      ]
+    },
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
