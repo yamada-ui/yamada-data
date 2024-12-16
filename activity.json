@@ -71190,5 +71190,352 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2024-12-16": {
+    "108yen": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:22:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4139",
+          "number": 4139,
+          "title": "Separation of UI and Logic in the `SlideFade` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:21:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4138",
+          "number": 4138,
+          "title": "Separation of UI and Logic in the `Slide` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:20:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4137",
+          "number": 4137,
+          "title": "Separation of UI and Logic in the `ScaleFade` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:20:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4136",
+          "number": 4136,
+          "title": "Separation of UI and Logic in the `Rotate` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:20:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4135",
+          "number": 4135,
+          "title": "Separation of UI and Logic in the `Flip` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:19:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4134",
+          "number": 4134,
+          "title": "Separation of UI and Logic in the `Fade` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:19:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4133",
+          "number": 4133,
+          "title": "Separation of UI and Logic in the `Collapse` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:18:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4132",
+          "number": 4132,
+          "title": "Separation of UI and Logic in the `Airy` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:17:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4131",
+          "number": 4131,
+          "title": "Separation of UI and Logic in the `VisuallyHidden` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:15:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4130",
+          "number": 4130,
+          "title": "Separation of UI and Logic in the `Code` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:15:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4129",
+          "number": 4129,
+          "title": "Separation of UI and Logic in the `Em` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:15:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4128",
+          "number": 4128,
+          "title": "Separation of UI and Logic in the `Blockquote` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:14:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4127",
+          "number": 4127,
+          "title": "Separation of UI and Logic in the `Heading` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:14:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4126",
+          "number": 4126,
+          "title": "Separation of UI and Logic in the `Text` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:12:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4125",
+          "number": 4125,
+          "title": "Separation of UI and Logic in the `Textarea` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:11:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4124",
+          "number": 4124,
+          "title": "Separation of UI and Logic in the `Table` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:11:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4123",
+          "number": 4123,
+          "title": "Separation of UI and Logic in the `Stepper` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:10:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4122",
+          "number": 4122,
+          "title": "Separation of UI and Logic in the `Status` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:09:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4121",
+          "number": 4121,
+          "title": "Separation of UI and Logic in the `Stat` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:08:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4120",
+          "number": 4120,
+          "title": "Separation of UI and Logic in the `Skeleton` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:07:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4119",
+          "number": 4119,
+          "title": "Separation of UI and Logic in the `Ripple` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:07:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4118",
+          "number": 4118,
+          "title": "Separation of UI and Logic in the `Resizable` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:06:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4117",
+          "number": 4117,
+          "title": "Separation of UI and Logic in the `Rating` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:05:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4116",
+          "number": 4116,
+          "title": "Separation of UI and Logic in the `Portal` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:04:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4115",
+          "number": 4115,
+          "title": "Separation of UI and Logic in the `PasswordInput` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:03:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4114",
+          "number": 4114,
+          "title": "Separation of UI and Logic in the `Pagination` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:02:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4113",
+          "number": 4113,
+          "title": "Separation of UI and Logic in the `NativeTable` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T14:00:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4112",
+          "number": 4112,
+          "title": "Separation of UI and Logic in the `NativeSelect` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T13:59:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4111",
+          "number": 4111,
+          "title": "Separation of UI and Logic in the `Motion` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T13:58:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4110",
+          "number": 4110,
+          "title": "Separation of UI and Logic in the `Markdown` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T13:57:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4109",
+          "number": 4109,
+          "title": "Separation of UI and Logic in the `Loading` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T13:56:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4108",
+          "number": 4108,
+          "title": "Separation of UI and Logic in the `Link` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T13:54:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4107",
+          "number": 4107,
+          "title": "Separation of UI and Logic in the `Layouts` Component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T13:50:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4106",
+          "number": 4106,
+          "title": "Separation of UI and Logic in the `Kbd` Component"
+        },
+        {
+          "closed_at": "2024-12-16T15:08:15Z",
+          "created_at": "2024-12-16T13:48:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4105",
+          "number": 4105,
+          "title": "Separation of UI and Logic in the `Input` Component"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4103#pullrequestreview-2506096726",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4103",
+          "submitted_at": "2024-12-16T12:46:35Z"
+        }
+      ]
+    },
+    "koralle": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4104#pullrequestreview-2506221738",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4104",
+          "submitted_at": "2024-12-16T13:52:31Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4101#pullrequestreview-2506093001",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4101",
+          "submitted_at": "2024-12-16T12:47:53Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4077#pullrequestreview-2503558674",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4077",
+          "submitted_at": "2024-12-16T00:33:49Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4100#pullrequestreview-2506001100",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4100",
+          "submitted_at": "2024-12-16T12:04:27Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4078#pullrequestreview-2504901695",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4078",
+          "submitted_at": "2024-12-16T00:48:12Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/67#pullrequestreview-2504920664",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-theme/pulls/67",
+          "submitted_at": "2024-12-16T01:15:20Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4045#pullrequestreview-2506079226",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4045",
+          "submitted_at": "2024-12-16T12:39:44Z"
+        }
+      ]
+    },
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T04:17:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4100",
+          "number": 4100,
+          "title": "Use <For /> in `Code` documentation"
+        }
+      ]
+    },
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-12-16T12:42:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3776#issuecomment-2545532112",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3776"
+        },
+        {
+          "created_at": "2024-12-16T12:43:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3774#issuecomment-2545533594",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3774"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-16T13:35:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4104",
+          "number": 4104,
+          "title": "Use <For/> in `YearPicker` documentation "
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
