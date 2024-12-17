@@ -71537,5 +71537,104 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2024-12-17": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4147#pullrequestreview-2508869608",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4147",
+          "submitted_at": "2024-12-17T13:21:44Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4048#pullrequestreview-2508698103",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4048",
+          "submitted_at": "2024-12-17T12:07:31Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2024-12-17T00:26:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4104#issuecomment-2547233552",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4104"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4148#pullrequestreview-2509108046",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4148",
+          "submitted_at": "2024-12-17T14:55:55Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4147#pullrequestreview-2509111047",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4147",
+          "submitted_at": "2024-12-17T14:56:53Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4103#pullrequestreview-2509113171",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4103",
+          "submitted_at": "2024-12-17T14:57:36Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4100#pullrequestreview-2509115130",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4100",
+          "submitted_at": "2024-12-17T14:58:14Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4078#pullrequestreview-2509117068",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4078",
+          "submitted_at": "2024-12-17T14:58:54Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4045#pullrequestreview-2509119331",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4045",
+          "submitted_at": "2024-12-17T14:59:42Z"
+        }
+      ]
+    },
+    "kurakke": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-17T14:28:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4149",
+          "number": 4149,
+          "title": "Specifying configuration files for generating components"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4148#pullrequestreview-2508817479",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4148",
+          "submitted_at": "2024-12-17T12:58:28Z"
+        }
+      ]
+    },
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4102#pullrequestreview-2508680545",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4102",
+          "submitted_at": "2024-12-17T12:08:26Z"
+        }
+      ]
+    }
   }
 }
