@@ -71636,5 +71636,240 @@
         }
       ]
     }
+  },
+  "2024-12-19": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4170#pullrequestreview-2514403940",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4170",
+          "submitted_at": "2024-12-19T12:29:48Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4169#pullrequestreview-2514429910",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4169",
+          "submitted_at": "2024-12-19T12:35:10Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4079#pullrequestreview-2514126195",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4079",
+          "submitted_at": "2024-12-19T11:20:35Z"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T09:04:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4168",
+          "number": 4168,
+          "title": "Replace icons in `@yamada-ui/tag` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T09:04:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4167",
+          "number": 4167,
+          "title": "Replace icons in `@yamada-ui/table` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T09:03:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4166",
+          "number": 4166,
+          "title": "Replace icons in `@yamada-ui/stepper` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T09:02:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4165",
+          "number": 4165,
+          "title": "Replace icons in `@yamada-ui/resizable` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T09:00:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4164",
+          "number": 4164,
+          "title": "Replace icons in `@yamada-ui/reorder` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:57:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4163",
+          "number": 4163,
+          "title": "Replace icons in `@yamada-ui/rating` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:53:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4162",
+          "number": 4162,
+          "title": "Replace icons in `@yamada-ui/pagination` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:27:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4161",
+          "number": 4161,
+          "title": "Replace icons in `@yamada-ui/number-input` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:24:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4160",
+          "number": 4160,
+          "title": "Replace icons in `@yamada-ui/native-select` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:22:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4159",
+          "number": 4159,
+          "title": "Replace icons in `@yamada-ui/menu` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:19:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4158",
+          "number": 4158,
+          "title": "Replace icons in `@yamada-ui/color-picker` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:14:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4157",
+          "number": 4157,
+          "title": "Replace icons in `@yamada-ui/close-button` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:06:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4156",
+          "number": 4156,
+          "title": "Replace icons in `@yamada-ui/carousel` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:02:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4155",
+          "number": 4155,
+          "title": "Replace icons in `@yamada-ui/breadcrumb` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T08:00:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4154",
+          "number": 4154,
+          "title": "Replace icons in `@yamada-ui/avatar` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T07:58:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4153",
+          "number": 4153,
+          "title": "Replace icons in `@yamada-ui/alert ` package with `LucideIcon`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T07:49:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4152",
+          "number": 4152,
+          "title": "Replace icons in ` @yamada-ui/accordion ` package with `LucideIcon`"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T12:17:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4173",
+          "number": 4173,
+          "title": "fix: replace `LucideIcon` in `Autocomplete`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-19T11:57:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4172",
+          "number": 4172,
+          "title": "fix: replace `LucideIcon` in `Avatar`"
+        },
+        {
+          "closed_at": "2024-12-19T12:06:43Z",
+          "created_at": "2024-12-19T11:44:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4171",
+          "number": 4171,
+          "title": "change `AutocompletionIcon` with `LucideIcon`"
+        },
+        {
+          "closed_at": "2024-12-19T15:18:02Z",
+          "created_at": "2024-12-19T11:08:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4170",
+          "number": 4170,
+          "title": "fix: replace to `LucideIcon` in `Alert`"
+        },
+        {
+          "closed_at": "2024-12-19T15:18:10Z",
+          "created_at": "2024-12-19T10:57:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4169",
+          "number": 4169,
+          "title": "fix: replace to `ChevronDownIcon` in `Accordion`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4151#pullrequestreview-2514119721",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4151",
+          "submitted_at": "2024-12-19T11:12:29Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4150#pullrequestreview-2513556304",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4150",
+          "submitted_at": "2024-12-19T07:33:28Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4151#pullrequestreview-2513106004",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4151",
+          "submitted_at": "2024-12-19T00:34:53Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4173#pullrequestreview-2514641921",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4173",
+          "submitted_at": "2024-12-19T13:21:23Z"
+        }
+      ]
+    },
+    "Shunii85": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4076#pullrequestreview-2514607413",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4076",
+          "submitted_at": "2024-12-19T13:13:34Z"
+        }
+      ]
+    }
   }
 }
