@@ -71871,5 +71871,112 @@
         }
       ]
     }
+  },
+  "2024-12-20": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T14:17:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4180",
+          "number": 4180,
+          "title": "Remove unused import from `./theme-tools` in `packages/react/src/index.ts`"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T14:25:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4181",
+          "number": 4181,
+          "title": "fix: remove unused theme-tools export"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T01:10:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4174",
+          "number": 4174,
+          "title": "replaced `Alert`'s Icon"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4181#pullrequestreview-2517673773",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4181",
+          "submitted_at": "2024-12-20T14:28:12Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4079#pullrequestreview-2516609200",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4079",
+          "submitted_at": "2024-12-20T02:41:58Z"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2024-12-20T09:08:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3948#issuecomment-2556574691",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3948"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T09:07:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4179",
+          "number": 4179,
+          "title": "Style Props props and component props to be searchable."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T09:06:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4178",
+          "number": 4178,
+          "title": "Establish MDN link and BaseLine in Style Props props."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T09:06:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4177",
+          "number": 4177,
+          "title": "Rebuild with App Router."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T09:03:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4176",
+          "number": 4176,
+          "title": "Hosting v1 as a subdomain."
+        },
+        {
+          "closed_at": null,
+          "created_at": "2024-12-20T09:03:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4175",
+          "number": 4175,
+          "title": "Replace old (@deprecated) props with new props."
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
