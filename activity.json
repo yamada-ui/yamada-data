@@ -71978,5 +71978,98 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2024-12-21": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4182#pullrequestreview-2518566513",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4182",
+          "submitted_at": "2024-12-21T03:52:46Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4182#pullrequestreview-2518581355",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4182",
+          "submitted_at": "2024-12-21T05:11:46Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4182#pullrequestreview-2518587504",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4182",
+          "submitted_at": "2024-12-21T05:32:53Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4182#pullrequestreview-2518665166",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4182",
+          "submitted_at": "2024-12-21T14:00:15Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4182#pullrequestreview-2518665546",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4182",
+          "submitted_at": "2024-12-21T14:00:36Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-21T08:50:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4183",
+          "number": 4183,
+          "title": "refactor: move styles to theme for input"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2024-12-21T00:05:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4174#issuecomment-2557899403",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4174"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2024-12-21T01:10:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4182",
+          "number": 4182,
+          "title": "fix: replaced icon in `Autocomplete`"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4102#pullrequestreview-2518559678",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4102",
+          "submitted_at": "2024-12-21T02:52:28Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4102#pullrequestreview-2518539261",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4102",
+          "submitted_at": "2024-12-21T00:57:16Z"
+        }
+      ]
+    }
   }
 }
