@@ -73838,5 +73838,64 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-01-01": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4283#pullrequestreview-2526756547",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4283",
+          "submitted_at": "2025-01-01T02:38:33Z"
+        }
+      ]
+    },
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4280#pullrequestreview-2526816963",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4280",
+          "submitted_at": "2025-01-01T09:52:49Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4261#pullrequestreview-2526785788",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4261",
+          "submitted_at": "2025-01-01T07:05:50Z"
+        }
+      ]
+    },
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-01T00:00:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4284",
+          "number": 4284,
+          "title": "`portal`: removed deprecated props"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4260#pullrequestreview-2526783185",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4260",
+          "submitted_at": "2025-01-01T06:49:23Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
