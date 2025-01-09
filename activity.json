@@ -74643,6 +74643,52 @@
     },
     "Shunii85": null
   },
+  "2025-01-07": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4295#pullrequestreview-2533192246",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4295",
+          "submitted_at": "2025-01-07T00:37:47Z"
+        }
+      ]
+    },
+    "illionillion": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-07T06:53:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4299",
+          "number": 4299,
+          "title": "Fix `Slider` so that `Thumb` is not forced to focus if `Slider`'s value is changed."
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4294#pullrequestreview-2533235493",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4294",
+          "submitted_at": "2025-01-07T01:38:55Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
+  },
   "2025-01-09": {
     "108yen": null,
     "koralle": null,
