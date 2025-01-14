@@ -75013,5 +75013,45 @@
       ]
     },
     "Shunii85": null
+  },
+  "2025-01-14": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "comments": [
+        {
+          "created_at": "2025-01-14T14:21:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4314#issuecomment-2590050442",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4314"
+        },
+        {
+          "created_at": "2025-01-14T14:52:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4310#issuecomment-2590134842",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4310"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4297#pullrequestreview-2549856926",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4297",
+          "submitted_at": "2025-01-14T14:19:12Z"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
