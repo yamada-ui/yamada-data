@@ -75053,5 +75053,68 @@
       ]
     },
     "Shunii85": null
+  },
+  "2025-01-15": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4316#pullrequestreview-2551557108",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4316",
+          "submitted_at": "2025-01-15T04:59:26Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "comments": [
+        {
+          "created_at": "2025-01-15T11:49:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4307#issuecomment-2592499396",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4307"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-15T04:49:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4315",
+          "number": 4315,
+          "title": "Correct the direction of rotation of the accordion icon to counterclockwise."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2025-01-15T08:35:06Z",
+          "created_at": "2025-01-15T04:56:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4316",
+          "number": 4316,
+          "title": "fix(accordion): correct rotation transformation for expanded state"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4316#pullrequestreview-2551866338",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4316",
+          "submitted_at": "2025-01-15T08:35:00Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
