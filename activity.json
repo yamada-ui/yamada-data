@@ -75164,5 +75164,85 @@
       ]
     },
     "Shunii85": null
+  },
+  "2025-01-18": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4323#pullrequestreview-2560438931",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4323",
+          "submitted_at": "2025-01-18T14:18:12Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2025-01-18T03:45:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4299#issuecomment-2599508585",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4299"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-01-18T11:06:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4321#issuecomment-2599673277",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4321"
+        },
+        {
+          "created_at": "2025-01-18T11:11:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4319#issuecomment-2599674683",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4319"
+        },
+        {
+          "created_at": "2025-01-18T11:13:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4318#issuecomment-2599675146",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4318"
+        },
+        {
+          "created_at": "2025-01-18T11:36:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4313#issuecomment-2599681149",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4313"
+        },
+        {
+          "created_at": "2025-01-18T11:36:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4315#issuecomment-2599681283",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4315"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-18T11:38:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4323",
+          "number": 4323,
+          "title": "Updated fallback image URLs in documentation"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4321#pullrequestreview-2560419208",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4321",
+          "submitted_at": "2025-01-18T12:58:02Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
