@@ -75308,5 +75308,113 @@
         }
       ]
     }
+  },
+  "2025-01-20": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-20T14:47:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4328",
+          "number": 4328,
+          "title": "Moved legacy components"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4326#pullrequestreview-2562237032",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4326",
+          "submitted_at": "2025-01-20T12:14:08Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-20T13:46:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4327",
+          "number": 4327,
+          "title": "refactor: move styles to theme for date picker"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-01-20T10:53:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4318#issuecomment-2602089933",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4318"
+        },
+        {
+          "created_at": "2025-01-20T10:55:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4253#issuecomment-2602095902",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4253"
+        },
+        {
+          "created_at": "2025-01-20T10:56:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4307#issuecomment-2602097952",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4307"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4318#pullrequestreview-2562041142",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4318",
+          "submitted_at": "2025-01-20T10:49:38Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4253#pullrequestreview-2562053540",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4253",
+          "submitted_at": "2025-01-20T10:54:05Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2025-01-20T13:43:15Z",
+          "created_at": "2025-01-20T10:36:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4326",
+          "number": 4326,
+          "title": "Removed unused `ComponentArgs` properties"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4298#pullrequestreview-2561935482",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4298",
+          "submitted_at": "2025-01-20T10:07:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4297#pullrequestreview-2561941255",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4297",
+          "submitted_at": "2025-01-20T10:10:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4255#pullrequestreview-2562055399",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4255",
+          "submitted_at": "2025-01-20T10:54:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4250#pullrequestreview-2562054792",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4250",
+          "submitted_at": "2025-01-20T10:54:36Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
