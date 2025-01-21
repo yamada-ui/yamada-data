@@ -75416,5 +75416,554 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-01-21": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:26:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4402",
+          "number": 4402,
+          "title": "Docs: replace deprecated props in `Ripple`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:25:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4401",
+          "number": 4401,
+          "title": "Docs: replace deprecated props in `FocusLock`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:22:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4400",
+          "number": 4400,
+          "title": "Docs: replace deprecated props in `SlideFade`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:22:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4399",
+          "number": 4399,
+          "title": "Docs: replace deprecated props in `Slide`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:22:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4398",
+          "number": 4398,
+          "title": "Docs: replace deprecated props in `ScaleFade`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:21:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4397",
+          "number": 4397,
+          "title": "Docs: replace deprecated props in `Rotate`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:21:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4396",
+          "number": 4396,
+          "title": "Docs: replace deprecated props in `Flip`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:21:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4395",
+          "number": 4395,
+          "title": "Docs: replace deprecated props in `Fade`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:20:42Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4394",
+          "number": 4394,
+          "title": "Docs: replace deprecated props in `Collapse`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:20:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4393",
+          "number": 4393,
+          "title": "Docs: replace deprecated props in `Airy`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:19:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4392",
+          "number": 4392,
+          "title": "Docs: replace deprecated props in `Indicator`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:16:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4391",
+          "number": 4391,
+          "title": "Docs: replace deprecated props in `Skeleton`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:15:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4390",
+          "number": 4390,
+          "title": "Docs: replace deprecated props in `Tooltip`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:14:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4389",
+          "number": 4389,
+          "title": "Docs: replace deprecated props in `Popover`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:12:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4388",
+          "number": 4388,
+          "title": "Docs: replace deprecated props in `Menu`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:12:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4387",
+          "number": 4387,
+          "title": "Docs: replace deprecated props in `Drawer`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:11:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4386",
+          "number": 4386,
+          "title": "Docs: replace deprecated props in `Dialog`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:11:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4385",
+          "number": 4385,
+          "title": "Docs: replace deprecated props in `Modal`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:10:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4384",
+          "number": 4384,
+          "title": "Docs: replace deprecated props in `Tabs`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:10:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4383",
+          "number": 4383,
+          "title": "Docs: replace deprecated props in `Accordion`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:08:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4382",
+          "number": 4382,
+          "title": "Docs: replace deprecated props in `Pagination`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:07:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4381",
+          "number": 4381,
+          "title": "Docs: replace deprecated props in `Breadcrumb`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:06:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4380",
+          "number": 4380,
+          "title": "Docs: replace deprecated props in `LinkBox`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:06:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4379",
+          "number": 4379,
+          "title": "Docs: replace deprecated props in `Link`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:04:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4378",
+          "number": 4378,
+          "title": "Docs: replace deprecated props in `InfiniteScrollArea`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:04:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4377",
+          "number": 4377,
+          "title": "Docs: replace deprecated props in `Resizeable`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:02:22Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4376",
+          "number": 4376,
+          "title": "Docs: replace deprecated props in `Carousel`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:01:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4375",
+          "number": 4375,
+          "title": "Docs: replace deprecated props in `DonutChart`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T11:01:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4374",
+          "number": 4374,
+          "title": "Docs: replace deprecated props in `PieChart`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:56:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4373",
+          "number": 4373,
+          "title": "Docs: replace deprecated props in `NativeTable`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:55:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4372",
+          "number": 4372,
+          "title": "Docs: replace deprecated props in `Card`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:53:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4371",
+          "number": 4371,
+          "title": "Docs: replace deprecated props in `tag`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:52:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4370",
+          "number": 4370,
+          "title": "Docs(tracking): replace deprecated props in `Data Display`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:49:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4369",
+          "number": 4369,
+          "title": "Docs: replace deprecated props in `SegmentedControl`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:49:08Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4368",
+          "number": 4368,
+          "title": "Docs: replace deprecated props in `Rating`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:48:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4367",
+          "number": 4367,
+          "title": "Docs: replace deprecated props in `Editable`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:48:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4366",
+          "number": 4366,
+          "title": "Docs: replace deprecated props in `SaturationSlider`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:48:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4365",
+          "number": 4365,
+          "title": "Docs: replace deprecated props in `AlphaSlider`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:47:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4364",
+          "number": 4364,
+          "title": "Docs: replace deprecated props in `HueSlider`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:46:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4363",
+          "number": 4363,
+          "title": "Docs: replace deprecated props in `RangeSlider`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:46:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4362",
+          "number": 4362,
+          "title": "Docs: replace deprecated props in `Slider`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:46:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4361",
+          "number": 4361,
+          "title": "Docs: replace deprecated props in `Dropzone`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:45:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4360",
+          "number": 4360,
+          "title": "Docs: replace deprecated props in `FileButton`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:45:33Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4359",
+          "number": 4359,
+          "title": "Docs: replace deprecated props in `FileInput`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:45:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4358",
+          "number": 4358,
+          "title": "Docs: replace deprecated props in `ColorPicker`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:44:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4357",
+          "number": 4357,
+          "title": "Docs: replace deprecated props in `YearPicker`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:44:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4356",
+          "number": 4356,
+          "title": "Docs: replace deprecated props in `MonthPicker`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:44:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4355",
+          "number": 4355,
+          "title": "Docs: replace deprecated props in `RangeDatePicker`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:43:55Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4354",
+          "number": 4354,
+          "title": "Docs: replace deprecated props in `MultiDatePicker`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:43:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4353",
+          "number": 4353,
+          "title": "Docs: replace deprecated props in `DatePicker`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:42:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4352",
+          "number": 4352,
+          "title": "Docs: replace deprecated props in `MultiAutocomplete`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:42:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4351",
+          "number": 4351,
+          "title": "Docs: replace deprecated props in `Autocomplete`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:37:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4350",
+          "number": 4350,
+          "title": "Docs(tracking): replace deprecated props in `Forms`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:36:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4349",
+          "number": 4349,
+          "title": "Docs: replace deprecated props in `NativeSelect`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:35:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4348",
+          "number": 4348,
+          "title": "Docs: replace deprecated props in `MultiSelect`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:34:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4347",
+          "number": 4347,
+          "title": "Docs: replace deprecated props in `Select`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:34:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4346",
+          "number": 4346,
+          "title": "Docs: replace deprecated props in `Toggle`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:33:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4345",
+          "number": 4345,
+          "title": "Docs: replace deprecated props in `Switch`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:33:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4344",
+          "number": 4344,
+          "title": "Docs: replace deprecated props in `CheckboxCard`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:32:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4343",
+          "number": 4343,
+          "title": "Docs: replace deprecated props in `Checkbox`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:32:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4342",
+          "number": 4342,
+          "title": "Docs: replace deprecated props in `RadioCard`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:31:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4341",
+          "number": 4341,
+          "title": "Docs: replace deprecated props in `Radio`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:30:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4340",
+          "number": 4340,
+          "title": "Docs: replace deprecated props in `Textarea`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:29:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4339",
+          "number": 4339,
+          "title": "Docs: replace deprecated props in `PinInput`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:28:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4338",
+          "number": 4338,
+          "title": "Docs: replace deprecated props in `PasswordInput`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:28:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4337",
+          "number": 4337,
+          "title": "Docs: replace deprecated props in `NumberInput`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:27:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4336",
+          "number": 4336,
+          "title": "Docs: replace deprecated props in `Input`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T10:26:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4335",
+          "number": 4335,
+          "title": "Docs: replace deprecated props in `IconButton`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T01:35:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4334",
+          "number": 4334,
+          "title": "Docs: replace deprecated props in `Button`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T01:09:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4333",
+          "number": 4333,
+          "title": "Docs: replace deprecated props in `FieldSet`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T01:07:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4332",
+          "number": 4332,
+          "title": "Docs: replace deprecated props in `FormControl`"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T01:05:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4331",
+          "number": 4331,
+          "title": "Docs(tracking): replace deprecated props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-21T01:04:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4330",
+          "number": 4330,
+          "title": "Docs: replace deprecated props in `Highlight`"
+        },
+        {
+          "closed_at": "2025-01-21T01:04:45Z",
+          "created_at": "2025-01-21T01:02:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4329",
+          "number": 4329,
+          "title": "Docs: replace deprecated props in `Highlight`"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4307#pullrequestreview-2564750326",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4307",
+          "submitted_at": "2025-01-21T14:10:45Z"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
