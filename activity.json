@@ -75965,5 +75965,70 @@
       ]
     },
     "Shunii85": null
+  },
+  "2025-01-22": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-22T13:39:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4406",
+          "number": 4406,
+          "title": "refactor: move styles to theme for range date picker"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-22T13:30:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4405",
+          "number": 4405,
+          "title": "refactor: move styles to theme for multi date picker"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-22T13:17:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4404",
+          "number": 4404,
+          "title": "refactor: move styles to theme for year picker"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "comments": [
+        {
+          "created_at": "2025-01-22T06:45:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4312#issuecomment-2606423608",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4312"
+        },
+        {
+          "created_at": "2025-01-22T06:46:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4403#issuecomment-2606424610",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4403"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4327#pullrequestreview-2566897037",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4327",
+          "submitted_at": "2025-01-22T11:06:31Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
