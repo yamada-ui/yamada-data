@@ -76110,5 +76110,169 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-01-24": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4418#pullrequestreview-2572138859",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4418",
+          "submitted_at": "2025-01-24T09:29:35Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2025-01-24T07:35:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4299#issuecomment-2611841584",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4299"
+        }
+      ]
+    },
+    "taroj1205": {
+      "comments": [
+        {
+          "created_at": "2025-01-24T04:55:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4310#issuecomment-2611598034",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4310"
+        },
+        {
+          "created_at": "2025-01-24T05:32:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4312#issuecomment-2611636489",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4312"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-24T05:33:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4415",
+          "number": 4415,
+          "title": "Refactor `close-button` for v2.0"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-24T07:05:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4416",
+          "number": 4416,
+          "title": "Add `close-button` for v2.0"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-24T08:56:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4419",
+          "number": 4419,
+          "title": "docs(number-input): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-24T08:52:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4418",
+          "number": 4418,
+          "title": "docs(input): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-24T08:45:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4417",
+          "number": 4417,
+          "title": "docs(icon-button): replace with new props"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-01-24T10:03:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4307#issuecomment-2612131846",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4307"
+        },
+        {
+          "created_at": "2025-01-24T10:04:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4327#issuecomment-2612133678",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4327"
+        },
+        {
+          "created_at": "2025-01-24T10:04:49Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4406#issuecomment-2612134744",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4406"
+        },
+        {
+          "created_at": "2025-01-24T10:05:38Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4327#issuecomment-2612136742",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4327"
+        },
+        {
+          "created_at": "2025-01-24T10:06:14Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4406#issuecomment-2612138079",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4406"
+        },
+        {
+          "created_at": "2025-01-24T10:06:59Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4408#issuecomment-2612139931",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4408"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4418#pullrequestreview-2572230450",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4418",
+          "submitted_at": "2025-01-24T10:09:02Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4413#pullrequestreview-2572235037",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4413",
+          "submitted_at": "2025-01-24T10:10:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4412#pullrequestreview-2572236815",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4412",
+          "submitted_at": "2025-01-24T10:11:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4411#pullrequestreview-2572226892",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4411",
+          "submitted_at": "2025-01-24T10:07:51Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4324#pullrequestreview-2572401504",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4324",
+          "submitted_at": "2025-01-24T11:31:28Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4412#pullrequestreview-2571914099",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4412",
+          "submitted_at": "2025-01-24T07:43:50Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4411#pullrequestreview-2571911685",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4411",
+          "submitted_at": "2025-01-24T07:42:52Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
