@@ -75933,7 +75933,7 @@
           "title": "Docs(tracking): replace deprecated props"
         },
         {
-          "closed_at": "2025-01-24T10:08:08Z",
+          "closed_at": null,
           "created_at": "2025-01-21T01:04:19Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4330",
           "number": 4330,
@@ -75973,27 +75973,6 @@
       "pullRequests": [
         {
           "closed_at": null,
-          "created_at": "2025-01-22T22:18:47Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4410",
-          "number": 4410,
-          "title": "refactor: move styles to theme for multi select"
-        },
-        {
-          "closed_at": null,
-          "created_at": "2025-01-22T22:04:26Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4408",
-          "number": 4408,
-          "title": "refactor: move styles to theme for alpha slider"
-        },
-        {
-          "closed_at": null,
-          "created_at": "2025-01-22T21:46:49Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4407",
-          "number": 4407,
-          "title": "refactor: move styles to theme for color selector"
-        },
-        {
-          "closed_at": null,
           "created_at": "2025-01-22T13:39:44Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4406",
           "number": 4406,
@@ -76012,15 +75991,6 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4404",
           "number": 4404,
           "title": "refactor: move styles to theme for year picker"
-        }
-      ],
-      "issues": [
-        {
-          "closed_at": null,
-          "created_at": "2025-01-22T22:15:57Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4409",
-          "number": 4409,
-          "title": "Make components headless for `MultiSelect` component"
         }
       ]
     },
@@ -76103,7 +76073,7 @@
           "title": "docs(form-control): replace with new props"
         },
         {
-          "closed_at": "2025-01-24T10:08:07Z",
+          "closed_at": null,
           "created_at": "2025-01-23T10:20:08Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4411",
           "number": 4411,
@@ -76115,9 +76085,7 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4408#pullrequestreview-2568654538",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4408",
           "submitted_at": "2025-01-23T01:15:00Z"
-        }
-      ],
-      "reviews": [
+        },
         {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4318#pullrequestreview-2569467394",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4318",
@@ -76127,15 +76095,7 @@
     },
     "kaehehehe": null,
     "cidkumagai": null,
-    "hirotomoyamada": {
-      "approved": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4328#pullrequestreview-2570511178",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4328",
-          "submitted_at": "2025-01-23T17:13:17Z"
-        }
-      ]
-    },
+    "hirotomoyamada": null,
     "kurakke": null,
     "Itsuki54": {
       "approved": [
@@ -76205,24 +76165,7 @@
         }
       ]
     },
-    "taiseiiiii": {
-      "pullRequests": [
-        {
-          "closed_at": null,
-          "created_at": "2025-01-24T19:12:13Z",
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4420",
-          "number": 4420,
-          "title": "feat(avatar): Internationalize `aria-label` in `avatar`"
-        }
-      ],
-      "approved": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4419#pullrequestreview-2573422833",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4419",
-          "submitted_at": "2025-01-24T19:23:10Z"
-        }
-      ]
-    },
+    "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": {
       "pullRequests": [
