@@ -76490,5 +76490,56 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-01-28": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-28T08:57:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4429",
+          "number": 4429,
+          "title": "Refactored `DataList` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4428#pullrequestreview-2577643386",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4428",
+          "submitted_at": "2025-01-28T09:49:02Z"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4405#pullrequestreview-2577082976",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4405",
+          "submitted_at": "2025-01-28T04:56:04Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4404#pullrequestreview-2577086011",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4404",
+          "submitted_at": "2025-01-28T04:59:13Z"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
