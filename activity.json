@@ -76579,5 +76579,42 @@
       ]
     },
     "Shunii85": null
+  },
+  "2025-01-30": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-01-30T10:57:32Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4431",
+          "number": 4431,
+          "title": "Refactored `Code` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-01-30T05:53:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4430",
+          "number": 4430,
+          "title": "Refactored `Em` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
