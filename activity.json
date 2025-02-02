@@ -76507,7 +76507,15 @@
     "chida09": null,
     "mei28": null,
     "illionillion": null,
-    "taroj1205": null,
+    "taroj1205": {
+      "comments": [
+        {
+          "created_at": "2025-01-28T23:42:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4415#issuecomment-2620279154",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4415"
+        }
+      ]
+    },
     "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": {
@@ -76548,7 +76556,15 @@
     "chida09": null,
     "mei28": null,
     "illionillion": null,
-    "taroj1205": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4424#pullrequestreview-2582442997",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4424",
+          "submitted_at": "2025-01-29T21:50:11Z"
+        }
+      ]
+    },
     "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": null,
@@ -76584,14 +76600,14 @@
     "108yen": {
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2025-02-01T10:04:00Z",
           "created_at": "2025-01-30T10:57:32Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4431",
           "number": 4431,
           "title": "Refactored `Code` component"
         },
         {
-          "closed_at": null,
+          "closed_at": "2025-02-01T10:05:49Z",
           "created_at": "2025-01-30T05:53:16Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4430",
           "number": 4430,
@@ -76625,6 +76641,13 @@
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4410",
           "submitted_at": "2025-01-31T10:58:26Z"
         }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4410#pullrequestreview-2586288756",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4410",
+          "submitted_at": "2025-01-31T10:58:26Z"
+        }
       ]
     },
     "koralle": null,
@@ -76651,7 +76674,17 @@
     "chida09": null,
     "mei28": null,
     "illionillion": null,
-    "taroj1205": null,
+    "taroj1205": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-01T19:59:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4432",
+          "number": 4432,
+          "title": "`Alert` component in v2.0 is taller"
+        }
+      ]
+    },
     "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": null,
@@ -76746,6 +76779,69 @@
         }
       ]
     },
+    "Shunii85": null
+  },
+  "2025-02-02": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-02T14:16:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4435",
+          "number": 4435,
+          "title": "Refactored `EmptyState` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-02T07:44:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4434",
+          "number": 4434,
+          "title": "Refactored format components"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4433#pullrequestreview-2588457213",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4433",
+          "submitted_at": "2025-02-02T04:33:10Z"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-02T04:20:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4433",
+          "number": 4433,
+          "title": "docs(checkbox): replace with new props"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4433#pullrequestreview-2588549720",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4433",
+          "submitted_at": "2025-02-02T13:06:11Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
     "Shunii85": null
   }
 }
