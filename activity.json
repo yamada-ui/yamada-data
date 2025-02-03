@@ -76810,5 +76810,68 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-02-03": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-03T11:00:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4437",
+          "number": 4437,
+          "title": "Refactored `InfiniteScrollArea` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-03T08:57:16Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4436",
+          "number": 4436,
+          "title": "Refactored `Status` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": {
+      "comments": [
+        {
+          "created_at": "2025-02-03T07:54:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4420#issuecomment-2630207920",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4420"
+        }
+      ]
+    },
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-03T13:48:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4438",
+          "number": 4438,
+          "title": "Revive the CI/CD for v2.0"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "comments": [
+        {
+          "created_at": "2025-02-03T14:09:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4110#issuecomment-2631108261",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4110"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
