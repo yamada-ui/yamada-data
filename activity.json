@@ -77011,5 +77011,43 @@
       ]
     },
     "Shunii85": null
+  },
+  "2025-02-05": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-05T12:26:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4448",
+          "number": 4448,
+          "title": "Refactored `Highlight` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4436#pullrequestreview-2595159817",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4436",
+          "submitted_at": "2025-02-05T09:51:23Z"
+        }
+      ]
+    },
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
