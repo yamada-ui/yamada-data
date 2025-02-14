@@ -77309,5 +77309,138 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-02-14": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4450#pullrequestreview-2617444615",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4450",
+          "submitted_at": "2025-02-14T10:57:16Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4458#pullrequestreview-2617861019",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4458",
+          "submitted_at": "2025-02-14T13:53:02Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4455#pullrequestreview-2617863983",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4455",
+          "submitted_at": "2025-02-14T13:54:22Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T13:35:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4459",
+          "number": 4459,
+          "title": "Breadcrumb tests are failing in v2.0 branch"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T13:50:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4460",
+          "number": 4460,
+          "title": "test: fix failing tests for breadcrumb component"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T08:11:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4458",
+          "number": 4458,
+          "title": "docs(color-picker): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T08:08:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4457",
+          "number": 4457,
+          "title": "docs(year-picker): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T08:05:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4456",
+          "number": 4456,
+          "title": "docs(month-picker): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T08:01:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4455",
+          "number": 4455,
+          "title": "docs(range-date-picker): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T07:58:12Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4454",
+          "number": 4454,
+          "title": "docs(multi-date-picker): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T07:53:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4453",
+          "number": 4453,
+          "title": "docs(date-picker): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T07:49:54Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4452",
+          "number": 4452,
+          "title": "docs(multi-autocomplete): replace with new props"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-14T07:45:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4451",
+          "number": 4451,
+          "title": "docs(autocomplete): replace with new props"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4448#pullrequestreview-2617251394",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4448",
+          "submitted_at": "2025-02-14T09:53:55Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4456#pullrequestreview-2617214952",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4456",
+          "submitted_at": "2025-02-14T09:31:19Z"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
