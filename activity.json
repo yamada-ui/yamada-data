@@ -77637,5 +77637,95 @@
     "uraaaa24": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-02-18": {
+    "108yen": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4474#pullrequestreview-2622269456",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4474",
+          "submitted_at": "2025-02-18T02:08:42Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-18T12:26:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4477",
+          "number": 4477,
+          "title": "Refactored `Textarea` component"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4474#pullrequestreview-2623659467",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4474",
+          "submitted_at": "2025-02-18T13:57:05Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-18T00:51:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4474",
+          "number": 4474,
+          "title": "test: fix failing tests for collapse component"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4453#pullrequestreview-2622936729",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4453",
+          "submitted_at": "2025-02-18T09:29:57Z"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4457#pullrequestreview-2622949624",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4457",
+          "submitted_at": "2025-02-18T09:34:14Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4456#pullrequestreview-2622833591",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4456",
+          "submitted_at": "2025-02-18T08:50:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4455#pullrequestreview-2622834495",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4455",
+          "submitted_at": "2025-02-18T08:51:14Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "uraaaa24": null,
+    "odendayoko": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-18T13:47:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4478",
+          "number": 4478,
+          "title": "Refactored `VisuallyHidden` component"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
