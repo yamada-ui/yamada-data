@@ -78669,5 +78669,75 @@
     "haru-036": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-02-26": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-26T14:47:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4535",
+          "number": 4535,
+          "title": "Refactored `FileInput` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-26T06:33:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4534",
+          "number": 4534,
+          "title": "Add `notice` with sonner"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4526#pullrequestreview-2643883893",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4526",
+          "submitted_at": "2025-02-26T10:03:32Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4525#pullrequestreview-2643218399",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4525",
+          "submitted_at": "2025-02-26T06:23:19Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4520#pullrequestreview-2644242253",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4520",
+          "submitted_at": "2025-02-26T12:05:54Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4519#pullrequestreview-2643916547",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4519",
+          "submitted_at": "2025-02-26T10:13:54Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "odendayoko": {
+      "comments": [
+        {
+          "created_at": "2025-02-26T14:41:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4314#issuecomment-2685251894",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4314"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
