@@ -78739,5 +78739,230 @@
       ]
     },
     "Shunii85": null
+  },
+  "2025-02-27": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-27T14:41:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4553",
+          "number": 4553,
+          "title": "Refactored `NumberInput` component"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-02-27T03:33:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4547",
+          "number": 4547,
+          "title": "Refactored `Float` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-02-27T11:13:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4551",
+          "number": 4551,
+          "title": "others(focus-lock, ripple): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T15:23:50Z",
+          "created_at": "2025-02-27T11:08:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4550",
+          "number": 4550,
+          "title": "transitions(scale-fade, slide, slide-fade): use new props"
+        },
+        {
+          "closed_at": "2025-02-27T15:01:49Z",
+          "created_at": "2025-02-27T11:02:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4549",
+          "number": 4549,
+          "title": "transitions(flip, rotate): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T14:28:02Z",
+          "created_at": "2025-02-27T10:57:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4548",
+          "number": 4548,
+          "title": "transitions(airy, collapse, fade): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T14:08:32Z",
+          "created_at": "2025-02-27T02:15:15Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4546",
+          "number": 4546,
+          "title": "docs(indicator): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T13:10:09Z",
+          "created_at": "2025-02-27T02:13:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4545",
+          "number": 4545,
+          "title": "docs(skeleton): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T12:18:19Z",
+          "created_at": "2025-02-27T02:04:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4544",
+          "number": 4544,
+          "title": "docs(tooltip): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T11:47:29Z",
+          "created_at": "2025-02-27T02:00:05Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4543",
+          "number": 4543,
+          "title": "docs(popover): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T10:51:01Z",
+          "created_at": "2025-02-27T01:56:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4542",
+          "number": 4542,
+          "title": "docs(menu): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T10:16:45Z",
+          "created_at": "2025-02-27T01:53:23Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4541",
+          "number": 4541,
+          "title": "docs(drawer): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T09:41:33Z",
+          "created_at": "2025-02-27T01:27:27Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4540",
+          "number": 4540,
+          "title": "docs(dialog): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T04:03:47Z",
+          "created_at": "2025-02-27T01:24:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4539",
+          "number": 4539,
+          "title": "docs(modal): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T02:41:09Z",
+          "created_at": "2025-02-27T01:19:37Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4538",
+          "number": 4538,
+          "title": "docs(tabs): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T01:53:35Z",
+          "created_at": "2025-02-27T01:15:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4537",
+          "number": 4537,
+          "title": "docs(accordion): replace with new props"
+        },
+        {
+          "closed_at": "2025-02-27T01:16:20Z",
+          "created_at": "2025-02-27T00:59:09Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4536",
+          "number": 4536,
+          "title": "docs(pagination): replace with new props"
+        }
+      ]
+    },
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4548#pullrequestreview-2647899694",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4548",
+          "submitted_at": "2025-02-27T14:08:48Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4546#pullrequestreview-2647812054",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4546",
+          "submitted_at": "2025-02-27T13:39:19Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4545#pullrequestreview-2647590485",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4545",
+          "submitted_at": "2025-02-27T12:19:13Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4544#pullrequestreview-2647510366",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4544",
+          "submitted_at": "2025-02-27T11:47:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4543#pullrequestreview-2647398803",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4543",
+          "submitted_at": "2025-02-27T10:57:38Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4542#pullrequestreview-2647289192",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4542",
+          "submitted_at": "2025-02-27T10:17:02Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4541#pullrequestreview-2646352544",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4541",
+          "submitted_at": "2025-02-27T01:54:17Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4541#pullrequestreview-2647192487",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4541",
+          "submitted_at": "2025-02-27T09:43:02Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4540#pullrequestreview-2646352329",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4540",
+          "submitted_at": "2025-02-27T01:54:01Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4539#pullrequestreview-2646317576",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4539",
+          "submitted_at": "2025-02-27T01:25:07Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4538#pullrequestreview-2646317107",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4538",
+          "submitted_at": "2025-02-27T01:24:42Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4537#pullrequestreview-2646308043",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4537",
+          "submitted_at": "2025-02-27T01:16:35Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4536#pullrequestreview-2646307632",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4536",
+          "submitted_at": "2025-02-27T01:16:13Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "odendayoko": null,
+    "Shunii85": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4549#pullrequestreview-2647583320",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4549",
+          "submitted_at": "2025-02-27T12:16:22Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4548#pullrequestreview-2647608642",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4548",
+          "submitted_at": "2025-02-27T12:26:20Z"
+        }
+      ]
+    }
   }
 }
