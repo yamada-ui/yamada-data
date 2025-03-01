@@ -79039,5 +79039,44 @@
     "haru-036": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-03-01": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-01T05:31:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4557",
+          "number": 4557,
+          "title": "Refactored `Progress`, `CircleProgress` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "haru-036": null,
+    "odendayoko": null,
+    "Shunii85": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-01T12:53:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4558",
+          "number": 4558,
+          "title": "Refactored `FileButton` component with new style."
+        }
+      ]
+    }
   }
 }
