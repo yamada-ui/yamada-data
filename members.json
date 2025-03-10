@@ -137,19 +137,5 @@
     },
     "x": { "url": "https://x.com/Curiosi46542428" },
     "discord": { "id": "528930667094867978" }
-  },
-  {
-    "name": { "en": "Haru", "ja": "Haru" },
-    "description": {
-      "en": "University student studying programming and design.",
-      "ja": "プログラミングとデザインを学んでいる大学生。"
-    },
-    "github": {
-      "id": "haru-036",
-      "icon": "https://avatars.githubusercontent.com/u/105186692?v=4",
-      "url": "https://github.com/haru-036"
-    },
-    "x": { "url": "https://x.com/haru_u_de" },
-    "discord": { "id": "1063410330153259078" }
   }
 ]
