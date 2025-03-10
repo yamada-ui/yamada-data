@@ -137,5 +137,19 @@
     },
     "x": { "url": "https://x.com/Curiosi46542428" },
     "discord": { "id": "528930667094867978" }
+  },
+  {
+    "name": { "en": "jougen", "ja": "じょうげん" },
+    "description": {
+      "en": "Web engineer. Focused on code readability.",
+      "ja": "Webエンジニア。コードの可読性にこだわりあり。"
+    },
+    "github": {
+      "id": "bmthd",
+      "icon": "https://avatars.githubusercontent.com/u/81406938?v=4",
+      "url": "https://github.com/bmthd"
+    },
+    "x": { "url": "https://x.com/j_ktwr" },
+    "discord": { "id": "217631628380340227" }
   }
 ]
