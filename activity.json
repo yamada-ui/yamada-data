@@ -79712,5 +79712,57 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-03-12": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-12T12:02:03Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4600",
+          "number": 4600,
+          "title": "Refactored `Carousel` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": "2025-03-12T05:43:22Z",
+          "created_at": "2025-03-12T00:00:28Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4599",
+          "number": 4599,
+          "title": "test: fix test for autosize textarea"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4599#pullrequestreview-2676999522",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4599",
+          "submitted_at": "2025-03-12T05:43:16Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4564#pullrequestreview-2677006999",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4564",
+          "submitted_at": "2025-03-12T05:45:13Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
