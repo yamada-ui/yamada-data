@@ -79783,5 +79783,53 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-03-14": {
+    "108yen": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-14T11:33:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4602",
+          "number": 4602,
+          "title": "`ReorderItem` can only be sorted down one level."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-14T11:45:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4603",
+          "number": 4603,
+          "title": "Refactored `Reorder` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-14T01:48:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4601",
+          "number": 4601,
+          "title": "Implement `QR Code` component"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
