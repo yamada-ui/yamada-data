@@ -79674,14 +79674,34 @@
   "2025-03-11": {
     "108yen": null,
     "koralle": null,
-    "chida09": null,
+    "chida09": {
+      "issues": [
+        {
+          "closed_at": "2025-03-12T12:02:09Z",
+          "created_at": "2025-03-11T23:57:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4598",
+          "number": 4598,
+          "title": "Textarea tests are failing in v2.0 branch"
+        }
+      ]
+    },
     "mei28": null,
     "illionillion": null,
     "taroj1205": null,
     "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": null,
-    "kaehehehe": null,
+    "kaehehehe": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-11T22:03:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4597",
+          "number": 4597,
+          "title": "Implement `Filter` Component"
+        }
+      ]
+    },
     "cidkumagai": null,
     "bmthd": null,
     "hirotomoyamada": {
@@ -79845,7 +79865,7 @@
     "kaehehehe": {
       "issues": [
         {
-          "closed_at": null,
+          "closed_at": "2025-03-16T06:43:19Z",
           "created_at": "2025-03-15T00:37:47Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4604",
           "number": 4604,
@@ -79854,7 +79874,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2025-03-16T06:08:51Z",
           "created_at": "2025-03-15T01:07:09Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4605",
           "number": 4605,
@@ -79876,6 +79896,158 @@
     "kurakke": null,
     "Itsuki54": null,
     "odendayoko": null,
+    "Shunii85": null
+  },
+  "2025-03-16": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4613#pullrequestreview-2688609700",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4613",
+          "submitted_at": "2025-03-16T10:40:58Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "comments": [
+        {
+          "created_at": "2025-03-16T06:00:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4605#issuecomment-2727213376",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4605"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-16T09:16:43Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4610",
+          "number": 4610,
+          "title": "Test: Update `ButtonGroup` component test for todo handling."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-16T09:33:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4614",
+          "number": 4614,
+          "title": "test: fix `button-group` tests"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4608#pullrequestreview-2688540964",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4608",
+          "submitted_at": "2025-03-16T07:17:06Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4607#pullrequestreview-2688541022",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4607",
+          "submitted_at": "2025-03-16T07:17:29Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "bmthd": {
+      "pullRequests": [
+        {
+          "closed_at": "2025-03-16T11:40:41Z",
+          "created_at": "2025-03-16T09:32:45Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4613",
+          "number": 4613,
+          "title": "Test/wrap"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-03-16T09:22:13Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4612",
+          "number": 4612,
+          "title": "Test/enhance-textarea"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-03-16T09:18:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4611",
+          "number": 4611,
+          "title": "Test/enhance-text"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-03-16T06:42:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4462#issuecomment-2727226114",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4462"
+        },
+        {
+          "created_at": "2025-03-16T06:43:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4604#issuecomment-2727226202",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4604"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-16T06:57:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4609",
+          "number": 4609,
+          "title": "Fixed `@deprecated` props and values"
+        },
+        {
+          "closed_at": "2025-03-16T07:23:35Z",
+          "created_at": "2025-03-16T06:54:07Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4608",
+          "number": 4608,
+          "title": "Renamed `isLoading` to `loading` in `useProcessing`"
+        },
+        {
+          "closed_at": "2025-03-16T07:17:41Z",
+          "created_at": "2025-03-16T06:49:56Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4607",
+          "number": 4607,
+          "title": "Updated `clip` to `clipPath` for hiding elements"
+        },
+        {
+          "closed_at": null,
+          "created_at": "2025-03-16T06:48:06Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4606",
+          "number": 4606,
+          "title": "Unified `lazy` initialization logic"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4613#pullrequestreview-2688621772",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4613",
+          "submitted_at": "2025-03-16T11:40:35Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4605#pullrequestreview-2688524773",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4605",
+          "submitted_at": "2025-03-16T06:08:42Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4547#pullrequestreview-2688718826",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4547",
+          "submitted_at": "2025-03-16T14:55:06Z"
+        }
+      ]
+    },
     "Shunii85": null
   }
 }
