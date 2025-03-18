@@ -80109,5 +80109,71 @@
         }
       ]
     }
+  },
+  "2025-03-18": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4609#pullrequestreview-2692956477",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4609",
+          "submitted_at": "2025-03-18T04:59:09Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4606#pullrequestreview-2692951277",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4606",
+          "submitted_at": "2025-03-18T04:57:28Z"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-03-18T05:51:51Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4616#issuecomment-2731752005",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4616"
+        }
+      ],
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-18T09:09:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4617",
+          "number": 4617,
+          "title": "Enhance Test Coverage for `@yamada-ui/menu`"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4614#pullrequestreview-2692951280",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4614",
+          "submitted_at": "2025-03-18T04:57:28Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4612#pullrequestreview-2692951453",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4612",
+          "submitted_at": "2025-03-18T04:57:38Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4611#pullrequestreview-2692948399",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4611",
+          "submitted_at": "2025-03-18T04:55:50Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
