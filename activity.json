@@ -80175,5 +80175,69 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-03-19": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-19T14:15:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4620",
+          "number": 4620,
+          "title": "Refactored `ColorSwatch` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-19T03:55:40Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4618",
+          "number": 4618,
+          "title": "Test: Update `Container` component test for todo handling."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2025-03-19T06:53:05Z",
+          "created_at": "2025-03-19T03:58:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4619",
+          "number": 4619,
+          "title": "test: update container component tests"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "bmthd": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4619#pullrequestreview-2696889516",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4619",
+          "submitted_at": "2025-03-19T04:42:40Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4619#pullrequestreview-2697135250",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4619",
+          "submitted_at": "2025-03-19T06:52:59Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
