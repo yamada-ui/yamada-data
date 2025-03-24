@@ -80385,5 +80385,93 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-03-24": {
+    "108yen": null,
+    "koralle": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-24T11:30:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4628",
+          "number": 4628,
+          "title": "feat: implement additional commands in v2.0"
+        }
+      ]
+    },
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/114#pullrequestreview-2709853460",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/114",
+          "submitted_at": "2025-03-24T10:18:42Z"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": {
+      "issues": [
+        {
+          "closed_at": "2025-03-24T10:19:13Z",
+          "created_at": "2025-03-24T09:35:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/issues/113",
+          "number": 113,
+          "title": "Blindness, etc. on the palette are not displayed."
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2025-03-24T10:19:12Z",
+          "created_at": "2025-03-24T10:09:48Z",
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/114",
+          "number": 114,
+          "title": "Updated PaletteColorForm and EditButton"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4627#pullrequestreview-2710513191",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4627",
+          "submitted_at": "2025-03-24T14:04:13Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4626#pullrequestreview-2709711341",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4626",
+          "submitted_at": "2025-03-24T09:30:12Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-theme/pull/74#pullrequestreview-2709716108",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-theme/pulls/74",
+          "submitted_at": "2025-03-24T09:31:57Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-components/pull/560#pullrequestreview-2709715133",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-components/pulls/560",
+          "submitted_at": "2025-03-24T09:31:36Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-colors/pull/112#pullrequestreview-2709714178",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-colors/pulls/112",
+          "submitted_at": "2025-03-24T09:31:14Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4591#pullrequestreview-2709503197",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4591",
+          "submitted_at": "2025-03-24T08:13:52Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
