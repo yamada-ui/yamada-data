@@ -80502,5 +80502,46 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-03-26": {
+    "108yen": {
+      "comments": [
+        {
+          "created_at": "2025-03-26T13:54:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4630#issuecomment-2754485646",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4630"
+        },
+        {
+          "created_at": "2025-03-26T14:25:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4617#issuecomment-2754622569",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4617"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-03-26T14:12:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4631",
+          "number": 4631,
+          "title": "Refactored `SegmentedControl` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
