@@ -81290,5 +81290,95 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-04-29": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4641#pullrequestreview-2802411930",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4641",
+          "submitted_at": "2025-04-29T07:54:26Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-04-29T07:05:26Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4641",
+          "number": 4641,
+          "title": "fix: internationalize `aria-label` within the `Stat` #4093"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-04-29T04:51:36Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4095#issuecomment-2837444575",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4095"
+        },
+        {
+          "created_at": "2025-04-29T04:51:57Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4085#issuecomment-2837444969",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4085"
+        },
+        {
+          "created_at": "2025-04-29T04:52:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4132#issuecomment-2837445475",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4132"
+        },
+        {
+          "created_at": "2025-04-29T04:52:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4135#issuecomment-2837445793",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4135"
+        },
+        {
+          "created_at": "2025-04-29T04:52:50Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4136#issuecomment-2837446041",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4136"
+        },
+        {
+          "created_at": "2025-04-29T04:53:25Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4108#issuecomment-2837446726",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4108"
+        },
+        {
+          "created_at": "2025-04-29T04:54:39Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4072#issuecomment-2837447898",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4072"
+        },
+        {
+          "created_at": "2025-04-29T04:55:41Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3948#issuecomment-2837449035",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3948"
+        },
+        {
+          "created_at": "2025-04-29T04:56:19Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4083#issuecomment-2837449944",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4083"
+        },
+        {
+          "created_at": "2025-04-29T04:56:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4082#issuecomment-2837450193",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4082"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
