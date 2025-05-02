@@ -81431,5 +81431,66 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-05-02": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4644#pullrequestreview-2811250753",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4644",
+          "submitted_at": "2025-05-02T06:17:52Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4643#pullrequestreview-2811249494",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4643",
+          "submitted_at": "2025-05-02T06:16:50Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4642#pullrequestreview-2811248787",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4642",
+          "submitted_at": "2025-05-02T06:16:15Z"
+        }
+      ]
+    },
+    "hirotomoyamada": {
+      "pullRequests": [
+        {
+          "closed_at": "2025-05-02T08:50:12Z",
+          "created_at": "2025-05-02T04:18:00Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4644",
+          "number": 4644,
+          "title": "Updated dependency versions"
+        },
+        {
+          "closed_at": "2025-05-02T08:08:58Z",
+          "created_at": "2025-05-02T03:11:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4643",
+          "number": 4643,
+          "title": "Simplified Float component props usage"
+        },
+        {
+          "closed_at": "2025-05-02T06:16:56Z",
+          "created_at": "2025-05-02T03:06:31Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4642",
+          "number": 4642,
+          "title": "Corrected component case in documentation"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
