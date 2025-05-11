@@ -81570,7 +81570,7 @@
     "kaehehehe": {
       "issues": [
         {
-          "closed_at": null,
+          "closed_at": "2025-05-07T09:44:48Z",
           "created_at": "2025-05-06T05:40:49Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4647",
           "number": 4647,
@@ -81579,7 +81579,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2025-05-07T09:44:03Z",
           "created_at": "2025-05-06T05:36:36Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4646",
           "number": 4646,
@@ -81689,6 +81689,35 @@
     "kurakke": null,
     "Itsuki54": null,
     "odendayoko": null,
+    "Shunii85": null
+  },
+  "2025-05-11": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-05-11T03:17:02Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4649",
+          "number": 4649,
+          "title": "Refactored `Indicator` component"
+        }
+      ]
+    },
     "Shunii85": null
   }
 }
