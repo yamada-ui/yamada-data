@@ -81570,7 +81570,7 @@
     "kaehehehe": {
       "issues": [
         {
-          "closed_at": "2025-05-07T09:44:48Z",
+          "closed_at": null,
           "created_at": "2025-05-06T05:40:49Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4647",
           "number": 4647,
@@ -81579,7 +81579,7 @@
       ],
       "pullRequests": [
         {
-          "closed_at": "2025-05-07T09:44:03Z",
+          "closed_at": null,
           "created_at": "2025-05-06T05:36:36Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4646",
           "number": 4646,
