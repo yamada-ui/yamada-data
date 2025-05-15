@@ -81829,5 +81829,88 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-05-15": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": {
+      "comments": [
+        {
+          "created_at": "2025-05-15T14:30:35Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#issuecomment-2884038227",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4654"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2025-05-15T15:13:22Z",
+          "created_at": "2025-05-15T04:18:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654",
+          "number": 4654,
+          "title": "feat(i18n): add translations for `password input` component"
+        }
+      ]
+    },
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-05-15T14:49:20Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#issuecomment-2884109714",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4654"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#pullrequestreview-2843438606",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4654",
+          "submitted_at": "2025-05-15T12:04:13Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#pullrequestreview-2843440167",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4654",
+          "submitted_at": "2025-05-15T12:04:45Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#pullrequestreview-2843442479",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4654",
+          "submitted_at": "2025-05-15T12:05:37Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#pullrequestreview-2843443014",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4654",
+          "submitted_at": "2025-05-15T12:05:50Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#pullrequestreview-2843446133",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4654",
+          "submitted_at": "2025-05-15T12:06:57Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#pullrequestreview-2844024197",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4654",
+          "submitted_at": "2025-05-15T14:48:04Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4653#pullrequestreview-2843431997",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4653",
+          "submitted_at": "2025-05-15T12:01:40Z"
+        }
+      ]
+    },
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
