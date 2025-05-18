@@ -81772,6 +81772,18 @@
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4648#pullrequestreview-2836587378",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4648",
           "submitted_at": "2025-05-13T12:36:47Z"
+        },
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4648#pullrequestreview-2837263277",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4648",
+          "submitted_at": "2025-05-13T15:32:13Z"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4648#pullrequestreview-2837265176",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4648",
+          "submitted_at": "2025-05-13T15:32:46Z"
         }
       ]
     },
@@ -81785,7 +81797,22 @@
     "kaehehehe": null,
     "cidkumagai": null,
     "bmthd": null,
-    "hirotomoyamada": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-05-13T17:29:04Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4648#issuecomment-2877404763",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4648"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4648#pullrequestreview-2837574782",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4648",
+          "submitted_at": "2025-05-13T17:18:47Z"
+        }
+      ]
+    },
     "kurakke": null,
     "Itsuki54": null,
     "odendayoko": null,
@@ -81809,7 +81836,7 @@
     "illionillion": {
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2025-05-15T12:01:49Z",
           "created_at": "2025-05-14T14:44:09Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4653",
           "number": 4653,
@@ -81840,6 +81867,11 @@
         {
           "created_at": "2025-05-15T14:30:35Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#issuecomment-2884038227",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4654"
+        },
+        {
+          "created_at": "2025-05-15T15:01:34Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#issuecomment-2884157430",
           "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4654"
         }
       ],
@@ -81902,6 +81934,11 @@
       ],
       "approved": [
         {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4654#pullrequestreview-2844120709",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4654",
+          "submitted_at": "2025-05-15T15:13:12Z"
+        },
+        {
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4653#pullrequestreview-2843431997",
           "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4653",
           "submitted_at": "2025-05-15T12:01:40Z"
@@ -81946,6 +81983,51 @@
     "cidkumagai": null,
     "bmthd": null,
     "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
+  },
+  "2025-05-18": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4655#pullrequestreview-2848604888",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4655",
+          "submitted_at": "2025-05-18T02:07:41Z"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "pullRequests": [
+        {
+          "closed_at": "2025-05-18T08:32:57Z",
+          "created_at": "2025-05-18T01:18:18Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4655",
+          "number": 4655,
+          "title": "test(Resizable): enable rendering test and add aria attributes to Trigger"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4655#pullrequestreview-2848818192",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4655",
+          "submitted_at": "2025-05-18T08:32:51Z"
+        }
+      ]
+    },
     "kurakke": null,
     "Itsuki54": null,
     "odendayoko": null,
