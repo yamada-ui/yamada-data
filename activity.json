@@ -82747,5 +82747,60 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-06-07": {
+    "108yen": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4676#pullrequestreview-2906790451",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4676",
+          "submitted_at": "2025-06-07T05:16:14Z"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-06-07T06:32:01Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4679",
+          "number": 4679,
+          "title": "test: update reorder component tests"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4679#pullrequestreview-2907058421",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4679",
+          "submitted_at": "2025-06-07T07:33:29Z"
+        }
+      ]
+    },
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-06-07T05:04:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4678",
+          "number": 4678,
+          "title": "Refactored `Stepper` component"
+        }
+      ]
+    },
+    "Shunii85": null
   }
 }
