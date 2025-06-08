@@ -82651,7 +82651,17 @@
     "cidkumagai": null,
     "bmthd": null,
     "hirotomoyamada": null,
-    "kurakke": null,
+    "kurakke": {
+      "issues": [
+        {
+          "closed_at": null,
+          "created_at": "2025-06-04T15:09:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4675",
+          "number": 4675,
+          "title": "Create a script to generate a per-package dependency file"
+        }
+      ]
+    },
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
@@ -82735,7 +82745,7 @@
           "title": "Added `useSplitProps` function for props management"
         },
         {
-          "closed_at": null,
+          "closed_at": "2025-06-07T15:28:42Z",
           "created_at": "2025-06-06T02:15:50Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4676",
           "number": 4676,
@@ -82762,7 +82772,7 @@
     "chida09": {
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2025-06-07T15:22:24Z",
           "created_at": "2025-06-07T06:32:01Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4679",
           "number": 4679,
@@ -82772,7 +82782,15 @@
     },
     "mei28": null,
     "illionillion": null,
-    "taroj1205": null,
+    "taroj1205": {
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4681#pullrequestreview-2907851422",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4681",
+          "submitted_at": "2025-06-07T22:50:04Z"
+        }
+      ]
+    },
     "taiseiiiii": null,
     "quantumshiro": null,
     "nathanlao": null,
@@ -82787,7 +82805,38 @@
     },
     "cidkumagai": null,
     "bmthd": null,
-    "hirotomoyamada": null,
+    "hirotomoyamada": {
+      "pullRequests": [
+        {
+          "closed_at": "2025-06-08T04:54:37Z",
+          "created_at": "2025-06-07T15:55:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4682",
+          "number": 4682,
+          "title": "Optimize focus management and event utilities in codebase"
+        },
+        {
+          "closed_at": "2025-06-08T06:29:12Z",
+          "created_at": "2025-06-07T15:48:11Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4681",
+          "number": 4681,
+          "title": "Removed unused imports and functions"
+        },
+        {
+          "closed_at": "2025-06-08T06:06:33Z",
+          "created_at": "2025-06-07T15:44:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4680",
+          "number": 4680,
+          "title": "Moved Size story in file"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4679#pullrequestreview-2907495595",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4679",
+          "submitted_at": "2025-06-07T15:22:18Z"
+        }
+      ]
+    },
     "kurakke": null,
     "Itsuki54": null,
     "odendayoko": {
@@ -82801,6 +82850,116 @@
         }
       ]
     },
+    "Shunii85": null
+  },
+  "2025-06-08": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": {
+      "pullRequests": [
+        {
+          "closed_at": "2025-06-08T05:50:39Z",
+          "created_at": "2025-06-08T00:27:10Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4683",
+          "number": 4683,
+          "title": "test: update foucs lock component test"
+        }
+      ]
+    },
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4681#pullrequestreview-2908170053",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4681",
+          "submitted_at": "2025-06-08T06:28:51Z"
+        }
+      ]
+    },
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": {
+      "comments": [
+        {
+          "created_at": "2025-06-08T05:52:29Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4067#issuecomment-2953596546",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4067"
+        },
+        {
+          "created_at": "2025-06-08T05:52:58Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4057#issuecomment-2953596686",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4057"
+        },
+        {
+          "created_at": "2025-06-08T05:53:52Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/4089#issuecomment-2953596950",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/4089"
+        },
+        {
+          "created_at": "2025-06-08T05:54:30Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3372#issuecomment-2953597127",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3372"
+        },
+        {
+          "created_at": "2025-06-08T05:54:44Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/3990#issuecomment-2953597204",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/3990"
+        },
+        {
+          "created_at": "2025-06-08T05:55:17Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/issues/1150#issuecomment-2953597339",
+          "issue_url": "https://api.github.com/repos/yamada-ui/yamada-ui/issues/1150"
+        }
+      ],
+      "reviews": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4673#pullrequestreview-2908147375",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4673",
+          "submitted_at": "2025-06-08T05:50:08Z"
+        }
+      ],
+      "pullRequests": [
+        {
+          "closed_at": "2025-06-08T05:57:29Z",
+          "created_at": "2025-06-08T05:47:53Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4685",
+          "number": 4685,
+          "title": "Reorganize and optimize prop extraction logic"
+        },
+        {
+          "closed_at": "2025-06-08T05:07:47Z",
+          "created_at": "2025-06-08T05:00:47Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4684",
+          "number": 4684,
+          "title": "Remove legacy popover and tooltip components"
+        }
+      ],
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4683#pullrequestreview-2908122246",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4683",
+          "submitted_at": "2025-06-08T04:59:43Z"
+        }
+      ]
+    },
+    "kurakke": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-06-08T14:44:24Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4686",
+          "number": 4686,
+          "title": "feat: add script to generate dependencies.json"
+        }
+      ]
+    },
+    "Itsuki54": null,
+    "odendayoko": null,
     "Shunii85": null
   }
 }
