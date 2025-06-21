@@ -83312,5 +83312,34 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-06-21": {
+    "108yen": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-06-21T06:30:21Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4695",
+          "number": 4695,
+          "title": "Refactored `Menu`, `ContextMenu` component"
+        }
+      ]
+    },
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
