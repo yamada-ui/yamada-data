@@ -83487,5 +83487,34 @@
     "Itsuki54": null,
     "odendayoko": null,
     "Shunii85": null
+  },
+  "2025-06-25": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": {
+      "pullRequests": [
+        {
+          "closed_at": null,
+          "created_at": "2025-06-25T13:37:46Z",
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4696",
+          "number": 4696,
+          "title": "Added default values to the Custum hooks Props used in the component."
+        }
+      ]
+    },
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
   }
 }
