@@ -83503,7 +83503,7 @@
     "bmthd": {
       "pullRequests": [
         {
-          "closed_at": "2025-06-25T16:16:39Z",
+          "closed_at": null,
           "created_at": "2025-06-25T13:37:46Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4696",
           "number": 4696,
@@ -83511,15 +83511,7 @@
         }
       ]
     },
-    "hirotomoyamada": {
-      "approved": [
-        {
-          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4696#pullrequestreview-2958800495",
-          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4696",
-          "submitted_at": "2025-06-25T16:04:59Z"
-        }
-      ]
-    },
+    "hirotomoyamada": null,
     "kurakke": null,
     "Itsuki54": null,
     "odendayoko": null,
