@@ -83503,7 +83503,7 @@
     "bmthd": {
       "pullRequests": [
         {
-          "closed_at": null,
+          "closed_at": "2025-06-25T16:16:39Z",
           "created_at": "2025-06-25T13:37:46Z",
           "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4696",
           "number": 4696,
@@ -83511,7 +83511,15 @@
         }
       ]
     },
-    "hirotomoyamada": null,
+    "hirotomoyamada": {
+      "approved": [
+        {
+          "html_url": "https://github.com/yamada-ui/yamada-ui/pull/4696#pullrequestreview-2958800495",
+          "pull_request_url": "https://api.github.com/repos/yamada-ui/yamada-ui/pulls/4696",
+          "submitted_at": "2025-06-25T16:04:59Z"
+        }
+      ]
+    },
     "kurakke": null,
     "Itsuki54": null,
     "odendayoko": null,
@@ -83556,6 +83564,25 @@
     "Shunii85": null
   },
   "2025-06-28": {
+    "108yen": null,
+    "koralle": null,
+    "chida09": null,
+    "mei28": null,
+    "illionillion": null,
+    "taroj1205": null,
+    "taiseiiiii": null,
+    "quantumshiro": null,
+    "nathanlao": null,
+    "kaehehehe": null,
+    "cidkumagai": null,
+    "bmthd": null,
+    "hirotomoyamada": null,
+    "kurakke": null,
+    "Itsuki54": null,
+    "odendayoko": null,
+    "Shunii85": null
+  },
+  "2025-06-29": {
     "108yen": null,
     "koralle": null,
     "chida09": null,
