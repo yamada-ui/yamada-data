@@ -1,8 +1,0 @@
-{
-  "issue": {
-    "clearAssignees": "Hi, Thanks for the working on this issue!\n\nWe will return this issue assignment to initial state.\nIf you are working on this issue and would like to be reassigned, please contact us."
-  },
-  "pullRequest": {
-    "joinMaintainer": "Hi, Thanks for the PR!\n\nA week has passed since this PR was created, so maintainers will be joining this PR."
-  }
-}
